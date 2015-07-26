@@ -1,0 +1,27 @@
+﻿
+#################日常备份######################################
+1. 数据库备份 FTP ==> 数据库文件备份 E:\workspace\Vincent_DBbackup；
+   -->Tokyo FTP
+   -->USA FTP
+2. SVN ==> E:\workspace\Vinncent_docSVN
+4. RAR ==> E:\workspace\Vinncent_doc
+(不需要)5. Lockdir ==> E:\workspace\Vinncent_doc\财务统计(B类)
+   --> 月底统计后马上备份;平时就不再备份了;
+6. code ==> E:\workspace  下面各个项目的code
+
+
+
+##############移动硬盘#######################################
+1. E:\outlook (里面pst文件)   1.8G
+2. E:\workspace   9.9G
+   -- 一个一个的文件复制
+   --> _old 除外
+   -- 先清理 Vincent_DBbackup 留最近的3个版本;
+2. E:\workspace\Vinncent_doc
+   --> 照片除外
+3. F:\Vincent\  重复的照片不用copy；
+
+**********移动硬盘备份记录******************************
+☆ 2013-7-4 备份
+
+

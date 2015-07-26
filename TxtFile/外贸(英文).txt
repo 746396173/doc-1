@@ -1,0 +1,1019 @@
+
+-----------------Paypal 退款问题----------------------------------
+L4850
+
+Transaction ID # 6YP38659FS412253V
+
+Seller Protection  Not Eligible
+
+
+
+
+
+About 'Transaction ID # 6YP38659FS412253V':
+1. we have sent the products to the customer and uploaded the tracking number on PayPal page. 
+2. The result, the customer did not return the product to us, and got the full refund. 
+
+
+For all the 'Seller Protection  Not Eligible' payment,
+should we give the customer a full refund directly? 
+
+Is there any way to protect the interests of the seller?
+
+
+
+----------------------------------------------------
+
+购物流程
+
+
+发货时间 / 退换规则
+
+
+定制产品  模组 1~10pcs  2~5天  10~50pcs 3~7天  >50pcs 联系我们
+          dpss 3~15 days
+一般产品  零售 / 批发 1~3天
+
+
+
+
+-----------------信用卡欺诈列表----------------------------------
+
+信用卡欺诈 
+信用卡诈骗
+信用卡盗用
+
+以下客户存在盗用别人信用卡购物的嫌疑;
+都是通过网上购物,用信用卡付款, 等收到产品后, 再由持卡人申请退款.理由是: 未授权支付
+
+客户资料已经提交当地警方, 信用卡信息提交信用卡协会调查;
+
+Credit card fraud
+Credit card theft
+http://en.wikipedia.org/wiki/Credit_card_fraud
+
+
+Following guys use other personal's Credit card purchase on line. 
+After they received the products, 
+
+
+
+
+-------------------alipay 支付宝 交易冻结--------------------------
+2015-6-1
+拒付档号：5086V023
+拒付金额$:137
+拒付原因:没有授权交易
+订单号(BIP商户后台对应unique id):
+支付宝交易号:2014122121001004390043024366
+接受拒付（客户必填）：
+备注：
+
+
+
+
+如果买家有意盗取别人的信用卡, 直接联系他是没有用的; 
+
+盗用的信用卡能成功付款, 应该也是支付宝风控的失职;(查信用卡是否有不良记录;   查持卡人和收件人信息是否一致, 应该都是风控的主要工作)
+
+现在能不能这样: 
+1.	支付宝方面整理一下美国当地关于信用卡盗刷的报警方式.  报警电话/网络报警方式/当地社区的报警联系方式;
+2.	我们联系买家,看能不能让买家重新付款.  如果不行, 我们还可以报警. 
+
+
+
+我们根据客户留的地址及时发货, UPS系统显示包裹已经签收.
+客户也没有任何投诉包裹没收到, 产品质量有问题;
+这种情况仲裁会败诉吗?  
+如果是别人恶意盗用持卡人的信用卡来购物, 谁应该承担责任? 
+
+
+------------------------------
+2015-5-20
+
+交易明细:
+----------------------------------------
+订单号(Payon平台对应unique id)：4140
+支付宝交易号：2015022321001004100094524249	
+拒付理由：没有授权交易	
+拒付金额$：166.47
+----------------------------------------
+
+
+申述:
+包裹已经正常签收,客户没有任何纠纷,我方拒绝退款!
+2月份的交易, 过了近3个月再提出交易冻结,货物客户早就收到;
+如果都这样,客户可以没有期限的,等收到货物, 随时想退就退款,商家就得赔死;
+希望Alipay能提供合理的退款处理流程,同时保护商家和买家的合法利益;
+
+
+交易过程:
+1. 2015-2-22 客户通过Alipay平台付款成功;
+Payment Method:	Alipay Credit Card Payment: visa
+
+
+2. 客户资料:
+Shipping Address:
+Mike heathcote 
+15955 106a Ave
+Edmonton, Alberta T5P0X4
+Canada
+
+Tel: 7804051483
+E-Mail Address:	inthesky6365@gmail.com
+IP Address:	68.151.54.197 - 68.151.54.197
+
+3. 包裹签收
+www.ups.com
+Tracking number: 1Z31E0F96797804563
+签收日期:  Delivered On: Friday, 06/03/2015 at 2:09 P.M.
+
+
+
+
+
+
+--------------------paypal--------------------------
+
+Recently I received a number of payments failed emails, anyone can help me? 
+tell me what's the root reason and how to fix it? Thanks in advance!
+
+
+
+
+
+1. 2015-5-20
+Title: ALERT: PayPal Express Checkout Error (10486) 
+Content: 10486  This transaction couldn't be completed. - This transaction couldn't be completed. Please redirect your customer to PayPal. 
+From : www.civillaser.com
+(Last success payment: 2015-5-18)
+
+
+2. 2015-5-18
+Title:MODULE_PAYMENT_PAYPALWPP_TEXT_EMAIL_ERROR_SUBJECT (10419)
+Content: 10486  This transaction couldn't be completed. - This transaction couldn't be completed. Please redirect your customer to PayPal. 
+From: www.jp.civillaser.com
+(Last success payment: 2015-5-19)
+
+Note: we have tested our webstore, and found our pages can junped to PayPal site.
+
+
+
+-----> 回复
+Dear chen shuijun,
+I understand from your email that you would like to know why few of your buyers are unable to make payment.
+For this issue, I have looked into your transactions and I can see that there are some payment which is showing as denied but the root of the cause if from the buyers end whereby their card issuer is declining payment upon being captured.
+Alternatively if you can provide us with email address of the buyers involved we would be able to see if there is any issue from our end and would like to know if you have done any changes in your website recently?
+Meanwhile I highly appreciate your kind patience and understanding in resolving this issue.
+Thanks again, for being a valued member of PayPal. Please know, should you need us, we can always be reached at apac-bizsupport@paypal.com.
+Regards,
+Thinakaran
+PayPal, an eBay Company
+Copyright © 2015 PayPal. All rights reserved.
+Consumer advisory: PayPal Pte Ltd, the Holder of the PayPal™ payment service stored value facility, does not require the approval of the Monetary Authority of Singapore. Consumers (users) are advised to read the terms and conditions carefully.
+
+
+-----------绿光 1w 客户投诉------------------------------
+
+I'm the manager of LuckLaser.
+
+Really so sorry for this issue!
+
+As we know, the realy output 1000mw/1W gree laser need $900~$1500/pcs.
+and Very rare on the market such products. 
+1. Too expensive.
+2. Too high output power as a green laser, easy burn out.
+
+Compared with other seller, the same output power laser, our laser is still cheap.
+
+
+Any way, so sorry again.
+I have three suggestions about this case:
+1. According to PayPal's rules.
+   You return all the products to us, we give a full refund to you.
+
+2. You keep the laser, we give $80 refund to you.
+
+3. We give the big discount for other products, and give a gift to you if you purchase from us.
+e.g.
+http://www.lucklaser.com/-p-31.html  2w blue laser with laser sword
+-- Original price: $139/pcs
+-- Now: $89/pcs
+-- Gift: GOGGLE GLASS(http://www.lucklaser.com/-p-72.html)  or a gree laser (http://www.lucklaser.com/-p-163.html)
+
+
+I am looking forward to hearing from you.
+
+Best regards
+Vincent Chen
+
+
+
+-----------1w 说明------------------------------
+
+Recommend:
+This 800mw green laser pointer;
+(Please check the below YouTube, 800mw green laser taken in kind.)
+
+
+Note:
+1. Please check the below YouTube, this green laser taken in kind.
+   The laser beam is very strong!
+
+2. For researcher use it in the laboratory, Recommend another green laser pointer.
+  Recommend: http://www.lucklaser.com/-p-171.html
+  It's no ir loss, but it's expensive.
+
+
+
+-----------------------------------
+Fiber-coupled laser features:
+1. The length of fiber can be customized.
+2. You can change the direction of the laser beam, it can be applied to a variety of occasions venue.
+3. Laser spot is circular, uniform illumination.
+4. The laser fiber can be installed at the exit of the collimator lens care area to adjust the size, large or small.
+
+Note:
+The output power of the laser fiber-coupled is marked before the power coupling, the coupling efficiency is generally 80%.
+e.g. a 3W fiber-coupled laser,the real output power is 2.4W.
+
+-----------
+
+CivilLaser Custom fiber price list:
+(Note: This list only for the output power <2W.)
+
+
+-----------------------------------
+1. 今天收到google的邮件,我们的一个网站被禁止做广告了;
+Display URL: lucklaser.com
+Policy violation: Weapons
+
+2. 不清楚具体是哪个产品违反了google的政策?
+
+3. 我们自己查看没有任何武器类的产品; 
+
+
+4. 同类产品网站在google ads都能正常展示:
+www.laserpointerpro.com
+www.biglasers.com
+laserpointer.miniinthebox.com
+
+5. 要如何才能恢复lucklaser.com的广告?
+ 要删除哪些产品? 
+
+
+2015-5-7-->
+我们全部检查了一遍产品;
+把打斗的图片替换掉了;
+去掉了:burning laser, laser sword, burn match, extreme bright, hunting tool 描述
+
+请帮我们提交一下重新审核, 万分感谢!!
+(如果还有问题,最好能告诉我们具体的原因:哪几个或哪一类产品有问题)
+
+-----------------------------------
+请教个问题啊!!
+
+我的一个日文站用google analytics分析流量时, 发现大部分是英文站的广告系列带来的;这些英文站的广告没有指向我这个日文站的;
+这个是什么原因你知道吗?
+
+具体的:
+1. 用google analytics 分析 jp.civillaser.com 流量;
+2. 进:流量获取--Adwords--展示广告网络定位;
+3. 发现大部分来源是:LuckLaser(图片)；　
+4. LuckLaser(图片) 这个广告系列指向的网站是: lucklaser.com;
+5. 问题: jp.civillaser.com的流量来源, 怎么会是 LuckLaser(图片) 这个广告系列? 
+
+其他: 
+1. 流量获取--搜索引擎优化--查询; 这里查询的结果也是 英文关键字; 
+   日文站的流量, 怎么会通过英文关键字来? 
+
+============================================
+PayPal 纠纷:
+L4217
+
+#7T95042225308381J
+Tracking Number: LN792830779CN  (www.ems.com.cn)
+
+1. Customer got the product on April 6, 2015.
+2. Customer didn't like it and asked a full refund. 
+   (we have tested it before send to customer, and it worked well. so there is no quality issue.)
+3. Customer should return the product to us.
+
+Now, we have not get the return parcel. but the customer wanted we give him $200 return shipping fee. 
+he got the parcle, and he wanted $200 shipping fee, and he asked the full refund!!!
+
+(The parcel is 1.16kg, the shipping fee is 99.96RMB($16), please check the LN792830779CN.jpg.)
+
+we think we meet such an unreasonable person.
+Only we can do is that after we get the return parcel, we give the full refund.
+we bear our shipping fee. 
+customer bear his shipping fee.
+
+
+
+
+
+
+=============================发货时间 定制产品发货时间======================================
+Production time of the Customized products 
+Normally, we need several days to produce the customized products.
+Laser Modules: 3~5 working days
+DPSS Laser: 3~15 working days
+If there are special requirements on time, please contact us!
+
+
+=============================eub 很久没更新记录======================================
+
+http://www.ems.com.cn/english.html     Tracking number:   LN792830779CN 
+The express company staff said there are many parcels be delayed, 
+and now the parcels are on the way,  
+but not give us more detail message, 
+we will continue to follow up this case.
+
+
+
+
+---------纠纷 66200632658323 (仲裁案件号：4007140188)---------------------
+定制的产品平台处理纠纷比较费劲, 我们解释一下
+
+纠纷原因: 
+客户说收到的产品和描述不符;
+
+客户的理由:
+他想要线型(Line)的, 但他收到的产品是点状(Dot)的;
+
+实际情况:
+我们的产品属性,和产品描述中都注明了是点状(Dot)的;--详细见产品描述;
+在描述中有提到,可以定制线型(Line)的;但客户在下单时,没有注明定制需求,我们就按默认的属性(Dot)做;
+
+
+我们的处理建议:
+客户把产品退回给我们,我们免费给他重新定制;
+Please return it to us, we support free alteration.
+
+
+其他建议:
+速卖通系统上让商家加自定义属性就好了, 类似 颜色:红色/蓝色/...; 形状: 点状/线型/...
+
+
+
+
+
+
+
+
+
+----------模组保修回复-----------------
+
+Laser Module does not like other product, it's the easily damaged product.
+If it be connected to the high voltage, it is immediately burned.
+If it cotinue working long time, without good cooling measures, also easily lead to burnout.
+Unfortunately, we can not control the user's actions.
+
+warranty:bi
+In 7 Days: Free exchange new one.
+In 1 Month: Free repair. (Except: burn out)
+In 1 Year: Repair. (Need repairs fee)
+
+
+----------巴西UPS问题-----------------
+
+UPS staff said this parcle will  be returned to us tomorrow. 
+because according to the  Brazil government's new requirements, 
+all parcels need to provide the proof of payment and the the recipient's personal tax number.
+
+After we get the return parcel, we will try to use EMS and send it again. 
+If that does not work, please provid your tax ID.
+
+
+---------------------------
+
+Dear frank montoya,
+
+Do you still need this laser?
+
+--Gift:A 200mw green laser(Paid During: Feb. 13th to Feb. 23th)
+
+
+
+--------------------------------
+
+Would you please extend the shipping time?
+
+
+
+
+Chinese New Year Holiday Notice 
+
+[The Chinese Spring Festival]
+From:  Feb. 13th,2015
+To:    Feb. 23th,2015
+
+1. Accept new orders during the holiday.
+2. Response all the emails in 12 hours.
+3. Pause the online live-chat service.
+4. We will send out the products starting Feb. 24th, 2015.
+
+www.civillaser.com
+Sales Manager:Vincent Chen
+----------------------------------------------
+
+
+
+
+
+
+2015-2-9 
+房价通知
+
+2.13~2.23 中国新年放假;
+1. 接受订单;(放假期间的订单送绿光笔)
+2. 邮件问题 12h小时内回复;
+3. 暂停 在线客服;
+4. 所有新的订单统一在2.24开始发货;
+
+订单时间  订单金额  赠送礼品
+<$50 送绿光笔形
+>%50 送绿光手电
+
+
+Chinese New Year Holiday Notice 
+
+[The Chinese Spring Festival]
+From:  Feb. 13th,2015
+To:    Feb. 23th,2015
+
+1. Accept new orders during the holiday.(Gift: green laser pointer)
+2. Response all the emails in 12 hours.
+3. Pause the online live-chat service.
+4. We will send out the products starting Feb. 24th, 2015.
+
+You will get a gift if you purchase lasers from us durning the holiday.
+Order Time / Order Amount / Gift 
+
+
+
+
+
+L/C
+LJ/CJ/H/
+
+
+
+放假通知：
+【年末年始休暇のお知らせ】 
+期間：2011/12/29（木） ～ 2012/1/4（火）
+12/28（水） PM2：00までのご注文を休暇前の最終出荷とさせていただきます。
+入荷待ち商品を含む場合には、商品入荷次第の出荷となります。
+
+
+
+**********************************************************************************
+
+
+
+放假通知：
+2012-1-21 至 2012-1-28 中国EMS快递员新年放假。
+期间本站只接受订单，不发货。所有订单2012-1-29开始发货。
+感情您的关照！
+
+日语译文
+--------------------------------------------------------------------------------
+休みのお知らせ：
+2012-1-21 から 2012-1-28まで、中国においてEMS速達作業員は旧正月の休みに入ります。
+その間、注文を相変わらず受け取りますが、発送はいたしかねます。すべての注文に対して、2012-1-29から配達を手配いたします。
+ご愛顧ありがとうございました。
+---------------------------------------------------------------------------------
+
+
+
+
+----------------------------------------
+
+是不是到时间,可以退押金了?
+
+支付宝企业版  不可用余额10000
+账户: vincent.wholesale@gmail.com
+名称:　杭州常果工业产品设计有限公司
+
+转为可用余额后，我们会转到其他支付宝账户；
+并注销这个账户；
+
+
+
+
+
+
+
+
+
+---------------------------------
+Respected VIP,
+
+You should have a really power laser pointer.
+
+You deserve a really powerful laser pointer.
+
+Who wouldn't enjoy admiring the beautiful laser beam. 
+
+
+
+
+---------------------------------
+We recommend that remove the silver screw safety key when you are not using the laser.
+Those who are unfamiliar with powerful laser, this safety key can  stop them using it.
+
+
+---------------------------------------------
+
+Hi Moklis Ali,
+
+we found there are several orders from you, thank you very much for shopping with us!
+
+
+Can you add three positive reviews for these transaction?
+We would much appreciate it if you could do us that favour.	
+And we will send some gifts to you(laser pen or professional laser goggles) or give you the big discount when you next time coming.  
+
+
+Our webstore(CivilLaser): http://www.aliexpress.com/store/1333902 
+My orders --> Feedback --> Manage Feedback
+
+
+Best wishes,
+Vincent Chen
+
+
+------------------------------------------------------------------
+
+
+1. Please make sure the power of the battery is full. 
+2. we can't send battery by air parcel, and you can find 'battery not include' on the product description page. 
+3. It began to sell from 2012, there are thousands of USA customers, and all other customers can use our charger in USA. 
+4. If you don't want to keep this product, please return it to us. 
+
+
+--------------------催好评 Aliexpress----------------------------
+
+Thanks for your shopping with us!  Cost-effective laser products -- CivilLaser
+
+Please add a positive review for this transaction. Please help! Thank you in advance! -- Vincent (Civillaser)
+
+------------------------
+全固态半导体激光器
+-- DPSS 
+
+
+
+激光器
+
+
+半导体泵浦固体激光器
+-- Diode Pump Solid State Laser
+
+半导体激光器
+-- Semiconductor laser
+
+
+光纤耦合输出激光器
+
+---------催付款----------------------
+
+Hi, we have kept your order. (Most powerful 2w laser pointer with a cool laser sword).
+
+Do you still need this most powerful laser pointer with a cool laser sword(laser sword is free this month)?
+
+Do you still need this item?
+
+商品の在庫がある、本日出荷する
+
+Do you still need this order?
+
+Do you still need this most powerful laser pointer?
+
+------------------------------------------------------------
+
+This blue lasers are in stock, fast shipping(In 24 hours). 
+--------------------------------
+Thank you very much for your time!
+we do "Full Refund" for this order, please check the below screen shot.
+www + lucklaser.com/images2/L1923.jpg
+
+
+Any way, Apply to PayPal for a full refund is your right! 
+And PayPal will protect the interests of buyers, and any disputes can lodge a complaint to PayPal.  
+
+
+
+
+Please don't worry about customs inspection,Us/Australia/United Kingdom/xxxx is one of our major markets, and we have many years of expertise in the trade.
+
+Any way, We will bear all risks during transportation. 
+If you do not receive the products or the products have any quality problems, we will resend a new one to you or give you a full refund.
+
+Note:
+We use PayPal as our payment tool. And PayPal will protect the interests of buyers, and any disputes can lodge a complaint to PayPal.
+
+In a world, We ensure that our customers need not take any risks! 
+--------------------------------------
+
+Please check the the eariler Email(the tracking number Email), we have noticed it.
+
+-----In the tracing number Email-----------------------------------------------------------------------
+
+2. Ignore the below announce, and don't worry about the laser's real output power,the real power has not changed, show 1mw on the invoice paper just for easy pass some country's customs.
+
+'★According to the customer's special request, the output power of this laser pointer has been customized to become a safety laser ( 1mw ).★'
+
+----------------------------------------------------------------------------
+
+so please don't worry about the output power, Any way, why not turn on the laser, weak laser beam or strong laser beam, just look at it.
+
+Best wishes,
+Vincent Chen
+
+
+--------------------------------------
+
+I'm so sorry to tell you that, your parcel be resent because of the battery issue.
+
+Due to the MH370 accident, airline express company and post office have currently banned the LI-ION batteries shipment, 
+so we have to remove all the batteries, sorry about this!
+
+New Tracking Number: 6208391195
+www.dhl.com 
+
+
+----------------------------------------------------------------------------------------------
+
+So sorry for the battery issue!
+
+2 x 16340 batteries for this 2w blue laser;
+http://www.lucklaser.com/16340-liion-rechargeable-battery-p-150.html
+
+Due to the MH370 accident, airline express company and post office have currently banned the LI-ION batteries shipment, 
+so we have to remove all the batteries.
+
+We have updated all the products description pages, and notice that the battery does not include. 
+
+
+Please search "16340 battery" on following webstore:
+1. www.ebay.com
+2. www.amazon.com
+
+
+Best wishes,
+Vincent Chen
+
+---------------------------------------------------------------------------------------------
+Hi Guy,I have got this 2000mw 445nm blue laser pointer from LuckLaser last week. 
+Quickly shipment ! Super quality ! Very beautiful laser beam,like a lightsaber!
+It's fantastic! the light beam is actually visible during the day and more at night.
+
+
+
+http://youtu.be/Skflo_SFdjo
+
+
+http://www.lucklaser.com/445nm-1w2w-ultra-powerful-blue-laser-flashlight-focusable-p-31.html
+
+
+name:duglaser  site ps: dugmiller/
+
+
+
+-----------------------------------------------------------
+
+
+http://laserpointerforums.com/f45/532nm-500mw-laser-lucklaser-com-66915.html
+
+<a rel="nofollow" href="http://lazerer.com/Green_Laser_Pointer?product_id=135" target="_blank"><img src="http://lazerer.com/image/data/Blue/WF473_2.jpg" border="0" alt=""></a>
+
+
+http://www.lucklaser.com/500mw1000mw-most-powerful-green-laser-best-burning-green-laser-beam-p-114.html
+
+
+http://youtu.be/_oDeiXHcrxk
+
+
+http://www.lucklaser.com/images/most%20powerful%20gareen%20laser.jpg
+
+
+we have got a 500mw green laser pointer from LuckLaser.com, it's a true super power laser,  fast shipping & batteries include,  I am very satisfied.
+
+I have bought a 2w blue laser pointer from another website, after 20 days I got it, Unfortunately there was no battery, I needed to wait extra 15 days to buy two batteries from Amazon. 
+
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+There are different types of accounts that we offer that we can tailor to your business needs.
+
+
+-----------------
+It's Chinese traditional Spring Festival now,We will begin shipping from February 6,2014.
+(You will get a 100mw red laser pen as a gift.)
+-----------------------------------
+
+This product is in stock. We can fast shipping.
+
+------------------------------
+
+January 28th, 2014
+
+**********Holiday notice**********
+
+The Chinese traditional Spring Festival is coming. 
+We will have a vacation from January 28,2014 to February 5, 2014.
+
+1. During the holiday,we accept new orders and response all the email questions. 
+2. We will begin shipping from February 6,2014.
+3. All the customers will get a 100mw red laser pointer as a gift.(Paid the order durning the holiday.)
+
+
+
+*************************
+
+
+
+---------------------------------
+The Chinese traditional Spring Festival is coming. 
+If you can pay before January 28,2014, we can fast shipping the goods to you or we will come back after holiday(February 5, 2014)
+
+
+
+------------------------------------
+
+tnt usa 美国
+
+TNT customer service Tel: 1 800 558 5555 
+http://www.tnt.com/feedback/feedbackInitial.do?navigation=1&respLang=en&respCountry=us
+
+
+
+
+We have got a notice from TNT about failed to deliver the parcel to you. 
+
+Tracking number: xxxxxx
+https://www.tnt.com/ 
+
+
+
+Please contact TNT customer service by yourself as soon as possible!
+(If nobody sign for your package, it will be returned to China, in this case, customer should  bear some shipping fee.)
+
+
+Below you can find TNT's contact information: 
+**************************************************************************
+TNT customer service Tel: 1 800 558 5555 
+http://www.tnt.com/feedback/feedbackInitial.do?navigation=1&respLang=en&respCountry=us
+**************************************************************************
+
+------------------------------
+
+800 558 5555
+We have got a notice from USPS about failed to deliver the parcel to you. 
+
+Tracking number: xxxxxx
+https://www.usps.com/ 
+(The parcel is from China EMS, when the parcel arrives at USA, USPS will deliver it to customer.)
+
+
+Please contact USPS customer service by yourself as soon as possible!
+(If nobody sign for your package, it will be returned to China, in this case, customer should  bear some shipping fee.)
+
+
+Below you can find USPS's contact information: 
+**************************************************************************
+Domestic General Information  (Working time) Call 1-800-ASK-USPS  (1-800-275-8777) 
+For Federal Relay (TDD/TTY), please call: 1-800-877-8339 Monday - Friday 8 AM - 8:30 PM ET Saturday 8 AM - 6 PM ET
+
+Or find a contact from this following link:
+https://www.usps.com/customer-service/customer-service.htm
+**************************************************************************
+
+
+Tracking number: xxxxxx
+https://www.usps.com/ 
+(The parcel is from China EMS, when the parcel arrives at USA, USPS will deliver it to customer.)
+
+We have got a notice from USPS about failed to deliver the parcel to you. 
+
+Please contact USPS customer service by yourself as soon as possible!
+(If nobody sign for your package, it will be returned to China, in this case, customer should  bear some shipping fee.)
+
+
+Below you can find USPS's contact information: 
+**************************************************************************
+Domestic General Information  (Working time) Call 1-800-ASK-USPS  (1-800-275-8777) 
+For Federal Relay (TDD/TTY), please call: 1-800-877-8339 Monday - Friday 8 AM - 8:30 PM ET Saturday 8 AM - 6 PM ET
+
+Or find a contact from this following link:
+https://www.usps.com/customer-service/customer-service.htm
+**************************************************************************
+
+
+-------------------------------
+
+※Service Time※
+1. We will send the products to customer within 48 hours. (Not include made-to-order products)
+2. Domestic 7 x 24 hours powerful support services, fast response to foreign customers  within 24 hours.
+3. Be responsible for customer's call back regularly, new requirements and problem solving.
+
+
+※Shipping & Returns※
+<a href="http://www.lucklaser.com/shippinginfo.html" target="_blank">Shipping & Returns </a>
+<a href="http://www.lucklaser.com/estimated-delivery-time-ezp-16.html" target="_blank">Estimated Delivery Time</a>
+
+※Payment※
+<a href="http://www.lucklaser.com/payment-shipping-ezp-8.html" target="_blank">Payment steps</a>
+
+※Customs※
+About customs inspection, We will bear all risks during transportation. 
+If you do not receive the products or the products have any quality problems, we will resend a new one to you or give you a full refund.
+In a world, We ensure that our customers need not take any risks! 
+
+※Tariff※
+When buying large quantities, may produce tariffs (Small tariff). Customers should bear the tariff.
+
+※Law※
+Please act according to your local laws and regulations, legal possession and use of laser products.
+Any legal issues, laser caused the accident, Lucklaser will not bear any responsibility.
+
+※Warning※
+1. Never look directly into the laser beam. 
+2. Never point a laser beam at a person. 
+3. Do not aim the laser at reflective surfaces. 
+4. Do not allow children to use laser pointers unless under the supervision of an adult. 
+
+
+
+
+--------------1/2-------------------------------------
+This blue 2w laser is in stock, we can fast shipping.
+
+These lasers are in stock, we can fast shipping.
+
+This product is in stock. we can fast shipping. 
+
+在庫がある
+
+
+------------------3/4/5/5---------------------------------
+
+Do I need to keep your order? :D
+
+
+Do you still need this blue 2w laser?
+1. It's in stock.
+2. Free shipping.
+
+これはまだ要りますか？
+1. 在庫がある
+2. 送料無料
+
+Do you still need this order?
+(It's in stock.) 
+在庫がある
+
+
+Do you still need this order?
+(It's made-to-order product.)
+
+----------------------6/7-----------------------------
+Do you still need this blue 2w laser?
+(It's in stock.)  
+Your order will be closed after 24 hours! 
+
+Do you still need this order?
+(It's in stock.)  
+Your order will be closed after 24 hours! 
+
+
+
+
+Link code:
+-------------------------------------------------------
+Newest Laser Pointers
+
+
+
+
+<div class="recommand-keywords">
+<a href="xxxxx" title="astronomy laser pointer" target="_blank"><span>astronomy laser pointer</span></a>
+<a href="xxxxxxxxx" title="laser pointer reviews" target="_blank"><span>laser pointer reviews</span></a>
+<a href="xxxxxxxxx" title="laser pointer 100mw" target="_blank"><span>laser pointer 100mw</span></a>
+<a href="xxxxxxxxx" title="infrared laser" target="_blank"><span>infrared laser</span></a>
+<a href="xxxxxxxxx" title="5mw laser" target="_blank"><span>5mw laser</span></a>
+<a href="xxxxxxxxx" title="xxxxxxx" target="_blank"><span>xxxxxxx</span></a>
+<a href="xxxxxxxxx" title="xxxxxxx" target="_blank"><span>xxxxxxx</span></a>
+<a href="xxxxxxxxx" title="xxxxxxx" target="_blank"><span>xxxxxxx</span></a>
+<a href="xxxxxxxxx" title="xxxxxxx" target="_blank"><span>xxxxxxx</span></a>
+<a href="xxxxxxxxx" title="xxxxxxx" target="_blank"><span>xxxxxxx</span></a>
+<a href="xxxxxxxxx" title="xxxxxxx" target="_blank"><span>xxxxxxx</span></a>
+<a href="xxxxxxxxx" title="xxxxxxx" target="_blank"><span>xxxxxxx</span></a>
+</div>
+
+
+
+<div class="recommand-keywords">
+<h2>Laser Module</h2>
+<a href="xxxxx" title="xxxxx" target="_blank"><span>xxxx</span></a>
+</div>
+
+
+<div class="recommand-keywords">
+<h2>Laser Diode</h2>
+<a href="xxxxx" title="xxxxx" target="_blank"><span>xxxx</span></a>
+</div>
+
+
+<div class="recommand-keywords">
+<h2>Laser Sight</h2>
+<a href="xxxxx" title="xxxxx" target="_blank"><span>xxxx</span></a>
+</div>
+
+
+<div class="recommand-keywords">
+<h2>DPSS Laser</h2>
+<a href="xxxxx" title="xxxxx" target="_blank"><span>xxxx</span></a>
+</div>
+
+
+
+
+
+<a href="xxxxxxxxx" title="xxxxxxx" target="_blank"><span>xxxxxxx</span></a>
+
+
+
+
+高功率 防护眼镜 是需要的
+
+ -- High output power laser beam, Safety glasses is necessary!
+
+ Present "Safety glasses"
+
+ Sales promotion: August 1,2013 ~ August 30,2013
+
+******************************没有电池********************************************
+Not include battery. (Lithium battery could not be carried  for safety of flight. )
+
+International Air Express rule:  Lithium battery is prohibited to carry.
+
+Please prepare the battery by youself. 
+On every product detail page you can find the corresponding battery model. 
+
+
+国际快递 电池禁止
+
+******************************春节 放假********************************************
+
+USPS service
+
+Below you can find USPS's contact information: 
+**************************************************************************
+Domestic General Information  (Working time) Call 1-800-ASK-USPS  (1-800-275-8777) 
+For Federal Relay (TDD/TTY), please call: 1-800-877-8339 Monday - Friday 8 AM - 8:30 PM ET Saturday 8 AM - 6 PM ET
+
+Or find a contact from this following link:
+https://www.usps.com/customer-service/customer-service.htm
+**************************************************************************
+
+这个件麻烦联系下收件人当地。未妥投
+当地电话美国（USA）： 0013035749647   (+1 800) 222 1811
+
+**********************************************************
+
+We are in Chinese New Year holiday, all the factories are closing. We will start work on February 18, 2013.
+
+Name：
+Kelly Mangerich Atkins
+Elizabeth Bland
+
+
+------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+Roberto Cuesta
+
+
+Lancheros Glolan
+
+----------------------------

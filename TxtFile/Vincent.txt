@@ -1,0 +1,2658 @@
+﻿
+
+
+
+============2015-7-23 19楼 招聘=======================================
+
+
+招聘外贸业务助理员. 
+
+基本要求:
+1. 为人正派;
+2. 品貌端正; 
+
+技能要求: 
+1. 英语3级及以上 或  日语3级及以上;
+2. 熟悉电脑操作;
+3. 善于沟通;  
+
+
+
+
+
+
+
+===================================================
+
+2015-7-22
+bing shopping ads 和  product ads
+shopping ads 需要转到shopping页面搜索;
+product ads 直接在搜索页面有展示;
+--> 遇到的问题  feed 格式不对; 没有好的引导; 不知道要怎么做?
+--> shopping campaigns  将替换 product campaigns ?
+
+
+
+
+
+
+
+
+2015-5-29
+zencart 二次开发/定制 需求描述
+版本1.39
+
+概述:
+两个zencart 模板,用同一个数据库;
+
+详细:
+1. zencart模板A
+--> 已经上线的系统
+
+2. zencart模板B
+--> 打算新加的系统;(新模板支持手机用户浏览)
+--> 共享老系统的数据(图片目录/客户资料/产品资料/订单数据...)
+--> 访问模板B时,除了展示方式不同,产品数据/订单数据等还是和原来的一样;
+
+3. zencart默认数据库A
+--> 不能动;
+
+4. zencart默认数据库A基础上添加自定义表格: 数据库A+ (添加的表格存放模板B的数据)
+--> 添加的表格共模板B访问;
+
+5. 需要定制模板B,和新加数据表;
+
+
+==> 可以做吗?
+  有没有其他更好的方式?  老模板不支持手机用户
+
+
+
+
+
+
+
+
+----------------------------------------
+2015-5-22 亚加图纸修改
+1. 北客卧改用榻榻米.(靠窗/东边带柜子/高度不超过飘窗)
+2. 北客卧不放电视机了.
+
+
+
+
+<!------------------b:todaySpecial-------------------------------------------------->
+<div id="todaySpecial">
+<font size="6" style="background-color: rgb(255, 255, 0);" color="#ff0000">
+Today's special [<?php echo date('Y-m-d',time()); ?>]<br />
+</font>
+<table border="0">
+<tbody><tr>
+<td>
+<a href="http://www.lucklaser.com/best-choose-to-buy-a-cheapest-2w-blue-laserpointer-powerful-laser-simple-design-easy-to-use-p-48.html" title="laser pointer Today s special" alt="laser pointer Today s special">
+<img src="/images/cheap blue 1w laser pointer.jpg" width="250" />
+</a>
+</td>
+<td>
+<a href="http://www.lucklaser.com/best-choose-to-buy-a-cheapest-2w-blue-laserpointer-powerful-laser-simple-design-easy-to-use-p-48.html" title="laser pointer Today s special" alt="laser pointer Today s special">
+Best choose to buy a cheapest 2w blue laserpointer powerful laser simple design easy to use<br />
+</a>
+<h2 id="productPrices" class="productGeneral">
+<span class="normalprice">$270.00 </span> <span class="productSpecialPrice">$109</span><span class="productPriceDiscount"><br />Save: 60% off</span></h2>
+</td>
+</tr>
+</tbody></table>
+
+</div>
+<!------------------e:todaySpecial-------------------------------------------------->
+
+
+
+
+Delivered
+www.ups.com
+Tracking number:1Z31E0F96797971258
+
+If the customer did not get the parcel, please contact
+
+
+Delivered On:Tuesday,  24/03/2015 at 12:41 P.M.
+Left At:Front Desk
+Signed By:BRET
+
+
+
+vincent_0571@163.com
+
+
+C/ Antoninus Pius, 149,  TERRASSA, BARCELONA, Spain
+
+--------------------------------------------------------------------------
+2015-2-8
+国际支付宝邮件问题
+
+邮件延时,或漏发;
+
+
+2015.02.08 Order No: #3997 from Lucklaser Inc. ... 
+--> 这个付款成功  2.8号没收到邮件
+
+
+Order No: #3952 from Lucklaser Inc. Laser Pointer Store 
+--> 2.8号 邮件通知 交易成功 , 实际上是2.1号的交易
+
+--------------------------------------------------------------------------
+ 
+
+
+2015-1-23 最新的测试数据
+
+
+--------------------------------
+
+发现你的代码有两个文件和以前的有点区别;
+
+更新上去, 刚才的Fatal error没有了;
+
+出现新的问题;
+--> alipay付款成功后的,跳转出错;
+本来应该跳转到 checkout_success 页面
+结果跳转到了  checkout_payment页面;
+
+用Firefox 工具跟踪结果: 
+
+先跳转到:
+index.php?main_page=checkout_process&bank_seq_no=2015012209445207478&body=xxxx+test+++tool&currency=USD&exterface=alipay.trade.direct.forcard.pay&extra_common_param=10&forex_total_fee=1.00&is_success=T&notify_id=RqPnCoPT3K9%252Fvwbh3InTu82ZxtPNx%252BhpP%252Fpa%252FoynmPRMcKiA5K1X06ixcDRe1NqKnsZp&notify_time=2015-01-22+21%3A27%3A55&notify_type=trade_status_sync&out_trade_no=10&payment_type=600&seller_email=vincent%40gmail.com&subject=Order+No%3A+%2310+from+xxxxx+Inc.++Korean+xxxxx&total_fee=6.15&trade_no=2015012221001004740089924795&trade_status=TRADE_SUCCESS&sign=19d744512619ee8461cf50b8cfcae3b4&sign_type=MD5
+
+再跳转到:
+index.php?main_page=checkout_payment
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+레이저 포인터 전문점 Korean LuckLaser
+
+
+Alipay 集成问题;
+zencart 1.39
+
+
+1. 从Alipay付款成功后,跳转到自己的网站时出错;
+2. Alipay后台已经显示支付成功;
+3. 出错页面: index.php?main_page=checkout_process
+
+页面显示(开启zencart调试):
+Warning: fsockopen() [function.fsockopen]: unable to connect to ssl://mapi.alipay.com:443 (Unable to find the socket transport "ssl" - did you forget to enable it when you configured PHP?) in website/includes/modules/payment/alipay/alipay_core.php on line 180
+
+Fatal error: Call to a member function add_session() on a non-object in website/includes/modules/payment/alipay_forcard.php on line 458
+
+--> 代码是用上次你更新了邮件内容后的代码;
+
+
+
+
+-------------------
+
+顺丰: 201280367055
+物流订单号： 2000806617
+到:United States
+
+昨天发的6个件, 其他5个都入库,付款了, 这个件还没入库, 是不是遇到什么问题?
+
+
+
+
+Aliarm 加上　Lucklaser.kr
+
+Lucklaser.jp ==> LJ
+Lucklaser.kr  ==> LK 
+-> LuckLaser-kr
+
+
+jp.civillaser
+kr.lucklaser
+
+-------------------------
+
+中国农业银行杭州六和支行
+卡号:  6228480322973861014 
+户主: 陈水军
+金额:$825(5116 RMB)
+
+
+
+到德国件地址不对问题
+
+物流订单号:2000785356
+TNT: 307173247
+
+--> 原来的地址：
+Name: Alexander Xayavong 
+Address: 29 Washington strasse apt 1
+65189 Wiesbaden
+Germany
+Tel: 7022817154
+
+
+--> 客户回复地址对的, 加了个新的联系电话:
+Name: 
+Address: Washingtonstraße 29/1, 65189 Wiesbaden, Germany
+
+Phone
++4916091374547
+
+
+
+
+
+
+-------------------------------------------
+韩语翻译
+http://www.kr.lucklaser.com/products_all.html
+--> vincent: 单号页面page 1,3,5...
+--> xiaohan: 双号页面
+--> sold out的不用翻译
+--> 模组不用翻译
+--> 翻译: 标题/属性/产品介绍 (图片/视频 不动)
+
+SVN\翻译\韩国
+
+
+
+
+物流订单号 : 2000793457
+UPS: 1Z31E0F96757533261
+收件人是:  United Kingdom
+快递记录:  2015-01-11DEPARTURE SCAN KOREA,INCHEON   
+--> 是不是你们操作弄错了, 贴错地址了, 我们发到英国, 现在包裹到韩国去了?
+
+--------------------------
+
+2015-1-5 易运问题
+1ZA258F80491315592 ==> 重量不对  3kg(实际1.1左右)
+1ZA258F80495162973 ==> 1.5kg 费用 怎么是 1.48?
+
+
+这两个
+1ZA258F80491315592 ==>　12.31号我们就包好了/ Robert kurtz，5403 w 85th p , burbank, Illinois, United States
+1ZA258F80495162973  ==> 1.4号 包货的/ Jeffery Williams,1343 west 95th st. , Cleveland, Ohio, United States
+
+
+
+未支付的件: 
+运单号(12.11周四  12.12周五)
+1ZA258F80497605035 ==> 12.12号发货
+1ZA258F80495710577 ==> 12.12号发货
+1ZA258F80496356959 ==> 12.12号发货
+500911075254 ==> 12.12号发货
+1ZA258F80497887740 ==>　12.12号发货
+500911072583　==> 12.11号发货
+1ZA258F80494606263 ==> 12.11号发货 
+1ZA258F80492474650 ==> 12.11号发货
+
+
+11号:5.39
+12号: 充值 500 ==> 505.39
+15号: 充值 600 ==> 支付 545.61 ==> 余额 559.78
+               ==> 支付的是:GD193729830WW..14号的4个件
+
+
+
+-------------------------------
+
+
+
+以后工资发3000
+贷款还50%后,发5000;
+贷款还完后,发8000; 
+
+-------------------
+
+
+高出力 レーザーポインター 通販
+強力 レーザー 贈る保護眼鏡
+
+夜空に綺麗な光線
+48%OFF 送料無料!
+
+遠距離照射
+48%OFF 送料無料!
+
+
+夜空に綺麗な光線
+遠距離照射
+強力 レーザー 贈る保護眼鏡 送料無料！
+
+www.lucklaser.jp/burning-laser-pointer
+
+http://www.lucklaser.jp/2w48off-p-96.html
+
+----------------------------------
+
+
+So sorry for this issue!  we support free repair for your laser. 
+
+Please find the return rules on the product detail page: 
+--------------------
+Refund & Return & Exchange & Repair Rules
+1. Within 7 days of the arrival of the goods, please contect us  if you find there are some problems about the product. In this case, please make sure don't damage the product and  return the goods to us, we will give you a full refund or free exchange.
+2. After 8 days of the arrival of goods, We support paid repair service, only charge the lowest repair fee.Normally, you only have to pay for the cost of the laser parts and delivery. (No labor fee)
+--------------------
+
+
+
+
+----------
+
+9个图片尺寸如下;
+320 × 50 
+468 × 60 
+728 × 90 
+250 × 250 
+200 × 200 
+336 × 280 
+--300 × 250 
+120 × 600 
+160 × 600 
+
+Title: 
+Most Powerful Blue Laser Pointer Cool Laser Beam
+SALE OFF Now! 50%OFF & Free Shipping 
+
+Buy Now
+
+www.lucklaser.com/burning-laserpointer
+http://www.lucklaser.com/sale-off-now-cooling-high-power-2000mw-blue-laser-pointer-free-shipping-p-159.html
+
+
+
+
+
+
+----------------------
+金色的激光
+
+Golden style Most Powerful burning laser pointer
+
+48% OFF! & Free Shipping
+
+Link: 
+
+www.lucklaser.com/powerful-laserpointer
+http://www.lucklaser.com/-p-160.html
+----------------------
+
+
+
+----------------------
+
+I'm Vincent, from LuckLaser,(Your order 3270, 2 lasers), Did you received our Emails about the shipping address error?
+The UPS staff tried to deliver your parcel, but the address is incorrect.
+Now, they need you to call their service(1-800-742-5877), and tell then your tracking number(1ZA258F80493341087) and your correct address.
+Please contact with UPS, let's solve this problem. --- master@lucklaser.com
+
+
+
+--------------------------------------
+
+激光手电广告图
+
+一个产品做9个不同尺寸,不同背景的广告图;
+
+250x250先做看看效果; 
+
+Note:
+光柱参考图.jpg 
+--> 是其他产品的, 这个产品的激光光柱效果参考这个;
+
+
+
+9个图片尺寸如下;
+320 × 50 
+468 × 60 
+728 × 90 
+250 × 250 
+200 × 200 
+336 × 280 
+300 × 250 
+120 × 600 
+160 × 600 
+
+
+------------------------------------------------------
+
+换单(退回重新发的那个件): 
+旧单号==>L3291 / S1411000362 / HK FEDEX PAK / 1.100 / 126.30
+新单号==> L3291 / S1412000425 / 荷兰UPS / 
+->S1411000362 换成 S1412000425
+
+
+
+
+
+L3291 没快递单号?
+-> 原来的单号: S1411000362 
+->　
+-----------------------------------
+
+445nm 5W 5000mW 青色 DPSS 固体レーザ 工事現場や各種実験用材 CivilLaser
+
+445nm 5W Blue DPSS Laser -- output power adjustable (CivilLaser)
+
+http://www.jp.civillaser.com/445nm-5w-p-268.html
+
+
+
+-----------------------
+
+
+换聚道 S1411000362 (fedex)-->  S1411000369 (ups)
+L3291
+--------------------
+
+1ZA258F80492267919	L3283/带眼镜  2.1kg
+1ZA258F80493545698	L3274
+1ZA258F80493341087	L3270
+1ZA258F80490107470	A64765497005557/ 2.059kg
+S1411000354	L3256   1.1kg
+500911023550	DG34 2.1kg
+
+
+1ZA258F80493545698  ==> 没荷重
+1ZA258F80493341087  ==> 没荷重
+
+
+1ZA258F80490107470 ==> 2.059kg -> 与实际重量不符(上次同样的问题  这个尺寸量错了 量的不是这个包裹的尺寸30x20x10)
+
+200.25 + 145.64 + 283.29 + 145.64 + 126.30 + 123.76 =  1024.8
+
+1000 + 394.8 - 1024.8 = 370
+
+                             
+------------------------------
+
+
+650nm 1W High power red laser module with cooling fan 
+
+厚ビーム-レーザー砲-レーザー柱-高出力
+
+赤色 出力レーザー 長時間连続仕事
+
+650nm 1W 赤色 出力レーザー 長時間连続仕事
+
+http://www.jp.civillaser.com/650nm-1w-red-laser-module-p-214.html
+
+---------------------------------------------------------------------------------
+背景图都选的不是很理想
+要是没有更好的有创意的背景图 
+就用下面的 "星球大战" 主题背景图(更多参考  百度图片  星球大战 壁纸)
+
+另外背景图要适当的处理一下 模糊/变暗什么的,主要是突显产品 产品效果(高亮 激光光柱)
+
+
+http://img.bizhi.sogou.com/images/2012/04/27/38099.jpg
+
+http://img.bizhi.sogou.com/images/2012/03/03/116771.jpg
+
+http://img.bizhi.sogou.com/images/2012/02/25/50126.jpg
+
+http://img.bizhi.sogou.com/images/2012/02/25/241276.jpg
+
+http://img.bizhi.sogou.com/images/2012/03/03/235809.jpg
+
+http://b.hiphotos.bdimg.com/album/w%3D2048/sign=5f92e7bff7246b607b0eb574dfc0184c/96dda144ad345982532c5c7e0df431adcaef84bc.jpg
+
+http://image.550990.com/upload/photo/00/21/09/79/210979.jpg 
+
+http://img.bizhi.sogou.com/images/2012/03/22/242285.jpg
+
+http://image.550990.com/upload/photo/00/21/09/59/210959.jpg
+
+http://img.bizhi.sogou.com/images/2012/02/21/230982.jpg
+
+
+---------------------------------------------------------------------------------
+
+
+
+
+
+----------------------------------------------------------------------
+2014-11-19
+
+L3245 --> 美国ups专线 1ZE688661299997451 --> 换单 ups红单B 1ZA258F80498877848
+--> 大的一个; 纸箱尺寸: 32x25x11
+--> 实际重量估计: 1.8kg
+
+L3239 --> 美国ups专线 1ZE688661296297043 --> 换单 ups红单B 1ZA258F80498586626
+--> 小的包裹: 纸箱尺寸:　30x20x10
+--> 实际重量估计: 1.1kg
+==> 易运网上 显示 2.059kg ==> 这个有疑问???
+
+----------------------------------------------------------
+
+2014-11-17
+
+-------------------------------------------------
+2组图片处理(原图已经有了,主要是抠图换背景)
+
+-------------------------------------------------
+
+任务描述:
+1. 10个图片处理,每个图片的处理要求图片名称上有说明;
+图片尺寸就用原图的尺寸;
+
+2. 以这10个图片中的激光手电为素材做一套其他尺寸的图;
+1. 图片的主要元素是激光手电带蓝色光柱;
+2. 9张图片的背景都不同,风格一致;
+3. 9个图片尺寸如下;
+320 × 50 
+468 × 60 
+728 × 90 
+250 × 250 
+200 × 200 
+336 × 280 
+300 × 250 
+120 × 600 
+160 × 600 
+-------------------------------------------------
+补充说明:
+1. 背景图以科幻/太空/高科技 选其中一个为主题;
+2. 每个背景图都不同, 但都是同一风格的;
+3. 先做一个图片的抠图换 背景;选中稿后,再做全部;
+
+-------------------------------------------------
+
+联系qq: 401766209
+
+-------------------------------------------------
+
+
+
+
+
+
+---------------------------------------------------------------
+120000-114319 = 5 681
+
+114319 ==> 35 681 ==> 25681
+
+73480 - 35681 = 37799 ==> 47799
+
+
+社保陈: 780 x 12  =  9360
+社保王: 780 x 12  =  9360
+房贷王: 1455 x 12 = 17460
+
+17460 + 9360 + 9360 = 36180
+
+
+----------------------------------------------------------
+
+矢量图设计? 抠图+排版一下即可
+1. 内容 "Star Laser"
+3. 用白底黑字;
+
+设计形状参考发过来的图;
+1.总体效果 类似 图中的 USA Laser
+2.Star 用星球大战 中的 star形状
+3. Laser 用 USA Laser中的形状;
+
+http://item.taobao.com/item.htm?spm=a230r.1.14.9.EcgiKA&id=41636535008&ns=1&abbucket=10&_u=71evmps7407#detail
+http://www.xpdesk.cn/Code/upload88/Pro13/xpdesk.cn2008717192330648b.jpg
+
+
+--------------------------------------------
+
+集成Alipay后支付流程的bug
+
+正常是:
+在完成订单的最后一步"Confirm Order", 再生成订单(数据库中有记录)
+
+Alipay的流程是:
+在没有完成订单的最后一步"Confirm Order",就生成了订单,客户还没点 确认订单 就生成了订单记录;
+
+出现的问题是:
+到了最后一步,生成了订单记录, 要是客户没有确认订单,点返回/或点其他产品, 重新下单, 原来提早生成的订单会被自动删除;
+导致后台记录,订单编号是不连续的;
+
+
+-----------------------------------------------
+
+支付宝外卡问题
+1. 保证金
+我有个账号(vincent.wholesale@gmail.com),已经停用好几个月了.
+里面还有10000保证金取不出来.
+现在这个公司要变更了, 会不会影响这个账号? 里面的保证金什么时候能取出?
+
+2. 高风险
+昨天收到两个客户的付款, 但都被当作高风险,退款给客户了;
+我们联系到客户, 收到的反馈是,信用卡都是正常的;
+后来通过PayPal的通道,使用同一个信用卡,能正常付款;
+Alipay的新通道是不是还不稳定? 判断风险的标准特别严格? 
+目前新通道高风险付款的概率有多少? 
+
+
+3. 集成网站添加
+申请账号的时候只提交了两个主站;
+现在再添加两个其他语言站;
+(已申请)www.civillaser.com
+(新申请)www.jp.civillaser.com
+(已申请)www.lucklaser.com
+(新申请)www.lucklaser.jp
+
+
+-----------------
+
+L2413
+
+e特快 (8月份发的 没更新记录)
+Tracking number: EV992513502CN
+Name: Randy Seelen
+Address: Nassaulaan 16A , Maastricht, Limburg, Netherlands
+Post code: 6224KB
+Tel: 0627243381
+Package: LED 手电筒 / LED Flashlight | 1 pcs |
+
+
+------------------------------------------
+ Some fake 18350 batteries do not according to the standard size. (standard size 18 × 35 )
+ Any way, you can use 2 x 16340 batteries instead. 
+
+
+
+
+18 × 35 
+
+
+-----------------------------------------------
+fraud@alipay.com
+
+asian.liuxy@alipay.com
+
+企业版支付宝余额自动变少问题 -- 可能有拒付纠纷
+
+
+账户： vincent.wholesale@gmail.com
+公司：杭州常果工业设计有限公司
+
+
+
+问题描述：
+我的支付宝余额8月份查还有31594.20，  现在只有29150.84；
+因为从8月份开始我的余额支付功能一直是禁用的2443.36不知去向了？
+
+咨询了客户经理(asian.liuxy@alipay.com 刘向阳)，说可能是有客户拒付；
+让我来问负责这方面的同事 (fraud@alipay.com);
+
+
+我的问题是：
+1. 先确认是不是有客户拒付？还是其他原因？
+2. 如果是拒付，是哪笔交易？为什么我没收到邮件通知？
+3. 就算是拒付，也有个纠纷协调过程，我们每笔交易都已经发货给客户了，客户收到了产品，支付宝又单方面把钱退给了客户；
+   这样商家造成的损失怎么办？
+
+
+
+联系人：
+陈水军
+15967129903
+vincent.wholesale@gmail.com
+杭州常果工业设计有限公司
+
+-----------------------------------------------------------
+leming.lm@alibaba-inc.com 余额支付的问题
+
+asian.liuxy@alipay.com
+
+
+
+企业版支付宝 “开通余额支付” 的问题
+
+账户： vincent.wholesale@gmail.com
+公司：杭州常果工业设计有限公司
+
+待解决问题： 开通余额支付功能
+
+问题解释：
+1. 2013.07.22 该账户签约了‘外卡支付’；
+2. 在合同到期的前一个月，支付宝要求在接入代码中增添一个安全参数；
+    但我们技术能力有限，也一直等不到支付宝技术支持的帮助，没能添加这个参数；
+3. 账户被处罚，关闭 “开通余额支付功能”；
+4. 2013-08-12 账户签约到期，也没有继续签约其他任何产品；
+
+现在的情况是， 我们这个账户都没用来交易收款了，也不存在js参数问题;
+但‘开通余额支付功能’ 一直被禁用；
+
+联系过支付宝客服，让我们找客户经理；
+联系了客户经理（asian.liuxy@alipay.com 刘向阳），让我们找负责部门(leming.lm@alibaba-inc.com);
+希望这次找对人，能解决这个问题， 感谢您的时间！
+
+
+什么时候能开通 余额支付功能？
+要我们提供什么材料？
+
+
+
+
+
+联系人：
+陈水军
+15967129903
+vincent.wholesale@gmail.com
+杭州常果工业设计有限公司
+
+
+
+------------------------------------------
+ 
+ L2550, Dawn Hiuser
+ sassycat00@hotmail.com
+ Dawn Hiuser,1106 31st street , Parkersburg, West Virginia, United States
+
+
+L1393, Doug Bennett
+Doug202@hotmail.com
+Doug Bennett,1106 31st STREET, Parkersburg, West Virginia, United States
+
+
+
+ 
+ --------------------------------------------------
+ Laser sword,laser saber, laser blade ,light sword
+
+
+67913 - 43911 = 
+67913-43911 = 24 002
+2.4w
+
+
+1000000-956089 = 43911
+
+
+
+
+万科璞悦湾 洋房现在火热认筹中 存3万抵6万  更多折扣 电话咨询  小裴：130-6572-8363
+万科璞悦湾【万科悦墅】洋房蓄客今日正式开始收筹，享有存3万抵6万优惠，预计开盘时间7月下旬。
+价格口径：
+一：8号楼11层
+1）标准层4-10层，折后套均总价175万，根据楼层不同价格有所浮动；
+2）3层南北大露台，折后套均总价180万；
+3）115方3房2厅2卫，折后套均总价240万；
+4）顶层带阁楼，面积约30㎡，没有露台，折后套均总价190万；
+5）底层120方3房2厅2卫，地下室面积约65㎡折后套均总价340万；
+二：9号楼8层（相对8号楼差价20万）
+1）标准层4-7层，折后套均总价195万，根据楼层不同价格有所浮动；
+2）3层南北大露台，折后套均总价200万；
+3）115方3房2厅2卫，折后套均总价260万；
+4）顶层带阁楼，面积约30㎡，没有露台，折后套均总价210万；
+5）底层120方3房2厅2卫，地下室面积约65㎡，折后套均总价360万；
+
+
+
+
+
+
+6号 到南京 没更新：
+EA007366641CN 
+EA007366519CN
+
+
+
+----------------------------------------------
+L2103
+EMS 
+EA007366641CN
+-- 6.6 显示在南京，10多天没更新记录，你们能查到最新记录吗？
+
+
+
+
+L2033    6208385153 
+L2034    6208383882
+L2032    6208385632 
+L2021    6208386645  已换单号，请知悉
+L2148   6683945693 
+
+----------------------------------
+
+
+主营范围：服装服饰、鞋帽、棉纺织品、皮革制品、玩具、钟表眼睛及配件、花卉、纸制品、办公用品、照相机、摄影器材、体育用品、五金交电、制冷设备、家用电器、电脑及配件、金属材料、汽摩配件、电子产品、电子节能产品、电子数码产品、电子系统设备、电子原器件、通讯设备及相关产品、木材、钢材、建筑材料、照明设备、木制品、不锈钢制品、仪器仪表、电线电缆、健身器材、轴承及配件、一类医疗器械、宠物用品、家具护理用品、劳防用品等。 
+
+
+
+主营范围：
+批发、零售：服装、服饰、鞋帽、箱包、皮革制品、工艺礼品、针纺织品、纺织原料（除棉花）、化妆品、日用百货、办公用品、文化用品、五金交电、电子产品、电子原器件、数码产品、仪器仪表、通讯器材、通讯设备、 家用电器、工具刀具、包装材料、家居用品、工艺美术品、劳保用品、床上用品、酒店用品、卫生洁具、玩具产品；
+服务：服装设计、品牌策划；其他无需报经审批的一切合法经营项目。
+
+
+
+--------------------------------------
+
+  EMS: http://www.ems.com.cn/
+           AUPost: http://auspost.com.au/track/
+           USPS: https://www.usps.com/
+           Royal Mail: http://track2.royalmail.com/portal/rm/track
+
+11.8
+
+----------------------------------------------------
+LJ24       3982593720
+H3138    3982593731 已换单
+
+----------------------------------------------
+美国 / 澳大利亚 / 加拿大 / 
+
+英国 / 法国 / 德国 / 荷兰
+
+日本 / 韩国 / 新加坡 / 香港 / 台湾 / 
+
+巴西 / 西班牙
+
+乌克兰 / 白俄罗斯 / 俄罗斯
+
+7-10
+
+美国邮编规则：5位数字+短横线+4位数字，如：12345-1234；或者5位数字，如：12345
+澳大利亚邮编规则：4位数字，如：1234
+加拿大邮编规则：字母+数字+字母+空格+数字+字母+数字，如：a1b 2C3；或者字母+数字+字母+数字+字母+数字，如：S1V1e9
+香港邮编规则：没有邮编,不用填写
+台湾邮编规则：5位数字，如：12345
+日本邮编规则：3位数字+短横线+4位数字，如：123-1234
+英国邮编规则：2-4位数字或字母+空格+3位数字或字母，如：DN16 9AA 或 M2 5BQ 
+法国邮编规则：5位数字，如：12345
+韩国邮编规则：3位数字+短横线+3位数字，如：123-123
+
+巴西邮编规则：5位数字+短横线+3位数字，如：12345-123
+西班牙邮编规则：5位数字，如：12345
+乌克兰邮编规则：5位数字，如：12345
+新加坡邮编规则：6位数字，如：123456
+白俄罗斯邮编规则：6位数字，如：123456
+荷兰邮编规则：4位数字+空格+2位数字或字母，如：1234 8f
+俄罗斯邮编规则：6位数字，如：123456
+德国邮编规则：5位数字，如：12345
+
+www.usps.com
+限重2千克
+长、宽、厚合计不超过90厘米，最长一边不超过60厘米
+标签打印机
+
+投递标签 (From/TO)
+申报标签 (product/weight/price)
+申报清单(寄件人/包裹内容/申报价格)
+热敏详情单
+11183
+
+199817567
+
+日本、韩国、香港、新加坡、台湾：2-4个工作日
+
+英国、法国、加拿大、澳大利亚、西班牙、荷兰：5-7个工作日
+
+俄罗斯、巴西、乌克兰、白俄罗斯：7-10个工作日
+
+
+三、资费标准
+路向	首重50g（元）	续重50g（元）
+台湾	16	0.6
+香港	48	0.5
+俄罗斯	60	4
+澳大利亚	69	3
+日本	81	1.2
+日本（促销价）	35	1.5
+韩国	60	0.9
+韩国（促销价）	35	1.2
+新加坡	70	1.2
+英国	70	2
+法国	105	2
+巴西	115	4
+西班牙	85	2.2
+荷兰	91	2
+加拿大	105	3
+乌克兰	120	2.5
+白俄罗斯	120	2.5
+
+卖家需裁剪和粘贴详情单，暂只提供A4纸详情单，后续将增加热敏详情单
+
+---------------------------------------------
+
+L2058 6208385411 L2153 6208384055 L2077 6208385481 L2052 6208385584 这几个是10号重发电池的件。单号你记下。全部走DHL 。
+
+
+---------------------------------------------------------
+
+ 电池补发 
+1. 盒子外面注明 Lxxx （电池补发）
+2. 盒子里面也注明; Reissue the battery --- From LuckLaser.com
+3. Aliarm 上面注明 电池补发包 发了
+
+L2052 -- 2个16340
+L2068 -- 4个16340 2个18650
+
+
+
+-----------------------------------------------------------------
+一张图 -- 网站banner图片设计(激光手电类产品)；
+
+
+产品参考：
+1. http://item.taobao.com/item.htm?spm=a230r.1.14.118.NHy714&id=26665460353&ns=1&_u=21evmps65b9#detail
+2. http://detail.tmall.com/item.htm?spm=a230r.1.14.10.NHy714&id=19010191442&ad_id=&am_id=&cm_id=140105335569ed55e27b&pm_id=
+ 
+
+要求：
+1. 图片尺寸： 1170 x 250 （一张图片）
+2. 含科技/夜空/强光/等元素；
+3. 图文安排合理，文字主要是促销类信息；
+
+
+
+
+
+--------------------------------------------
+不带电池的包裹，价格再发我一下；
+我们想评估一下 不带电池，给客户免运费是否可行；
+
+
+到 美国/加拿大/英国/法国/德国/澳大利亚/日本/其他专线
+
+
+价格公式 首重 续重 / 时间 几天到
+
+
+
+====================================================
+E邮宝：
+ 
+
+
+=====================================================
+2014-5-4
+1. L1876 说要改地址，还没告诉飞翔 
+2. 进货 
+3. 发货
+
+-----------------------------------------
+Dear Sir or Madam,
+
+Please refer to: 
+- Website/s:  http://www.jp.civillaser.com/.
+
+Can you tell us which products violate the PayPal's rules. 
+Please send the produce link to us, we really confused! 
+
+I have response this issue several times, but always get same answer. We just want to know the root cause.   
+
+
+Best wishes,
+chen shuijun
+
+--------------------------------------------
+
+Please tell us detail problem about this issue, we have no Illegal products on "http://www.jp.civillaser.com/", please tell us the detail product link to us.
+As we all know laser modules and laser dpss are not "Handle Laser", the handle laser is mean the laser pointer, am i right? and all the products we have, you can find the similar products on Ebay site.
+
+
+
+------------------------------------------------------------
+worldpay 问题
+
+I have following questions need your help!
+
+ 
+
+1. Our factory is in China, and one sales department is in HongKong, in this case, Can we apply for Worldpay service? 
+
+   #1, Company is in HongKong,have a HongKong bank account.
+
+   #2, Company is in China, have a HongKong bank account. 
+
+     #1,#2 which one is ok? Or both of them are no problem? 
+
+ 
+
+2. Does you have documents or sample codes for Zencart 1.3.xx e-commence web store? 
+
+ 
+
+3. Does Worldpay support JCB card?  Accept dollar,pound, Euro, Japanese yen, Hongkong dollar?
+
+ 
+
+4. About withdraw, can I use a personal bank account, or only the company bank account can be used?
+
+ 
+
+5. we have several web sites for different market, example: www.xxx.com   www.xxx.co.jp  
+
+   All of them can use one Worldpay account? How many web sites can use one Worldpay account?
+
+ 
+
+6. About product, does Worldpay support laser products?  Like www.laserpointerpro.com did. 
+
+
+--------------------------------------------------
+
+SMALL TO MEDIUM SIZED BUSINESSES
+BusinessGateway plus
+
+
+
+
+http://www.worldpay.com/products/index.php?page=enquire
+提交什么的地址
+
+Laser rangefinders
+Laser Locator
+Laser level
+Laser Stage Lighting
+
+C:\Program Files (x86)\Common Files\microsoft shared\OFFICE12\Office Setup Controller
+
+
+C:\Program Files (x86)\Common Files\microsoft shared\IME12
+
+--------------------------------------------
+
+71U78280EY728931X  L1473  2354523625/dhl --> 2354523625
+
+60F37082KA8006108 L1640   863062928/dhl   --> 4561013531
+
+5TY83495JL358082G L1653  2354500326/dhl --> 2354500326
+
+6TP36991XJ6020508  L1676  2354472330/dhl
+
+8PC530425C097651E L1646  2354451654/dhl
+
+2PB42075JM566902R L1655  8454933966/dhl --> 8454933966
+
+
+---------------------------------------
+
+2014/4/1
+
+我们在整理激光模组产品;要把性价比差的产品下架,好的产品排在前面,推荐给客户.
+你们的产品价格单发我一份
+
+--------------------------------------------------
+2014/4/1
+
+L1487   美国海关 退回 给客户重新发 不要走ems; FRANCISCO March 27
+L1497   美国海关 退回 给客户重新发 不要走ems; FRANCISCO March 27
+L1450   美国海关 退回 给客户重新发 不要走ems; FRANCISCO March 27
+L1490   美国海关 退回 给客户重新发 不要走ems; FRANCISCO March 27
+
+
+
+-------------------------------------------------------------------
+
+Dear David,
+
+我们可以完全按照你们要求的尺寸和参数定制. <<250-49201G,49202G.pdf>>
+
+我们需要开模定制PCB板.
+开模需要另外收1000人民币.(订购这款模组满2000个,返还开模费用给你们.)
+另外开模需要2周左右完成;
+
+产品: 532nm/5mw/APC结构/定制尺寸
+价格: 13$/pcs (每次进货大于1000个)
+
+
+****************************************
+按我们现有的尺寸价格可以便宜一些;
+
+产品: 532nm/5mw/APC结构/现有尺寸 PCB  19mm x 9.5mm 
+价格: 11$/pcs (按每次进货大于1000个)
+
+	
+
+
+联系方式:
+Email: master@lucklaser.com 
+Mobile Tel:86-15925689009
+Skype: vincent.chen.china
+
+Best wishes,
+Hanna
+-------------------------------------------------------------------
+
+Dear David,
+
+规格书见附件PDF文件.
+
+对你提的样品需求我们不是很明确. 
+
+
+[关于样式和尺寸具体如下]
+
+
+样式有3中可以选择:
+1. 样式#1  弹簧接在电路板上
+2. 样式#2  红黑电线接在电路板上
+3. 样式#3  电路板和铜件不直接相连接
+
+
+各个部件的尺寸:
+1. 铜件: ф12mm x 34.5mm
+2. 电路板: 19mm x 9.5mm   客户要 9.5x12mm
+3. 弹簧: 长度 5mm (只有样式#1 带弹簧)
+
+欢乐购想 (16:43:25): 
+刚确认了一下板的尺寸是10*11.5mm  (acc结构)
+
+
+-----------------------------
+vincent_0571 (17:13:53): 
+按 1000个以上  一次  单价多少一个?
+欢乐购想 (17:14:23): 
+45/个
+
+
+
+vincent_0571 (17:16:24): 
+尺寸完全按客户要求?
+APC 绿光 5mw这款,   按每次进1000个  单价 多少一个?
+colation (17:17:19): 
+55
+
+
+
+
+
+其他说明:
+1. 网站上标注的其他尺寸,主要是为对模组电压有特殊要求的客户准备的;
+2. IR cut -- 这款模组现在用APC结构(非ACC),内置滤波片,出来绿光比较纯.
+
+
+发货时间:样品,一般2个工作日可以发货. (100pcs 一般5~7个工作日发货)
+快递线路: 顺丰 (或其他线路  客户可以指定)
+运费:客户承担(批发 >50pcs 厂家承担)
+关税: 客户承担 (一般默认我们申报比实际成交价格低的价格,按客户要求,我们可以申报实际价格)
+
+联系方式:
+Email: master@lucklaser.com 
+Mobile Tel:86-15925689009
+Skype: vincent.chen.china
+
+Best wishes,
+Hanna
+
+
+
+
+
+3种样式
+
+电路板size:
+(35.5+19+5) 这个是电路板的size?
+欢乐购想 (11:33:07): 
+19是电路板长  电路板宽是9.5mm
+5是弹簧长
+34.5铜件长 34.5mm
+线长是150mm
+ф12x 59.5  => 59.5 = 35.5 + 19 + 5
+
+APC的结构和用料不同的
+性能要稳定
+从生产来说，APC的难做很多  ==> 电路和结构
+
+
+
+
+Dear Hannah,
+
+請提供貴司綠光模組樣品、規格書
+1.)	7.9mm, 9.5mm,8mm,12mm   5mW module(需有IR cut)
+2.)	13mm High power module 
+
+以上需求各5PCS,最快收到樣品日期?交貨方式?樣品確認後最快量產日期?
+
+連絡方式也請告知
+
+
+**********方礎光電**********
+採購:李坤政   David
+電話:02-2648-5656  分機:219
+傳真:02-2648-5522
+E-mail:davidlee@mail.quarton.com.tw
+**********Quarton************
+
+
+--------------------------------------------------------
+
+780nm/1500mw
+780nm/2000mw
+780nm/3000mw
+
+
+
+808nm/1500mw
+808nm/2000mw
+808nm/3000mw
+
+
+830nm/1500mw
+830nm/2000mw
+830nm/3000mw
+
+915nm/1000mw
+915nm/2000mw
+915nm/3000mw
+
+
+980nm/1500mw
+980nm/2000mw
+980nm/3000mw
+
+
+
+1064nm/500mw
+1064nm/1000mw
+
+---------------------------------------------
+
+
+
+$product_description = "Laser Module";//☆产品 数量 价格
+$product_description_num = 0;//产品 ☆数量 价格
+$product_description_price = "";//产品 数量 ☆价格
+
+
+
+
+$product_description_num = $product_description_num + $result_orders_products->fields['products_quantity'];//统计数量
+
+
+日元
+$product_description = $product_description." | ".$product_description_num." pcs | ".$commonFunction->getDeclaredPrice(floor($order_total),"yen");
+
+美元
+$product_description = $product_description." | ".$product_description_num." pcs | ".$commonFunction->getDeclaredPrice(floor($order_total),"dollar");
+
+
+
+====================================================================================================
+绿光手电： http://detail.tmall.com/item.htm?spm=a230r.1.14.40.9Lc0lM&id=35020863864
+
+http://item.taobao.com/item.htm?spm=a230r.1.14.124.9Lc0lM&id=16836374725
+
+红光笔：
+
+
+http://item.taobao.com/item.htm?spm=a230r.1.14.74.ve6NPO&id=20450403992
+
+http://detail.tmall.com/item.htm?spm=a230r.1.14.474.063Y3s&id=16659628008
+
+
+Gift box
+
+
+
+
+
+
+Sorry , please ignore this invoice email.  Today PayPal system has some problems, it resend the Invoice email.
+
+Your parcel is on the way, tomorrow morning we will send the tracking number to you.
+
+Best wishes,
+Vincent chen
+
+
+----------模组广告语------------------------------------------------------
+CivilLaser Laser Module Group: 
+Laser wavelength: 405nm 445nm 450nm 473nm 532nm 650nm 660nm 780nm 808nm 980nm 1064nm...
+Output Power: 1mw 5mw 10mw 20mw 50mw 100mw 200mw 300mw 500mw 1w 2w 3w 5w 10w...
+Laser shape: Dot Line Crosshair
+
+
+高 出力 レーザーモジュール[CivilLaser]:
+波長: 405nm 445nm 450nm 473nm 532nm 650nm 660nm 780nm 808nm 980nm 1064nm...
+出力: 1mw 5mw 10mw 20mw 50mw 100mw 200mw 300mw 500mw 1w 2w 3w 5w 10w...
+レーザーの形: 点状   線形  十字ライン 
+
+
+Laser Module
+(Dot/Line/Crosshair)
+1mw~10W
+405nm 445nm 532nm 660nm 808nm...
+
+
+レーザーモジュール  
+[点状/線形/十字ライン]
+1mw~10W
+405nm 445nm 532nm 660nm 808nm...
+
+
+高 出力
+
+Laser Module
+405nm 445nm 532nm 660nm 808nm 980nm 1064nm
+
+(Dot/Line/Crosshair)
+[点状/線形/十字ライン] 
+----------------------------------------------------------------
+
+All wavelength  dot line  cross laser module
+
+
+
+
+we have sent the product to customer as customer asked.
+
+----customer's shipping address(From PayPal web page)---------
+Shipping address - confirmed
+Will petty
+1152 Floyd drive
+Boaz, AL 35957
+United States
+-------------
+
+Tracking number: EE995580673CN
+Express company site: http://www.ems.com.cn/
+
+And now the parcel is in USA. and it is on the way to customer's home.  so we can't give a full refund to customer. 
+
+
+
+---------------------------------------
+
+Notice: 
+Recently, most of International Air Express don't allow the parcels carry with the Lithium battery. (For safety reason)
+If the parcel includes the battery, the special inspection is needs, and it will be extended 1~3 working days.
+For the urgent package, please note without battery.
+
+
+----------------
+
+cargo companies to inspect with battery package，so the battery package delivery time will be extended 1~3 working days.
+For the urgent package, please note without battery.
+
+
+------
+
+Not include battery. (Lithium battery could not be carried  for safety of flight. )
+
+International Air Express rule: 
+Lithium battery is prohibited to carry.
+
+Please prepare the battery by youself. 
+On every product detail page you can find the corresponding battery model. 
+
+--------------------------------
+
+
+VPS 升级问题
+
+Questions about Upgrade
+
+===For linode268302  192.155.89.132 	Newark, NJ, USA ====
+
+I have used Linode 1GB Plan now, and I want to upgrade to Linode 2GB Plan.
+
+I have some questions  need Linode guys help.
+
+1. When I click "Upgrade Available", I got the below message: 
+   "Existing billing packages have not yet been reconciled. Please make sure your account is paid up. "
+   --- How much do I need to pay?  linode268302 1GB plan to linode268302 2GB plan
+
+2. After upgrade, linode268302 will move to another host, does the IP address change? or keep using "192.155.89.132 " ? 
+
+
+3. How long can complete my linode268302 system upgrade? about 20 minutes? 
+
+4. After upgrade to Linode 2GB plan, when I do Resize step, which new plan do I need to choose? Linode 2048? 
+
+5. Durning the upgrade procee, is there any risk of data loss?  do I need to change Apache/mysql config file?
+
+
+
+*********************************************************
+
+模组使用说明: 使用模组前请先接好电源,再接通模组.关机时请先拔掉模组再关电源.
+
+
+
+※Service Time※
+◆ We will send the products to customer within 48 hours. (Not include made-to-order products)
+◆ Domestic 7 x 24 hours powerful support services, fast response to foreign customers  within 24 hours.
+◆ Be responsible for customer's call back regularly, new requirements and problem solving.
+
+
+※Shipping & Returns※
+<a href="http://www.lucklaser.com/shippinginfo.html" target="_blank">Shipping & Returns </a>
+<a href="http://www.lucklaser.com/estimated-delivery-time-ezp-16.html" target="_blank">Estimated Delivery Time</a>
+
+※Payment※
+<a href="http://www.lucklaser.com/payment-shipping-ezp-8.html" target="_blank">Payment steps</a>
+
+※Customs※
+About customs inspection, We will bear all risks during transportation. 
+If you do not receive the products or the products have any quality problems, we will resend a new one to you or give you a full refund.
+In a world, We ensure that our customers need not take any risks! 
+
+※Tariff※
+When buying large quantities, may produce tariffs (Small tariff). Customers should bear the tariff.
+
+※Law※
+Please act according to your local laws and regulations, legal possession and use of laser products.
+Any legal issues, laser caused the accident, Lucklaser will not bear any responsibility.
+
+※Warning※
+1. Never look directly into the laser beam. 
+2. Never point a laser beam at a person. 
+3. Do not aim the laser at reflective surfaces. 
+4. Do not allow children to use laser pointers unless under the supervision of an adult. 
+
+
+
+
+
+--------------------------------------------------------------
+
+2013-12-8
+H2890 电池状态
+
+
+
+445nm 500mw dpss:
+http://youtu.be/ICLWNGO4z-c
+
+
+
+高品質 レーザーモジュール 販売
+		
+		
+		if($id < 10){
+			$gtin  = $id."000000000000";//共13位
+		}else if($id >=10 && $id < 100){
+			$gtin  = $id."00000000000";//共13位
+		}else if($id >=100 && $id < 999){
+			$gtin  = $id."0000000000";//共13位
+		}	
+
+
+
+
+(From LuckLaser)Hi  Michael Bonneau, we found Alipay system rejected your payment, and gave a full refund to you, please check your credit-card. Any way, we have sent a PayPal Invoice to you via email. 
+
+
+
+1. L547分两个
+   L547 放5个蓝2w 不带电池  快递标注5套
+   L547-2 放2个绿光500mw  带全部电池  快递标注2套  电池弄个盒子放在一起；
+2. CJ 邮件 吉田明弘 我来回
+   
+
+Order #547 inlcude two packages.
+Package #1: 5 pcs x Blue lasers (without battery)
+Package #2: 2 pcs x Green lasers (Include all batteries)
+This is package #1/#2
+
+Transaction ID:	4A088298NW0290259
+Buyer Name:	Steven Nehr
+
+
+
+巧虎下载
+
+链接: http://pan.baidu.com/s/15TRi4 密码: bqje
+
+
+<h1><font color="red">650nm Red laser modules Group</font></h1>
+<div class="grayTable">	
+<h2>专业极(包含电源,支架)镀膜K9光学,IC控制ACC电路（连续工作无需散热）</h2>
+<table>
+
+<thead>
+<tr>
+<th scope="col">Power</th>
+<th scope="col">Price</th>
+<th scope="col">Brightness </th>
+<th scope="col">Laser Shape(1) </th>
+<th scope="col">Laser Shape(2) </th>
+<th scope="col">Laser Shape(3) </th>
+</tr>
+</thead>
+
+
+<tbody>
+<tr>
+<td>5mW</td>
+<td>$xxxx</td>
+<td>Low Light</td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Dot Link</a></td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Line Link</a></td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Crosshair Link</a></td>
+</tr>
+
+<tr>
+<td>30mW</td>
+<td>$xxxx</td>
+<td>Middle Light</td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Dot Link</a></td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Line Link</a></td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Crosshair Link</a></td>
+</tr>
+
+<tr>
+<td>50mW</td>
+<td>$xxxx</td>
+<td>Middle Light</td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Dot Link</a></td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Line Link</a></td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Crosshair Link</a></td>
+</tr>
+
+<tr>
+<td>100mW</td>
+<td>$xxxx</td>
+<td>High Light</td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Dot Link</a></td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Line Link</a></td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Crosshair Link</a></td>
+</tr>
+
+<tr>
+<td>200mW</td>
+<td>$xxxx</td>
+<td>Ultra-high Light</td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Dot Link</a></td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Line Link</a></td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Crosshair Link</a></td>
+</tr>
+
+</tbody>	
+</table>
+
+
+<br><br>
+
+<h2>工业极（不含其他固件）塑料光学，普通ACC电路（温度超过40度需要散热）</h2>
+<table>
+
+<thead>
+<tr>
+<th scope="col">Power</th>
+<th scope="col">Price</th>
+<th scope="col">Brightness </th>
+<th scope="col">Laser Shape(1) </th>
+<th scope="col">Laser Shape(2) </th>
+<th scope="col">Laser Shape(3) </th>
+</tr>
+</thead>
+
+
+<tbody>
+<tr>
+<td>5mW</td>
+<td>$xxxx</td>
+<td>Low Light</td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Dot Link</a></td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Line Link</a></td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Crosshair Link</a></td>
+</tr>
+
+
+<tr>
+<td>50mW</td>
+<td>$xxxx</td>
+<td>Middle Light</td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Dot Link</a></td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Line Link</a></td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Crosshair Link</a></td>
+</tr>
+
+<tr>
+<td>100mW</td>
+<td>$xxxx</td>
+<td>Middle Light</td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Dot Link</a></td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Line Link</a></td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Crosshair Link</a></td>
+</tr>
+
+<tr>
+<td>200mW</td>
+<td>$xxxx</td>
+<td>High Light</td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Dot Link</a></td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Line Link</a></td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Crosshair Link</a></td>
+</tr>
+
+<tr>
+<td>500mW</td>
+<td>$xxxx</td>
+<td>Ultra-high Light</td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Dot Link</a></td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Line Link</a></td>
+<td><a href="http://www.civillaser.com/-p-14.html" target="_blank" alt="Laser Module" title="Laser Module">Crosshair Link</a></td>
+</tr>
+
+</tbody>	
+</table>
+</div>
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Dennis Lenos - Jensen
+
+3 Logis Boulevarde
+Dandenong south, Victoria 3175
+Australia.
+
+Tel: +61 418564305
+
+
+New Price: (39 + 2.5 + 8) x 30 + 18= 1503
+Old Price: (55 + 12 ) x 30 + 18 = 2028
+Coupon amount:  2028 - 1503 = 525
+
+Coupon code ::  CouponForDennis
+Coupon Amount ::  $525.00
+
+
+NOT_LOGGED_IN_TEXT
+语言包中没有？
+
+<a href="http://www.laser-world.net/br/Promocoes">Oferece</a>
+
+
+
+Envio e pagamento disponível  -- 付款和运输
+
+Você oferecer a nossos clientes todos os métodos de pagamento disponíveis à nossa disposição:
+1. PayPal (Visa, Visa Electron, MasterCard, American Express, Aurora)
+2. Western Union
+
+
+PayPal link: 
+https://cms.paypal.com/br/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Legal_Hub_full&locale.x=pt_BR
+
+
+
+
+Meios de transporte  -- 运输
+EMS (Express Mail Service):
+
+3-7 dias / De USD 18
+
+Importante:   -- 提示 关税 
+Mundial de laser não é responsável por direitos aduaneiros determinados pelos costumes de cada país, antes de fazer um pedido que você deve aconselhar.
+
+
+
+Informações adicionais:  -- 其他信息
+Como funciona o PayPal?
+Por que o PayPal é seguro?
+
+
+https://www.paypal.com/br/webapps/mpp/how-paypal-works
+https://www.paypal.com/br/webapps/mpp/security/buy-prevention
+
+------------------------------------------------------------
+
+<a href="http://www.laser-world.net/br/mais-vendidos">Top vendas</a>
+
+
+<a href="http://www.laser-world.net/br/contactenos">Contate-nos</a>
+
+
+<a href="http://www.laser-world.net/br/cms.php?id_cms=1">Meios de pagamento e envio</a>
+mv /home/www/default/lucklaser/cache/myDEBUG-*.log  /home/www/default/lucklaser/cache_bak
+
+cd /home/www/default/lucklaser/cache_bak
+cd /home/www/default/lucklaser/cache
+
+rm -rf /home/www/default/lucklaser/cache/myDEBUG-137*.log
+
+
+00mw~200mw Green laser Pen style Astronomy Point to Star
+
+
+CouponForVIP
+
+
+Hi 俊寿 金谷, I'm from Hiteclaser----君にメールをする時に、一つのミスが発生した。----Order 2723,合計: xxxxxxx円 ---- ご入金は次の口座にお願いいたします。[百五銀行　大淀支店 （普通口座）186796 ゴトウ ヒサユキ]
+
+
+
+通知：
+2013-8-30から、 Hiteclaserの [レーザーモジュール / レーザーダイオード] 商品は更新しません、最新の  [レーザーモジュール / レーザーダイオード] 商品はこちらにクリックしてください: www.jp.civillaser.com 
+
+
+Hi xxxxx, I'm from Hiteclaser(Your Order xxxxxx)----君にメールをする時に、一つのミスが発生した。（その他のメールアドレスを通知してください。）---  (master@hiteclaser.com)
+
+
+
+
+クーポン券
+
+クーポンを提案します
+
+お越しありがとうございます。
+
+
+私たちはあなたの提案を重視して、いかなる価値がある提案に対して、価値1000円のクーポンをお贈ります。
+
+
+Mail to: master@hiteclaser.com
+Titile: Suggestion for Hiteclaser [クーポンを提案します] 
+Content: Your suggestion... 
+
+<div style="text-align: center;"><font size="6"><a href="mailto:master@hiteclaser.com?subject=Suggestion for Hiteclaser">すぐにクーポンを取得します</a></font></div>
+
+
+
+
+
+
+
+
+
+
+
+事実と全く違いますよ！
+
+20mwの 緑 レーザーポインター  はマッチを燃焼させることが絶対に不可能だわ！
+
+君はたぶん外形が同じの30mwの緑 レーザーポインター でテストしたよ、マッチを燃焼させる緑 レーザーポインター は26mwのみでありえません。
+http://www.hiteclaser.com/30mw50mw-p-354.html [30mw~50mw 小型 緑 レーザーポインター 通販 低価格]
+
+
+君のブログで5文章しかない、全部このウェブの商品問題をコメントしています。
+君が全部購買したことに非常に疑問があるわ。
+
+顧客への利益は、長期的なソリューションですよ！
+
+
+
+
+
+<p>
+<img src="/images/youtube.jpg" /><br />
+<a href="http://youtu.be/1-zQQeDH5bM" target="_blank"> http://youtu.be/1-zQQeDH5bM</a>
+</p>
+
+
+
+店長承諾：
+この商品[500mW 緑 レーザーポインター]はマッチを燃焼させない、顧客にすべての損失を賠償するように全額を払い戻すわ！
+
+
+
+
+
+  <!--bof:vincent, modle change to include -->
+	<?php
+	if ($products_model != '' and strpos($products_model,'.php')){
+	     //include a php file	
+	}else{
+		//base logic
+		echo (($flag_show_product_info_model == 1 and $products_model !='') ? '<li>' . TEXT_PRODUCT_MODEL . $products_model . '</li>' : '') . "\n";
+	}
+	?>
+  <!--eof:vincent, modle change to include -->
+
+  <!--bof Product URL -->
+products_date_added
+
+
+
+ALTER TABLE products  ADD includepages varchar(64);
+
+
+<input type="text" name="products_model" value="glasses-green.php" size="33" maxlength="32">
+TEXT_PRODUCTS_MODEL
+
+
+
+<td class="main"><img src="images/pixel_trans.gif" border="0" alt="" width="24" height="15">&nbsp;<input type="text" name="products_model" value="glasses-green.php" size="33" maxlength="32"></td>
+
+
+
+\img\includes\modules\product\collect_info.php
+
+
+<input type="image" src="includes/languages/english/images/buttons/button_insert.gif" border="0" alt="Insert" title=" Insert ">
+echo zen_image_submit('button_insert.gif', IMAGE_INSERT);
+
+
+TABLE_PRODUCTS
+
+
+"update " . TABLE_PRODUCTS 
+
+"insert into " . TABLE_PRODUCTS 
+
+
+----------------------------------------------------
+
+<div class="recommand-keywords">
+<a href="http://www.hiteclaser.com/445nm2w-p-249.html" title="高出力445nm2Wレーザーポインター 懐中電灯 特売!" target="_blank"><span>2w 青色レーザーポインター</span></a>
+<a href="http://www.hiteclaser.com/2013600mw-p-22.html" title="2013最新型 高い安定性 600mW 緑色 レーザーポインター 世界一流の超強力" target="_blank"><span>超強力レーザー</span></a>
+<a href="http://www.hiteclaser.com/500mw-c-7.html" title="グリーンレーザーポインター価格" target="_blank"><span>グリーンレーザーポインター価格</span></a>
+<a href="http://www.hiteclaser.com/specials.html" title="激安レーザーポインター" target="_blank"><span>激安レーザーポインター</span></a>
+<a href="http://www.hiteclaser.com/-ezp-15.html" title="レーザーポインター 比較" target="_blank"><span>レーザーポインター 比較</span></a>
+<a href="http://www.hiteclaser.com/100mw-p-181.html" title="レーザーポインター 安い " target="_blank"><span>レーザーポインター 安い </span></a>
+<a href="http://www.hiteclaser.com/-p-312.html" title="グリーンレーザーサイト" target="_blank"><span>グリーンレーザーサイト</span></a>
+
+
+<a href="http://www.hiteclaser.com/500mw-p-310.html" title="500mw 緑 レーザーポインター" target="_blank"><span>500mw 緑 レーザーポインター</span></a>
+<a href="http://www.hiteclaser.com/500mw-p-345.html" title="レーザーポインター 500mw" target="_blank"><span>レーザーポインター 500mw</span></a>
+<a href="http://www.hiteclaser.com/100mw-p-181.html" title="レーザーポインター 100mw" target="_blank"><span>レーザーポインター 100mw</span></a>
+<a href="http://www.hiteclaser.com/-ezp-15.html" title="レーザーポインター ランキング" target="_blank"><span>レーザーポインター ランキング</span></a>
+<a href="http://www.hiteclaser.com/50mw-p-315.html" title="レーザーポインター 50mw" target="_blank"><span>レーザーポインター 50mw</span></a>
+<a href="http://www.hiteclaser.com/1000mw-c-34.htmls" title="高出力レーザーポインター 通販" target="_blank"><span>高出力レーザーポインター 通販</span></a>
+<a href="http://www.hiteclaser.com/1000mw-c-42.html" title="強力レーザー" target="_blank"><span>強力レーザー</span></a>
+<a href="http://www.hiteclaser.com/445nm2w-p-249.html" title="レーザーポインター 高出力" target="_blank"><span>レーザーポインター 高出力</span></a>
+<a href="http://www.hiteclaser.com/mini100mw200mw-p-222.html" title="小型レーザーポインター" target="_blank"><span>小型レーザーポインター</span></a>
+
+</div>
+
+
+<a href="xxxxxxxxx" title="xxxxxxx" target="_blank"><span>xxxxxxx</span></a>
+------------------------------------------------------------------------------------
+
+
+Coupon
+
+Thank You
+for visiting our website.
+
+This coupon valid for $10 off
+
+
+
+We place great importance on your suggestion!
+Any valuable suggestion will win $10 coupon.
+
+
+
+Mail to: master@lucklaser.com
+Titile: Suggestion for Lucklaser 
+Content: Your suggestion... 
+
+Get Coupon Now
+
+
+
+
+------------------------------------------------------------------------------
+竹森 勉 ,  君にメールをする時に、一つのミスが発生した。（その他のメールアドレスを通知してください。）--- Hiteclaser (admin@hiteclaser.com)
+
+
+
+
+
+
+
+
+Announcement	
+
+Please find the latest laser modules from the following website. LuckLaser stop updating laser modules.
+
+Latest Laser Modules
+
+
+
+
+
+
+
+
+
+--------------------------------------------
+Our customer service is available 24 x 7 hours.
+
+
+We believe in the timeliness of customer service, and will do everything possible to satisfy our customers. If you have any problems, comments, or suggestions, please contact us.
+
+
+
+Customer Service:
+We will send Email to you after we receive your payment, and then we will send the Tracking number to you after we deliver the goods to you. For more questions regarding order status and other after-sales support, Please click the Live Help(Start Chat) or leave a meesage to us. We normally respond to all leave message within 1 working day. 
+
+
+
+Sales:
+If you need information before you buy, you can start a Live Chat with our online sales representatives. If Live Chat is not available, you will be directed to an online form to input your Email and leave a message, we will response your questions via Email.
+
+
+
+
+
+
+
+
+<img src="includes/templates/premium4a/images/payments.jpg" alt="" width="162" height="26">
+
+
+<a href="http://www.lucklaser.com/about-us-ezp-9.html">About Us</a>
+
+格力（GREE） KFR-50LW/E(50568L)A3C-N1(A) 2匹   
+
+格力（GREE）KFR-50LW/(50569)Bb-2 2匹 柜机T迪定频系列家用冷暖空调
+
+
+
+
+4800 x 2 + 
+
+
+
+
+
+
+
+大石 一俊 様,
+
+Got it, we will send it back to you today. and you should pay the shipping fee 990 Yen. As the there is no quality issue with the product. 
+
+There is not enough communication with you before you sent it back to us. I'm so sorry for this. 
+
+Any way, In order to reduce your loss, we recommend you the following product with factory price,  This is our main products with high quality and very popular. I am sure you will like it.
+
+  
+http://www.hiteclaser.com/10mw200mw532nm-p-293.html
+防水機能 10mW~200mW 532nm 高出力緑レーザーポインター
+出力: 50mW
+--原価: 7200円 
+--现価: 5000円 (Include shipping fee)
+
+Please give us your decision. Pay the 990 Yen shipping fee or Buy a 50mw green laser pointer.(5000 Yen,include shipping fee).
+
+Note: If you need, we can send a video about this 50mw green laser pointer to you. 
+
+
+Regards
+Hannah
+
+
+
+<div class="widget" id="customerHelp"> 		<dl> 			<dt>Company Info</dt> 			<dd><a href="http://www.lightinthebox.com/r/about-us.html" rel="nofollow" target="_top">About LightInTheBox.com</a></dd> 			<dd><a href="http://www.lightinthebox.com/r/contact-us.html" rel="nofollow" target="_top">Location &amp; Working Hours</a></dd> 			 			<dd><a href="http://www.lightinthebox.com/index.php?main_page=testimonials" rel="nofollow" target="_top">Testimonials</a></dd>  			<dd><a href="http://corp.lightinthebox.com/jobs" rel="nofollow" target="_top">Career</a></dd> 			<dd><a href="http://www.lightinthebox.com/r/site-map.html" target="_top">Site Map</a></dd> 			<dd><a href="http://www.lightinthebox.com/index.php?main_page=qc" rel="nofollow" target="_top">Our Guarantee</a></dd> 			<dd><a href="http://www.lightinthebox.com/html/press-release.html" rel="nofollow" target="_top">Press Releases</a></dd> 		 <dd><a href="http://www.lightinthebox.com/html/lightinthebox-publicity.html" rel="nofollow" target="_top">LightInTheBox Publicity</a></dd>
+<dd><a href="http://ir.lightinthebox.com" rel="nofollow" target="_top">Investor Relations</a></dd>
+</dl> 		<dl> 			<dt>Customer Service</dt> 			<dd><a href="http://www.lightinthebox.com/r/contact-us.html" rel="nofollow" target="_top">Contact Us</a></dd> 			 			<dd><a href="https://www.lightinthebox.com/index.php?main_page=login" rel="nofollow" target="_top">Track Your Order</a></dd> 			 			<dd><a href="http://www.lightinthebox.com/knowledge-base/" rel="nofollow" target="_top">Help Page and Knowledge Base</a></dd> 		</dl> 		<dl> 			<dt>Payment &amp; Shipping</dt> 			<dd><a href="http://www.lightinthebox.com/knowledge-base/c1227/a2996.html" rel="nofollow" target="_top">Payment Methods</a></dd> 			<dd><a href="http://www.lightinthebox.com/knowledge-base/c1229/a3019.html" rel="nofollow" target="_top">Shipping Guide</a></dd> 			 			<dd><a href="http://www.lightinthebox.com/knowledge-base/c1229/a3020.html" rel="nofollow" target="_top">Locations We Ship To</a></dd> <dd><a target="_top" rel="nofollow" href="http://www.lightinthebox.com/knowledge-base/c1229/a3017.html">Estimated Delivery Time</a></dd>			 		 			</dl> 		 		<dl> 			 		   <dt>Company Policies</dt> 			 		<dd><a href="http://www.lightinthebox.com/index.php?main_page=return_policy" rel="nofollow" target="_top">Return Policy</a></dd> 			 		<dd><a href="http://www.lightinthebox.com/r/privacy.html" rel="nofollow" target="_top">Privacy Policy</a></dd> 			 		<dd><a href="http://www.lightinthebox.com/r/term-of-use.html" rel="nofollow" target="_top">Terms of Use</a></dd> 			 		<dd><a href="http://www.lightinthebox.com/r/term-of-use.html#_Intellectual_Property_Infringement_Policy" rel="nofollow" target="_top">Intellectual Property Infringement Policy</a></dd> 		</dl> 		 		 	  <dl> 			 	  <dt>Other Business</dt> 			 	  <dd><a href="http://www.lightinthebox.com/dropship.html" target="_top" rel="nofollow">Wholesale</a></dd> 			 	  <dd><a href="http://www.lightinthebox.com/dropship.html" target="_top" rel="nofollow">Dropship</a></dd> 			 	  <dd><a href="http://www.lightinthebox.com/partners.html" target="_top">Partners</a></dd> 			 	  <dd><a href="http://www.lightinthebox.com/index.php?main_page=affiliate" rel="nofollow" target="_top">Affiliate Program</a></dd> 			 	  <dd><a href="http://www.lightinthebox.com/html/vendor_company_introduction.html" rel="nofollow" target="_top">寻求供应商</a></dd>
+ 		 	  </dl> 	 </div>
+
+
+
+
+
+
+<div class="ui-footer-sitemap util-clearfix clearfix">
+    <div class="ui-footer-col ui-footer-col-first">
+        <dl>
+            <dt>About</dt>
+            <dd><a href="http://news.alibaba.com/specials/aboutalibaba/aligroup/index.html" rel="nofollow" target="_blank">Company Information</a></dd>
+            <dd><a href="http://www.alibaba.com/sitemap.html" target="_blank">Site Map</a></dd>
+            <dd><a href="http://www.alibaba.com/recommended-products.html" target="_blank">Recommended Channel</a></dd>
+            <dd><a href="http://www.alibaba.com/industry-channel.html" target="_blank">Industry Channel</a></dd>
+        </dl>
+    </div>
+    <div class="ui-footer-col">
+        <dl>
+            <dt><a href="http://www.alibaba.com/Products" class="ui-footer-link">Buy</a>ing on Alibaba</dt>
+            <dd><a href="http://sourcing.alibaba.com/buyer.htm?tracelog=hpfooter_1306" rel="nofollow" target="_blank">AliSourcePro</a></dd>
+            <dd><a href="http://www.alibaba.com/Products?cd=buyhome&amp;tracelog=24581_foot_browse_cate" target="_blank" rel="nofollow">Browse Categories</a></dd>
+            <dd><a href="http://www.alibaba.com/countrysearch/continent.html" target="_blank">Browse by Country</a></dd>
+            <dd><a href="http://www.aliexpress.com/" target="_blank" rel="nofollow">Buy on AliExpress</a></dd>
+            <dd><a href="http://www.alibaba.com/help/user-guide-new.html?tracelog=HP_quickguide_20121010" target="_blank" rel="nofollow">How to Buy</a></dd>
+        </dl>
+    </div>
+    <div class="ui-footer-col">
+        <dl>
+            <dt><a href="http://importer.alibaba.com/" class="ui-footer-link">Sell</a>ing on Alibaba</dt>
+            <dd><a href="http://seller.alibaba.com/?tracelog=seller_channel_hp_footer" rel="nofollow" target="_blank">How to Sell</a></dd>
+            <dd><a href="http://www.alibaba.com/help/premium_memberships.html?tracelog=24581_foot_pre_membership" rel="nofollow" target="_blank">Premium Membership</a></dd>
+            <dd><a href="http://www.alibaba.com/vm?tracelog=vm_ch_hp_footer" rel="nofollow" target="_blank">Verified Membership</a></dd>
+            <dd><a href="http://us.my.alibaba.com/product/post_product.htm?tracelog=24581_foot_display_product" rel="nofollow" target="_blank">Display Products</a></dd>
+            <dd><a target="_blank" rel="nofollow" href="http://us.my.alibaba.com/product/manage_products.htm?tracelog=fromhpfoot#tab=all">Manage Products</a></dd>
+        </dl>
+    </div>
+    <div class="ui-footer-col">
+        <dl>
+            <dt>Service &amp; Tools</dt>
+            <dd><a href="http://us.my.alibaba.com/?tracelog=24581_foot_myalibaba" rel="nofollow" target="_blank">My Alibaba</a></dd>
+            <dd><a href="http://trademanager.alibaba.com/?tracelog=24581_foot_trade_manager" rel="nofollow" target="_blank">TradeManager</a></dd>
+            <dd><a href="http://us.my.alibaba.com/tradealert/myalibaba/sub_scription_trade_alert.htm?tracelog=24581_foot_trade_alert" rel="nofollow" target="_blank">Trade Alert</a></dd>
+        </dl>
+    </div>
+    <div class="ui-footer-col">
+        <dl>
+            <dt>Safety &amp; Support</dt>
+            <dd><a href="http://channel.alibaba.com/complaint/home.htm?tracelog=24581_foot_report_dispute" rel="nofollow" target="_blank">Submit a Complaint</a></dd>
+            <dd><a href="http://www.alibaba.com/help" rel="nofollow" target="_blank">Help Center</a></dd>
+            <dd><a href="http://www.alibaba.com/help/contact-us.html#askquestion" rel="nofollow" target="_blank">Contact us</a></dd>
+            <dd><a href="http://www.alibaba.com/help/safety_security.html?tracelog=24581_foot_safety" rel="nofollow" target="_blank">Safety &amp; Security Center</a></dd>
+            <dd><a href="https://www.surveymonkey.com/s/Alibaba_participant" rel="nofollow" title="Recruiting Test Participants" target="_blank">Recruiting Test Participants</a></dd>
+        </dl>
+    </div>
+</div>
+
+
+
+DPSSレーザー
+405nm 青紫色 DPSS レーザー 
+445nm~473nm 青色 DPSS レーザー
+532nm 緑色 DPSS レーザー
+635nm~671nm 赤色 DPSS レーザー
+792nm~1550nm 赤外線 DPSS レーザー
+
+
+
+
+
+交谈中请勿轻信汇款、中奖信息、陌生电话，勿使用外挂软件。
+
+小函  14:11:35
+
+
+Refund & Return & Exchange & Repair Rules
+
+Please read this before you buy products from us.
+
+Within 7 days of the arrival of the goods, please contect us (Phone or Email) if you find there are some problems about the product. In this case, please make sure don't damage the product and  return the goods to us, we will give you a full refund or free exchange. 
+
+After 8 days of the arrival of goods, We support paid repair service, only charge the lowest repair fee.
+Normally, you only have to pay for the cost of the laser parts and delivery. (No labor fee)
+
+Please make sure you understand all the details above.
+
+
+
+In the case of you didn't open the product and the product without any damage, our company will give you exchange or refund as soon as possible.
+Once the goods are used, and customer caused the products wear and stains, we can not accept return or exchange.
+
+After 8 days of the arrival of goods, we can't give you return and refound. But we support paid repair service, only charge the lowest repair and parts costs.
+
+Please make sure you understand all the details above.
+
+
+
+
+
+----------------------------------------------------------------------------------------
+ステージレーザーライト / クリスマス パーティー / 舞台照明 / 演出照明 /
+
+【特徴】
+コンパクトで持ち運びが便利！照射角度も自由自在！
+圧倒的カラーバリエーション。  
+迫力ある幻想的な空間を演出！  
+イベントに、ライブに、パーティーに！ 
+
+
+
+【商品仕様】 
+商品名: レーザーステージライト（LS-01）
+型番: LSL_mini
+サイズ: 約130×92×52ｍｍ
+重量: 約600g (本体のみ)
+電源: input AC100V-240V/50～60Hz・Output 5.0V/1.0A  |  
+レーザー光: グリーン＋レッド 
+レーザーレベル: クラスⅢB
+有効映写範囲目安: 対象物から3m離れた場合約4m×4m
+最大連続稼働時間: 約2時間
+波長: グリーン532nm、レッド660nm
+制御: フラッシュ調整、サウンドアクティブモード(音に反応)  
+最適温度: 15－35°
+付属品: ACアダプター , 三脚スタンド , 取扱説明書
+保障期間: 1年間
+
+
+【製品の注意事項】
+目 に損傷を与える危険性がありますので、レーザービーム光を直視しないでください。
+レーザー光線を直接人や動物に照射することは絶対におやめください。
+安全 に十分な距離をとり、レーザー照明技術者の管理の元設置管理を行ってください。
+万が一、目に入って違和感がある場合は、医師に相談の上診察することをお勧めいたします。
+その場合、弊社は一切責任を負いかねますので、予めご了承ください。
+
+
+
+××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+小型 レーザーステージライト / ステージライト / Laser Stage Light
+
+【特徴】
+シンプルながら、壮大な演出。      
+高品質、 安定した信頼性の高い。
+それが出て与える鮮やかなカラフルな光ビーム。  
+ホログラフのような図柄が特徴です。  
+照明を落とすと、まるで夜空に舞う星空のよう。   
+
+青色LED併用型。夜空を舞う無数の星のように迫力のある幻想的な空間を演出！
+イベント、クラブ、ライブ、パーティーなどでの演出に最適！ 
+
+【商品仕様】
+商品名: 小型 レーザーステージライト（LS-22）
+サイズ: 約155.3X144X81.79mm
+重量: 約775ｇ (本体のみ)
+電源: input AC100V-240V/50～60Hz・Output 5.0V/1.0A
+発光色: グリーン、レッド、ブルー（LED）
+波長: グリーン532nm、レッド660nm
+制御: 自動モード、サウンドモード(音に反応し光ります)、ストロボモード
+付属品: プロジェクター、ＡＣアダプター、スタンド、取扱説明書
+有効映写範囲目安: 対象物から3m離れた場合約4m×4m
+最大連続稼働時間: 約2時間
+保障期間: 1年間
+
+【製品の注意事項】
+目 に損傷を与える危険性がありますので、レーザービーム光を直視しないでください。
+レーザー光線を直接人や動物に照射することは絶対におやめください。
+安全 に十分な距離をとり、レーザー照明技術者の管理の元設置管理を行ってください。
+万が一、目に入って違和感がある場合は、医師に相談の上診察することをお勧めいたします。
+その場合、弊社は一切責任を負いかねますので、予めご了承ください。
+
+
+------------------------------------------------------
+型番: LSL_mini
+サイズ: 約130×92×52ｍｍ
+        本体：約H120×W90×D50(mm)
+	三脚の高さ：約70～110(mm)
+重量: 約600g (本体のみ)
+電源: input AC100V-240V/50～60Hz・Output 5.0V/1.0A  |  
+       単4乾電池×２  
+       DC5V 1.5A
+発光色: グリーン、レッド   -- 绿色 红色
+レーザー光: グリーン＋レッド  -- 绿色 红色
+出力: 1～100mW（ご指定可能） -- 你指定
+レーザーレベル: クラスⅢB
+有効映写範囲目安: 対象物から3m離れた場合約4m×4m
+最大連続稼働時間: 約2時間
+ストロボ機能: 有り（ストロボ間隔の調整は可能ですが、OFFにする事はできません）
+              ---- 闪光 间隔 调整
+波長: グリーン532nm、レッド660nm
+制御: フラッシュ調整、サウンドアクティブモード(音に反応)  --- 控制:闪光调整，声音积极模式（音）反应
+      自動、サウンドモード(音に反応し光ります)
+      速度調整
+      速度調整、サウンドモード、ストロボモード
+スピーカー出力: ３Ｗ×２
+内蔵メモリ: 1G
+音楽: MP3
+セット内容: 本体、ACアダプター、小型スタンド
+            ---- 套装内容
+最適温度: 15－35°
+拡散角度: ±45°
+付属品: ACアダプター , 三脚スタンド , 取扱説明書（英語）  --加图显示
+        プロジェクター、ＡＣアダプター、固定スタンド、ＵＳＢコード、リモコン、取扱説明書。
+保障期間: 1年間
+ご注意:  ＊屋内用です。水や湿気、振動は避けて下さい。 
+	＊連続2時間使用した後は必ず10分程度モーターを休ませて下さい。 
+	＊暗い部屋で投影、点滅させて長時間見続けると気分が悪くなる恐れがあります。レーザーは非常に強い光りですので、ご使用には十分に注意ください。 
+	＊当商品のレーザーのレベルは（ClassIIIA）です。目に損傷を与える危険性もあるので、レーザーの光を絶対直視しないでください。またレーザー光線を直接人や動物に照射することは絶対しないようにご注意の上ご利用下さい。家庭で使う時は、お子様の手の届かない場所に置いて保管ください。万が一、目に入ってしまい違和感がある場合は、医師に相談の上診察することをお勧めいたします。その場合、弊社は一切責任を負いかねますので、予めご了承ください。
+         ----- 连续使用2小时 停一会；激光有危险；不让小孩碰到；
+
+製品の注意事項
+目 に損傷を与える危険性がありますので、レーザービーム光を直視しないでください。
+レーザー光線を直接人や動物に照射することは絶対におやめください。
+安全 に十分な距離をとり、レーザー照明技術者の管理の元設置管理を行ってください。
+万が一、目に入って違和感がある場合は、医師に相談の上診察することをお勧めいたします。
+その場合、弊社は一切責任を負いかねますので、予めご了承ください。
+
+
+
+
+
+
+
+
+××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+
+435414 - 414520
+
+
+(96063 * 414520 / 435414) * 0.061308 = 5606
+435,414
+
+c
+
+product manager
+
+高品質 650nm 500mw~1000mw 赤色 強力  レーザー ポインター  焦点調節可能
+
+出荷時間: 2~5日间の営业日
+
+【特徴】
+650nm 500mw~1000mw 赤いレーザーのポインターの懐中電燈(T7075アルミニウム)
+十分にテストされ、 高品質な 赤色 レーザーポインター 
+
+【規格】
+波長: 650nm
+出力: 500mW / 800mW / 1000mW (選択)
+ビーム発散全角: 2.0mrad
+レーザータイプ: Class ⅢB (レーザーの防護眼鏡が必要)
+ビーム到達距離: 1000m
+製品重量: <300g(電池不含)
+外型寸法: 234.5mm（L）*36mm（∮）
+動作温度: 0℃ ~ +40℃
+保管温度: -10℃ ~ +70℃
+動作湿度: 20 ~ 85%RH
+保管湿度: 10 ~ 95%RH
+最大のパワー: <6.0W 
+動作電圧: DC 3V ~ 5V
+バッテリー: 1 x 18650 充電電池
+航続時間: < 2Hours
+振動実験: GBT2423.43-2008
+衝撃実験: IEC60068-2-47:2005
+仕事のやり方: CW / PW=4Hz
+フレーム材料:  T7075航空アルミニウム
+表面処理: 陽極酸化灰色
+使用寿命: >8000Hours
+保証期: 6ヶ月
+
+
+【ブーツは歩む】
+
+に 開いた レーザー 裏表紙および置かれる 熱心な電池 (ノート: 電池の肯定的なターミナル の方 尾)  
+合われる エンドキャップ エンドキャップ プラスチックの ボタン、力 表示燈 (赤)、 青い レーザーの切換え なる。
+スイッチ 長く 出版物 ありなさい 黄色灯 フラッシュ3回、それから解放しなさい、 レーザー ライト。
+レーザー 開始 レーザー のため 最高力、 スイッチを押しなさい 再度 より小さいのに 力。
+レーザー スイッチ の上 柔らかいゴム ボタン のため レーザー 脈拍スイッチ、 押される に 脈拍 モード、 できなさい 脈拍 ライト。
+再度出版物 に 出口 脈拍 モード。
+
+【操業停止 ステップ】
+出版物 スイッチ 長く ありなさい 黄色 表示器は点滅する 3回 後 解放、 レーザー 働くことを止めなさい、 そして押しなさい 尾帽子 プラスチック スイッチ 操業停止 または プラスチック 尾帽子 スイッチ 操業停止。 
+
+
+【附属品】
+1.懐中電灯/レーザーポインター　1個 
+2.充電器　1個
+3.バッテリー 1個   
+4.荷造り　　１個
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+新小田 昌樹,  君にメールをする時に、一つのミスが発生した。（その他のメールアドレスを通知してください。）--- Hiteclaser (admin@hiteclaser.com)
+
+
+09014895280
+
+
+
+
+簡便であ
+詳細
+
+
+高出力445nm2Wレーザーポインター 懐中電灯 特売! <br>
+<a href="http://www.hiteclaser.com/445nm2w-p-249.html" target="_blank">http://www.hiteclaser.com/445nm2w-p-249.html</a>
+
+<br>
+
+YouTube 動画 :: <a href="http://youtu.be/dsfsXvMAyVg" target="_blank"> http://youtu.be/dsfsXvMAyVg</a>
+
+
+106 / 285
+
+600mW Most powerful green laser Best Burning green laser beam
+
+
+Extremely bright green laser
+Ultra power, can easy light up a match.
+
+Great for pointing objects from long distance, such as stars.
+
+SPECIFICATIONS:
+Name:  Green laser pointer
+Wavelength: 532nm
+Output Power: 500mW ~ 600mW
+Class: ClassⅣ   
+Output Mode: Continuous Wave
+Laser sharpe: Dot   
+Product Color: Black
+Body material: Aircraft-Grade Aluminum 
+Operating Temp. Range: 10~30°C
+Storage Temp. Range: -10~50°C
+Project distance: 10000 meters away
+Power Consumption:  3.7V @ 1A
+Power supply: 1×18650 Recharged  battery 
+Expected lifetime:   >8,000 hours
+Warranty: 3 Months Factory warranty
+
+
+Packing list:
+1x Manual 
+1x Battery 
+1x Charger
+1x Box 
+1x Laser Pointer 
+1x Laser Goggles
+
+WARNING: 
+1. Never look directly into the laser beam. 
+2. Never point a laser beam at a person. 
+3. Do not aim the laser at reflective surfaces. 
+4. Do not allow children to use laser pointers unless under the supervision of an adult. 
+
+
+
+
+-------------------------------------------------------------
+Cheap!Best choose to buy a burning 1w powerful blue laserpointer
+
+A true super bright 1000mW portable blue laser pointer! This 1000mW blue laser pointer features to focus,high-quality and high power.
+The laser light can be seen clearly though a long distance.
+
+SPECIFICATIONS:
+Name: Blue Laser Pointer 1000mW
+Wavelength: 440nm-450nm
+Output Power: 1000mW
+Class: Class IV
+Output Mode: Continuous Wave
+Features: Waterproof
+Laser sharpe: Dot   
+Product Color: Black / Blue (Random)
+Size: 25*210mm
+Body material: Aircraft-Grade Aluminum
+Operating Temp. Range: 10~30°C
+Storage Temp. Range: -10~50°C
+Project distance: >3000 meters away (Less in daylight)
+Working Voltage: DC=6-7V
+Warm-up Time: <1 second
+Power supply: CR123A / 16340 x2  Recharged  battery
+Operation: ON/OFF touching button
+Expected lifetime:   >5,000 hours
+Warranty: 3 months Factory warranty
+
+Packing list:
+1x Manual 
+1x Battery 
+1x Charger
+1x Box 
+1x Laser Pointer 
+
+
+WARNING: 
+1. Never look directly into the laser beam. 
+2. Never point a laser beam at a person. 
+3. Do not aim the laser at reflective surfaces. 
+4. Do not allow children to use laser pointers unless under the supervision of an adult. 
+
+
+
+
+-----------------------------------------------
+
+植木 桂 ,  君にメールをする時に、一つのミスが発生した。（その他のメールアドレスを通知してください。） --- Hiteclaser (admin@hiteclaser.com)
+katsur.u.1951.09.11.@docmo.ne.jp [Error]  ueki@shimahan.co.jp [we have sent email to you another email address.]
+
+
+
+
+	several minutes 
+	
+	Heat Sinking 
+
+One lit for 10 seconds, then turn off and let it rest for 1-2 minutes, followed by light, so that continuous operation is no problem.
+
+Ms. DA CRUZ Nathalie，
+
+http://www.lucklaser.com/635nm-5mw10mw-red-laser-module-line-1245mm-p-95.html 
+635nm 5mW~10mW Red laser module line 12*45mm
+-- 5mw  
+$59/Unit (Retail sale)
+$22/Unit (wholesale / 200pcs)
+
+-- 10mw
+$64/Unit (Retail sale)
+$27/Unit (wholesale / 200pcs)
+
+We need 8~10 working days to produce 400 units laser modules. 
+And it needs 3~5 days on the way to France. 
+
+Note: It's not a Focusable laser module, so if you need them, you should tell us your detail request. 
+1. How far the distance when you use this laser module? 
+The smallest laser beam line width is 0.5mm. 
+
+2. Which Fan angle do you need?
+10°,20°,30°,45°,60°,90°,110°,120° (choose)
+
+
+
+Best wishes,
+Vincent Chen
+
+-----Original Message-----
+From: Ms. DA CRUZ Nathalie [mailto:achats@capelec.fr] 
+Sent: Tuesday, June 25, 2013 3:32 PM
+To: Lucklaser Inc. Laser Pointer Store
+Subject: Message from Lucklaser Inc. Laser Pointer Store
+
+From:	Ms. DA CRUZ Nathalie
+Email:	achats@capelec.fr
+
+------------------------------------------------------
+
+Our company is located in France. Could you send me a quote for your 635nm
+10mW Red laser module line 12*45mm, qty 200 pcs please ? 5mW too, 200 pcs.
+Best regards
+
+------------------------------------------------------
+
+Office Use Only:	
+From:	Ms. DA CRUZ Nathalie
+Email:	achats@capelec.fr
+Login Name:	Not logged in
+Login Email:	Not logged in
+IP Address:	193.239.192.46 - 193.239.192.46
+Host Address:	eka-193-239-192-46.ftto.ovea.com
+Date and Time:	Tue Jun 25 2013 7:32:05 UTC
+
+
+
+
+
+
+様
+
+We suggest choosing to use Credit Card as the payment tool, it's very easy and convenient. (Support JCB/Visa/MaterCard)
+
+Any way, we also accept bank transfer.
+Below please find our China bank account:
+******************************************************************
+Bank Name: China Construction Bank Of China ZheJiang Branch HangZhou BinJiang YanJiang sub-branch
+Bank Address: DongXinDaDao road 688#,BinJiang,HangZhou city,ZheJiang Province,China
+SWIFT Code: PCBCCNBJZJX
+Bank Account:  6227001543670166942
+Bank Account owner: Chen ShuiJun
+Owner telephone number: 86-15967129903
+Owner address: BinJiang Area PuYan ChaoJiXingQiTian 104 Room,HangZhou city,ZheJiang Province,China
+******************************************************************
+1. 推薦する :: http://www.payforex.net/jp/top/  Many Japanese customers use it. 
+2. 追伸 :: コミッション / 無
+
+
+それではご入金後、メールなどご連絡をよろしくお願い致します。
+「ご連絡メールは」
+1. ネット注文NO 
+2. 振込金額
+
+というようにお願いいたします。
+
+
+謹白
+【店長】 Vincent Chen
+【商号】高科激光株式会社 ハイテクレーザーカブシキガイシャ
+【店舗名】www.hiteclaser.com
+【E-Mail】 admin@hiteclaser.com
+------------------------End------------------------
+
+
+
+
+
+
+abcdefghijk+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-22916103-15', 'civillaser.com');
+  ga('send', 'pageview');
+
+</script>
+
+
+<!-- Begin: google analytics -->	
+<script> 
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+  ga('create', 'UA-22916103-15', 'civillaser.com');
+  ga('send', 'pageview');
+ 
+</script>	
+<!-- End: google analytics -->	
+
+
+
+
+
+www.Hiteclaser.com/Best-Green-Laser
+http://www.hiteclaser.com/2013600mw-p-22.html
+
+
+タクティカル 緑 レーザー サイト  戦術的なSytle
+
+【特徴】
+高品質のアルミ合金、 耐久性のある黒マット仕上げ; 
+高精度レーザー ;
+ウィンデージと角度調節 ;
+グリーンレーザーポインター長距離夜の狩猟ライフル銃;
+
+
+
+
+【規格】
+レーザー素子: 可視光緑色半導体レーザー
+レーザー波長：532nm
+レーザー出力: <20mW(昼間でも可視できます)  
+到着距離: 1500m
+パワー安定性: 2% Model Dependent   
+電池型番及び数: CR123リチウム電池(電圧:3V)　または　16340 充電 電池(3.7V)　1本
+照準精密度: L5 mrad
+指示安定性: L 0.005 mrad
+作動寿命: 10000 Hours
+パワー要求: DC=3V ~ 3.7V 
+作動電流: <260mA
+製品外殻材質: アルミニウム 
+延長線スイッチ: 1 個 
+保証期: 1 year | 3ヶ月
+
+
+【附属品】
+1個 x グリーンレーザーサイト 
+1個 x 充電器　
+1個 x 16340 充電 バッテリー 
+1個 x 荷造り/ギフトパッケージ　  
+
+
+
+**********************************************************************************************
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+2013-1-18
+火车票
+
+
+饶章国 420921198409214254
+饶长征 422201197109084236
+黄爱玲 42220119700401424x
+
+
+      sui
+起点: 绥芬河 或 哈尔滨   -->　终点: 孝感  武汉
+
+1,名字 身份证 核实; 有个少一位
+2. 手机号分别是多少
+3. 绥芬河 ->  孝感 的没车
+4. 哈尔滨 -> 孝感 的2月3,4,5应该都有票 只有硬座的 要几号的?
+5. T184 还是 K976?   T184快10小时
+
+http://1z0.net/articlelist/?16.html
+
+http://2255k.com/html/toupaizipai1/index.html
+
+http://911apian.com/list/pics-20-index.html
+
+
+
+
+****************************************************************
+黑笔 金万年 0.5 细头 
+
+****************************************************************
+
+レーザーポインター
+高出力レーザーポインター
+レーザー ポインタ
+グリーン レーザー
+グリーンレーザーポインター
+グリーン レーザー ポインター
+緑レーザーポインター
+強力 レーザー ポインター
+green laser pointer
+2w レーザー ポインター
+
+------------------------------------------------------------------
+
+cp *.jpg /home/www/default/canetalaser/images/
+cp *.gif /home/www/default/canetalaser/images/
+cp *.png /home/www/default/canetalaser/images/
+cp *.JPG /home/www/default/canetalaser/images/
+
+
+cd /home/www/default/lucklaser/images/
+cd /home/www/default/canetalaser/images/
+
+------------------------------------------------------------------
+
+mv /home/www/default/hiteclaser/tmp/*.jpg   /home/www/default/hiteclaser/images/
+
+
+mv /home/www/default/lucklaser/tmp/*.jpg   /home/www/default/lucklaser/images/
+
+
+mv /home/www/default/civillaser/tmp/*.jpg   /home/www/default/civillaser/images/
+
+mv /home/www/default/civillaser-jp/tmp/*.jpg   /home/www/default/civillaser-jp/images/
+
+
+
+
+mv /home/www/default/canetalaser/tmp/*.jpg   /home/www/default/canetalaser/images/
+
+
+<div>
+<a href="http://www.hiteclaser.com/445nm2w-p-249.html" alt="高出力445nm2Wレーザーポインター 懐中電灯 特売!" title="高出力445nm2Wレーザーポインター 懐中電灯 特売!" target="_blank">
+<img src="/images/2w-blue-laser-pointer-700.jpg" /></a>
+</div>
+E:\workspace\Vinncent_docSVN\Adwords\Google shopping
+
+---------------------------
+
+vincent_0571@163.com
