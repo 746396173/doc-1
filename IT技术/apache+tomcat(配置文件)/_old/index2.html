@@ -1,0 +1,953 @@
+
+
+
+<!--  taglib prefix="security" uri="http://www.springframework.org/security/tags" -->
+
+
+
+	
+
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta http-equiv="Cache-Control" content="no-store"/>
+<meta http-equiv="Pragma" content="no-cache"/>
+<meta http-equiv="Expires" content="0"/>
+
+		
+		
+<script type="text/javascript"  src="/common/js/jquery/jquery.js" ></script>
+<script type="text/javascript"  src="/common/js/common.js" ></script>
+<script type="text/javascript"	src="/common/js/hm_switch.js"></script>
+<script type="text/javascript"	src="/common/js/swfobject/swfobject.js"></script>
+<script type='text/javascript'  src='/common/js/global2.js'></script>
+<script type='text/javascript'  src='/common/js/opinionlab/oo_engine.js'></script>
+<script type="text/javascript"  src="/common/js/hybridjs.js"></script>
+<script type="text/javascript"  src="/common/js/sf.js"></script>
+<script type="text/javascript"  src="/common/js/jquery/jquery.cookie.js" ></script>
+<script type="text/javascript"  src="/common/js/jquery/jquery.pngFix.js" ></script>
+<script type="text/javascript"  src="/common/js/jquery/jquery.pngFix.pack.js" ></script>
+
+<link href="/common/assets/css/sfdc_standard.css" rel="stylesheet"	type="text/css" />
+<link href="/common/assets/css/sfdc_alt_cn.css" rel="stylesheet"	type="text/css" />
+
+
+<script src="/common/js/jquery/boxy/jquery.boxy.js" type="text/javascript"></script>
+<link href="/common/js/jquery/boxy/boxy.css" rel="stylesheet"	type="text/css" />
+
+
+<script>
+	
+	if ($.browser.msie) {
+		if ($.browser.version == "6.0") {
+			document.write('<link rel="stylesheet" type="text/css" href="/common/assets/css/ie6.css" />');
+		}
+		document.write('<link rel="stylesheet" type="text/css" href="/common/assets/css/ie.css" />');
+	}
+</script>
+<script>
+	/*
+	window.onload = function(evt) {
+		if (typeof (initAloha) == 'function')
+			initAloha();
+	}
+	*/
+	
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+
+<!-- Begin:head -->
+
+
+
+
+<!--  taglib prefix="security" uri="http://www.springframework.org/security/tags" -->
+
+
+
+	
+
+
+<head>	
+    <link rel="shortcut icon" href="/common/assets/images/logo/favicon.ico" />	
+	<title>我爱速读|5isudu.com|做最好的在线速读训练系统 - 首页</title>
+</head>
+
+
+<!-- End:head -->
+
+<script src="/common/js/jquery/jquery.qtip-1.0.0-rc3.min.js" type="text/javascript"></script>
+
+<body>    
+	<div id="centerwrap">    
+		<!--Begin:HEADER-->
+		
+
+
+<!--  taglib prefix="security" uri="http://www.springframework.org/security/tags" -->
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+<div  id="hdrwrapper">
+	<div id="hdrcontainer">
+		<div id="hdrlogo">
+			<a name="header_bookmark">&nbsp;</a>
+			<a  href='/index_j.html' title="5isudu.com" id="backhome"><img src="/common/assets/images/trans.gif"	alt="welcome 5isudu.com" /></a>
+		</div><!--end hdrlogo-->
+
+		<div id="globalnav">
+				
+						<form id="loginForm" action="/j_spring_security_check" method="post" onsubmit="return CheckLoginInput(this)">
+						<table border="0"  >
+							<tr >
+								<td style="padding:3px 5px 10px 0;" align="right" nowrap>
+									<span id="loginerror" style="color:red;margin:0 5px 0 0"> 
+										
+									</span>
+			
+									<img src="/common/assets/images/login.gif" weight="12px" height="13px" />
+				                    <span class="label"> 用户名:</span><input class="input_text" type="text" name="j_username" id="j_username" value="" maxlength="40" size="25">
+									<span class="label">密码:</span><input class="input_text" type="password" name="j_password" id="j_password" value="" maxlength="40" size="25">
+								</td>
+								<td style="padding:3px 5px 10px 0;" align="right" width="72">
+									<a class="button" href="#" id="login" onclick="login(); this.blur();return false;"><span>登 录</span></a>
+								</td>
+								<td style="padding:3px 5px 10px 0;" align="right" width="190">
+									<input class="checkbox" type="checkbox" name="_spring_security_remember_me"  >
+									<span class="label">自动登录</span>
+									<a href="/user/user_af_register.html"><span>免费注册</span></a>
+									<a href="/user/user_af_forgetpw.html"><span>忘记密码</span></a>
+								</td>
+							</tr>
+						</table>
+						</form>
+				
+		</div>
+
+		
+		<div id="toolscontainer">
+			<img src="/common/cn/assets/images/hdr_nosoftware_bug.gif" border="0"	alt="hdr_nosoftware_bug" name="sublogo" id="sublogo" />
+		</div> <!--end toolscontainer-->
+
+
+		<div id="tabnavcontainer">
+			<div id="tabnav">
+				<ul>
+					<li><a href='/home/home_a.html' class='on'><span>首页</span></a></li>
+					<li><a href='/info/info_a.html' ><span>走进速读</span></a></li>
+					<li><a href='/train/train_a.html' ><span>速读训练</span></a></li>
+					<li><a href='/set/set_a.html' ><span>管理中心</span></a></li>
+					<li><a href='http://forum.5isudu.com' target="_blank"><span>速读论坛</span></a></li>
+					
+					
+					<li id="tabnavlogin"><a href='/user/login_a.html' ><span>用户登录</span></a></li>
+					
+				</ul>
+			</div><!--end tabnav-->
+		</div><!--end tabnavcontainer-->
+
+	</div><!--end hdrcontainer-->
+</div><!--end hdrwrapper-->
+<div class="spacer"></div>
+
+<div id="QAmsg" style="display:none;">
+	<iframe src="/suggestion/suggestion_a.html" frameborder="0" scrolling="no" height="200px" width="350px" id="boxyframe"></iframe>
+</div>
+
+<script language="javascript">
+var boxy;
+$(function() {	
+	$('#myQA').click(function() {
+		var box=new Boxy($("#QAmsg"),{
+		     title:"问题和建议",
+		     closeText:"[关闭]",
+		     center:true,
+		     modal:true,
+		     draggable:true
+		});
+		boxy = box;
+	});
+
+	$("#j_password").keydown(function(event){  
+		if(event.keyCode == '13') {	
+			login();
+		}
+	});
+
+	//如果用户有新消息，加闪烁
+	if($("#newmsg")[0]){
+		blink('newmsg'); 
+	}
+	
+	
+});
+
+
+function blink(elId){
+	 var html = ''; 
+	 if (document.all){
+		 html += 'var el = document.all.' + elId + ';';
+	 }else if (document.getElementById){
+		 html += 'var el = document.getElementById("' + elId + '");';  
+	 } 
+	 //html +=   'el.style.visibility = ' +   'el.style.visibility == "hidden" ? "visible" : "hidden"';
+	 html +=   'el.style.color = ' +   'el.style.color == "red" ? "#668899" : "red"';
+	 if (document.all || document.getElementById){
+		 setInterval(html, 500); 
+	 } 
+}
+
+function closeBoxy(){
+	boxy.hide();
+	window.location.reload();	
+}
+
+
+
+
+
+function CheckLoginInput(form){
+	document.getElementById("loginerror").innerHTML = "";
+	var userName = document.getElementById("j_username").value;
+	var password = document.getElementById("j_password").value;
+	if(userName == "" || password == ""){
+		document.getElementById("loginerror").innerHTML = "用户名、密码不能为空";
+		document.getElementById("j_username").focus();
+		return false;
+	}else{
+		return true;
+	}
+}
+
+function login(){
+	var form = document.getElementById('loginForm');
+	if(CheckLoginInput(form)){
+		form.submit();
+	}
+}
+
+
+</script>
+
+		<!--End:HEADER-->
+
+
+		<!-- Begin:mainBody -->
+		<div id="container">
+			<div id="contentwrapper">
+				<div id="topbannerImg">
+						<div id="suduinfo">
+							<a href='/info/info_a.html' 
+								title="如果你是新手，相信这里详细、系统的介绍能把你带入神奇的速读世界；如果你是高手，这里众多的经验分享、最新咨询也能为您带来一些启发。" >
+                                <img src="/common/assets/images/trans.gif"/>
+                            </a>
+						</div>
+						<div id="sudutrain">
+							<a href='/train/train_a.html' 
+								title="一套完整、专业的速读训练方法；这些训练方法已经被无数次的证明是科学有效的；训练主要包括：基础训练、实战训练、辅助训练。" >
+                                <img src="/common/assets/images/trans.gif"/>
+                            </a>
+						</div>						
+						<div id="forcewordLeft">
+						  <UL>
+							<LI><SPAN>用速读积累知识</SPAN> </LI>
+						 	<LI><SPAN>掌握速读速记</SPAN> </LI>
+							<LI><SPAN>知识改变命运</SPAN> </LI>
+							<LI><SPAN>在线速读训练</SPAN> </LI>
+							<LI><SPAN>一目十行不是梦</SPAN> </LI>
+							<!-- 
+							<LI><SPAN>花点空闲时间</SPAN> </LI>
+							<LI><SPAN>通过简单速读训练</SPAN> </LI>
+							<LI><SPAN>1分钟看完60页</SPAN> </LI>
+							 -->
+						  </UL>
+						</div>
+						<div id="forcewordRight">
+						  <UL>
+							<LI><SPAN>用知识改变命运</SPAN> </LI>
+						 	<LI><SPAN>创造人生奇迹</SPAN> </LI>
+							<LI><SPAN>速读成就人生</SPAN> </LI>
+							<LI><SPAN>专业、简便、免费</SPAN> </LI>
+							<LI><SPAN>过目不忘你也能</SPAN> </LI>
+							<!-- 
+							<LI><SPAN>掌握终身收益技能</SPAN> </LI>
+							<LI><SPAN>轻松提高阅读速度10倍</SPAN> </LI>
+							<LI><SPAN>颠倒常规的速读术</SPAN> </LI>
+							 -->
+						  </UL>
+						</div>
+						<div id="suduset">
+							<a href='/set/set_a.html' 
+								title="训练偏好：设置每个学员的训练进度、上传适合自己的阅读材料; 个人信息：修改个人信息，管理系统消息，查看问题、建议。" >
+                                <img src="/common/assets/images/trans.gif"/>
+                            </a>
+						</div>
+						<div id="suduforum">
+							<a href='http://forum.5isudu.com' 
+								title="学员交流问题、分享成就的空间；我们还整理了众多速读前行者的成功案例、失败经历供您参考。"
+								target="_blank">	
+                                <img src="/common/assets/images/trans.gif"/>
+                            </a>
+						</div>
+	
+						<div class="clearmb">&nbsp;</div>
+                </div><!-- end:body/centerwrap/container/contentwrapper/topbannerImg -->
+
+				<div id="contentcontainer2">
+					<div id="content4hm">
+						<h1>
+							做最好的在线速读训练系统
+							<img src="/common/assets/images/promos/free.gif"   border="0" alt="公益网站"  width="72" height="24" />
+						</h1>
+						<h2 align="center" class="gray">
+							<a	href="javascript:viewPerusal(14)" class="gray">
+								每天花1小时，坚持 1-3 个月，就能大幅提高您的阅读速度，甚至做到一目十行，而且过目不忘。
+							</a>
+						</h2>
+						<div class="clearmb">&nbsp;</div>
+						<div id="tilessection4" class="centercontent">
+							在线训练 无需安装 | 循序渐进  容易上手 | 效果明显 受益巨大 | 论坛活跃 资料集中 | 完全免费 随到随学
+						</div>
+
+
+						<div id="suduinfomap">
+							<div id="category-list">
+								<table>
+									<tr class="category-section">
+										<td class="category-header">速<br>读<br>知<br>识<br></td>
+										<td class="category-content">
+											<table>
+												<tr class="category-title">
+													<td>
+														<a href="/info/info_a2_perusal_2.html">速读理论</a>
+													</td>
+												</tr>
+												<tr class="category-node">
+													<td> 
+														<a  href="javascript:viewPerusal(1)">什么是速读</a>
+														<a  href="javascript:viewPerusal(2)">速读原理</a>
+														<a  href="javascript:viewPerusal(5)">为什么要速读</a>
+														<a  href="javascript:viewPerusal(20)">速读的四个特点</a>
+														<a  href="javascript:viewPerusal(8)">速读考核标准</a>
+														<a  href="javascript:viewPerusal(12)">速读生理基础</a>
+														<a  href="/info/info_a2_perusal_2.html" >更多……</a>		
+													</td>
+												</tr>
+												<tr class="category-title">
+													<td>
+														<a href="/info/info_a2_perusal_6.html">速读杂谈</a>
+													</td>
+												</tr>
+												<tr class="category-node">
+													<td>
+														<a  href="javascript:viewPerusal(13)">掌握速读记忆，创造人生奇迹</a>
+														<a  href="javascript:viewPerusal(16)">爱读书的民族才有希望</a>
+														<a  href="javascript:viewPerusal(17)">读书是终生之事</a>
+														<a  href="/info/info_a2_perusal_6.html">更多……</a>	
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+									<tr class="category-section">
+										<td class="category-header">速<br>读<br>训<br>练<br></td>
+										<td class="category-content">
+											<table>
+												<tr class="category-title">
+													<td>
+														<a href="javascript:turn2train('baseTrain')">基础训练</a>
+													</td>
+												</tr>
+												<tr class="category-node">
+													<td>
+														<a  href="javascript:turn2train('breath')">丹田呼吸</a>
+														<a  href="javascript:turn2train('peerat')">黑点凝视</a>
+														<a  href="javascript:turn2train('watchMove')">黑点移动</a>
+														<a  href="javascript:turn2train('watchLBMove')">视点纵横移动</a>
+														<a  href="javascript:turn2train('watchDiagonalMove')">视点对角线移动</a>
+														<a  href="javascript:turn2train('watchBookpage')">视点书页连接</a>
+														<a  href="javascript:turn2train('watchRoundMove')">视点圆形移动</a>
+														<a  href="javascript:turn2train('eyeshotExtend')">视野扩展</a>
+														<a  href="javascript:turn2train('shuteer')">舒特尔表</a>
+														<a  href="javascript:turn2train('characterExtend')">字符扩展</a>
+														<a  href="javascript:turn2train('letterExtend')">文字扩展</a>
+														<a  href="javascript:turn2train('focusMove')">焦点横向移动</a>
+														<a  href="javascript:turn2train('focusMove')">焦点纵向移动</a>
+													</td>
+												</tr>	
+												<tr class="category-title">
+													<td>
+														<a href="javascript:turn2train('actualTrain')">实战训练</a>
+													</td>
+												</tr>
+												<tr class="category-node">
+													<td>
+														<a  href="javascript:turn2train('readTrain1')">阅读训练</a>
+														<a  href="javascript:turn2train('readTest1')">文章测试</a>
+														<a  href="javascript:turn2train('readquickTest')">闪读测试</a>
+													</td>
+												</tr>
+												<tr class="category-title">
+													<td>
+														<a href="javascript:turn2train('exTraining')">辅助训练</a>
+													</td>
+												</tr>
+												<tr class="category-node">
+													<td>
+														<a  href="javascript:turn2train('oddMnemonics')">奇象记忆法</a>
+														<a  href="javascript:turn2train('thinkingMap')">思维导图</a>
+														<a  href="javascript:turn2train('stramonium')">曼陀罗</a>
+														<a  href="javascript:turn2train('3d')">3D图像</a>
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+									<tr class="category-section">
+										<td class="category-header">问<br>题<br>经<br>验<br></td>
+										<td class="category-content">
+											<table>
+												<tr class="category-title">
+													<td>
+														<a href="/info/info_a2_perusal_3.html">常见问题</a>
+													</td>
+												</tr>
+												<tr class="category-node">
+													<td>
+														<a  href="javascript:viewPerusal(9)">如何开始训练</a>
+														<a  href="javascript:viewPerusal(25)">如何扩展视野</a>
+														<a  href="javascript:viewPerusal(23)">如何消除回跳</a>
+														<a  href="javascript:viewPerusal(24)">如何消除读音</a>
+														<a  href="/info/info_a2_perusal_3.html">更多……</a>	
+													</td>
+												</tr>	
+												<tr class="category-title">
+													<td>
+														<a href="/info/info_a2_perusal_4.html">经验总结</a>
+													</td>
+												</tr>
+												<tr class="category-node">
+													<td>
+														<a  href="javascript:viewPerusal(21)">一位速读高手的笔记</a>
+														<a  href="javascript:viewPerusal(22)">来自一位速读站长的经验 </a>
+														<a  href="javascript:viewPerusal(26)">速读训练总结 </a>
+														<a  href="/info/info_a2_perusal_4.html">更多……</a>	
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+
+							</div>
+							
+							
+							<div class="mb">&nbsp;</div>
+							<div id="byRole">
+								<h2>了解他们为什么推荐  <span class="sitename">我爱速读网</span>(5isudu.com)</h2>
+								<ul class="headshotlinks">
+								    <li><a class="headshot" href="#" id="commends1"><img alt="" src="/common/assets/images/headshots/1.jpg" /> <span><!-- overlay --></span></a><!-- .headshot --><a href="#" id="commendsLabel1">公司白领 </a> <!-- .text --></li>
+								    <li><a class="headshot" href="#" id="commends2"><img alt="" src="/common/assets/images/headshots/2.jpg" /> <span><!-- overlay --></span></a><!-- .headshot --><a href="#" id="commendsLabel2">在校学生 </a> <!-- .text --></li>
+								    <li><a class="headshot" href="#" id="commends3"><img alt="" src="/common/assets/images/headshots/3.jpg" /> <span><!-- overlay --></span></a><!-- .headshot --><a href="#" id="commendsLabel3"> 公务人员</a> <!-- .text --></li>
+								    <li><a class="headshot" href="#" id="commends4"><img alt="" src="/common/assets/images/headshots/4.jpg" /> <span><!-- overlay --></span></a><!-- .headshot --><a href="#" id="commendsLabel4">大学教授 </a> <!-- .text --></li>
+								    <li><a class="headshot" href="#" id="commends5"><img alt="" src="/common/assets/images/headshots/5.jpg" /> <span><!-- overlay --></span></a><!-- .headshot --><a href="#" id="commendsLabel5">网站编辑 </a> <!-- .text --></li>
+								</ul>
+							</div>
+							
+
+							
+							<div class="commends">
+									<table align="left" width="100%">
+										<tr>
+											<td width="20px">&nbsp;</td>
+											<td id="commends_message1">
+												小函，女，25，公司白领
+											</td>
+											<td width="20px">&nbsp;</td>
+										</tr>
+										<tr>
+											<td width="20px">&nbsp;</td>
+											<td id="commends_message2">
+												我每天花1小时来练速读，已经坚持半年多了， 这段时间感觉很充实，对未来充满了希望。
+												现在我能以5000字/分钟的速度快速的吸收众多有营养的知识， 
+												帮我扩展眼界、 修养心灵、提升智慧、 成就自己。 通过速读训练同时让我的思维更加活跃，源源不断的激发着创造力。这一切很神奇却又真真切切。
+											</td>
+											<td width="20px">&nbsp;</td>
+										</tr>
+									</table>
+							</div>	
+							
+					
+							<div class="mb">&nbsp;</div>
+
+						</div><!-- end:body/centerwrap/container/contentwrapper/contentcontainer2/content4hm/suduinfo -->
+
+					<div class="clearmb"></div>
+					</div><!-- end:body/centerwrap/container/contentwrapper/contentcontainer2/content4hm -->
+
+					<div id="right">
+						<div id="extranavcontainer">
+							<div class='promod'>
+								<a href='/info/info_a1_beginner.html' title='新手入门'     class='promob' >
+									<img src="/common/assets/images/promos/newman.gif"  name="新手入门" border="0" id="新手入门" alt=""  style="margin:3px" />
+								</a>
+							</div>
+							<div id="spacermb">&nbsp;</div>
+							<div class='promod'>
+								<a  href='/info/info_a1_sysinfo.html' title='系统介绍'     class='promob' >
+									<img src="/common/assets/images/promos/sys_introduce.gif"  name="系统介绍" border="0" id="系统介绍" alt=""  style="margin:3px" />
+								</a>
+							</div>
+							<div id="spacermb">&nbsp;</div>
+							<div class='promod'>
+								<a  href='/info/info_a1_training.html' title='训练课程'    class='promob' >
+									<img src="/common/assets/images/promos/train_calendar.gif"  name="训练课程" border="0" id="训练课程" alt=""  style="margin:3px" />
+								</a>
+							</div>
+							<div id="spacermb">&nbsp;</div>
+						</div><!-- end:body/centerwrap/container/contentwrapper/contentcontainer2/right/extranavcontainer -->
+
+						<div id="relatedcontainer">
+							<div id="related_top"><img src='/common/assets/images/trans.gif' alt="" /><br /></div>
+							<div id="related">
+								<img class='icon' src="/common/assets/images/icons/icon_casestudy.gif" alt="" />
+								<h3>速读排行榜(字/分钟)</h3>
+								<ul>
+									
+										
+											<li><a href="javascript:openUserInfo('21');"  ><span>1  
+												&nbsp;
+												
+												    xiaogu...
+												   
+												
+												&nbsp;&nbsp; 1000 </span></a></li>
+												<div id="topUserInfo21" class="userinfo">
+													<table >
+														<tr nowrap><td align="right" class="userLabel">用户名:</td><td align="left" class="userInfoVal">xiaoguaihua</td></tr>
+														<tr nowrap><td align="right" class="userLabel">速读级别:</td><td align="left" class="userInfoVal">1000字/分钟</td></tr>
+														<tr nowrap><td align="right" class="userLabel">本站排名:</td><td align="left" class="userInfoVal">第1名/共21人</td></tr>
+														<tr nowrap><td align="right" class="userLabel">注册时间:</td><td align="left" class="userInfoVal">2010-06-24 22:24:38</td></tr>
+														<tr nowrap><td align="right" class="userLabel">联系交流:</td><td align="left" class="userInfoVal">cxy4637@sina.com.cn</td></tr>
+													</table>
+												</div>
+										
+											<li><a href="javascript:openUserInfo('20');"  ><span>2  
+												&nbsp;
+												   
+												      
+												     不二贼
+												
+												&nbsp;&nbsp; 200 </span></a></li>
+												<div id="topUserInfo20" class="userinfo">
+													<table >
+														<tr nowrap><td align="right" class="userLabel">用户名:</td><td align="left" class="userInfoVal">不二贼</td></tr>
+														<tr nowrap><td align="right" class="userLabel">速读级别:</td><td align="left" class="userInfoVal">200字/分钟</td></tr>
+														<tr nowrap><td align="right" class="userLabel">本站排名:</td><td align="left" class="userInfoVal">第2名/共21人</td></tr>
+														<tr nowrap><td align="right" class="userLabel">注册时间:</td><td align="left" class="userInfoVal">2010-06-24 09:20:46</td></tr>
+														<tr nowrap><td align="right" class="userLabel">联系交流:</td><td align="left" class="userInfoVal">233523053@qq.com</td></tr>
+													</table>
+												</div>
+										
+											<li><a href="javascript:openUserInfo('19');"  ><span>3  
+												&nbsp;
+												
+												    jayma1...
+												   
+												
+												&nbsp;&nbsp; 200 </span></a></li>
+												<div id="topUserInfo19" class="userinfo">
+													<table >
+														<tr nowrap><td align="right" class="userLabel">用户名:</td><td align="left" class="userInfoVal">jayma123</td></tr>
+														<tr nowrap><td align="right" class="userLabel">速读级别:</td><td align="left" class="userInfoVal">200字/分钟</td></tr>
+														<tr nowrap><td align="right" class="userLabel">本站排名:</td><td align="left" class="userInfoVal">第3名/共21人</td></tr>
+														<tr nowrap><td align="right" class="userLabel">注册时间:</td><td align="left" class="userInfoVal">2010-06-24 01:31:37</td></tr>
+														<tr nowrap><td align="right" class="userLabel">联系交流:</td><td align="left" class="userInfoVal">skyma123@yahoo.com</td></tr>
+													</table>
+												</div>
+										
+											<li><a href="javascript:openUserInfo('18');"  ><span>4  
+												&nbsp;
+												   
+												      
+												     云淡风清
+												
+												&nbsp;&nbsp; 200 </span></a></li>
+												<div id="topUserInfo18" class="userinfo">
+													<table >
+														<tr nowrap><td align="right" class="userLabel">用户名:</td><td align="left" class="userInfoVal">云淡风清</td></tr>
+														<tr nowrap><td align="right" class="userLabel">速读级别:</td><td align="left" class="userInfoVal">200字/分钟</td></tr>
+														<tr nowrap><td align="right" class="userLabel">本站排名:</td><td align="left" class="userInfoVal">第4名/共21人</td></tr>
+														<tr nowrap><td align="right" class="userLabel">注册时间:</td><td align="left" class="userInfoVal">2010-06-23 19:52:18</td></tr>
+														<tr nowrap><td align="right" class="userLabel">联系交流:</td><td align="left" class="userInfoVal">65559763@qq.com</td></tr>
+													</table>
+												</div>
+										
+											<li><a href="javascript:openUserInfo('17');"  ><span>5  
+												&nbsp;
+												
+												    summer...
+												   
+												
+												&nbsp;&nbsp; 200 </span></a></li>
+												<div id="topUserInfo17" class="userinfo">
+													<table >
+														<tr nowrap><td align="right" class="userLabel">用户名:</td><td align="left" class="userInfoVal">summermore</td></tr>
+														<tr nowrap><td align="right" class="userLabel">速读级别:</td><td align="left" class="userInfoVal">200字/分钟</td></tr>
+														<tr nowrap><td align="right" class="userLabel">本站排名:</td><td align="left" class="userInfoVal">第5名/共21人</td></tr>
+														<tr nowrap><td align="right" class="userLabel">注册时间:</td><td align="left" class="userInfoVal">2010-06-23 10:33:34</td></tr>
+														<tr nowrap><td align="right" class="userLabel">联系交流:</td><td align="left" class="userInfoVal">zhaobinghziee@gmail.com</td></tr>
+													</table>
+												</div>
+										
+											<li><a href="javascript:openUserInfo('15');"  ><span>6  
+												&nbsp;
+												   
+												      
+												     Hannah
+												
+												&nbsp;&nbsp; 200 </span></a></li>
+												<div id="topUserInfo15" class="userinfo">
+													<table >
+														<tr nowrap><td align="right" class="userLabel">用户名:</td><td align="left" class="userInfoVal">Hannah</td></tr>
+														<tr nowrap><td align="right" class="userLabel">速读级别:</td><td align="left" class="userInfoVal">200字/分钟</td></tr>
+														<tr nowrap><td align="right" class="userLabel">本站排名:</td><td align="left" class="userInfoVal">第6名/共21人</td></tr>
+														<tr nowrap><td align="right" class="userLabel">注册时间:</td><td align="left" class="userInfoVal">2010-06-23 10:18:28</td></tr>
+														<tr nowrap><td align="right" class="userLabel">联系交流:</td><td align="left" class="userInfoVal">Hannah.wang@perficient.com</td></tr>
+													</table>
+												</div>
+										
+											<li><a href="javascript:openUserInfo('14');"  ><span>7  
+												&nbsp;
+												
+												    jiangq...
+												   
+												
+												&nbsp;&nbsp; 200 </span></a></li>
+												<div id="topUserInfo14" class="userinfo">
+													<table >
+														<tr nowrap><td align="right" class="userLabel">用户名:</td><td align="left" class="userInfoVal">jiangqiuxia</td></tr>
+														<tr nowrap><td align="right" class="userLabel">速读级别:</td><td align="left" class="userInfoVal">200字/分钟</td></tr>
+														<tr nowrap><td align="right" class="userLabel">本站排名:</td><td align="left" class="userInfoVal">第7名/共21人</td></tr>
+														<tr nowrap><td align="right" class="userLabel">注册时间:</td><td align="left" class="userInfoVal">2010-06-21 22:33:39</td></tr>
+														<tr nowrap><td align="right" class="userLabel">联系交流:</td><td align="left" class="userInfoVal">kiko19901012@126.com</td></tr>
+													</table>
+												</div>
+										
+											<li><a href="javascript:openUserInfo('13');"  ><span>8  
+												&nbsp;
+												
+												    man_ji...
+												   
+												
+												&nbsp;&nbsp; 200 </span></a></li>
+												<div id="topUserInfo13" class="userinfo">
+													<table >
+														<tr nowrap><td align="right" class="userLabel">用户名:</td><td align="left" class="userInfoVal">man_jia1</td></tr>
+														<tr nowrap><td align="right" class="userLabel">速读级别:</td><td align="left" class="userInfoVal">200字/分钟</td></tr>
+														<tr nowrap><td align="right" class="userLabel">本站排名:</td><td align="left" class="userInfoVal">第8名/共21人</td></tr>
+														<tr nowrap><td align="right" class="userLabel">注册时间:</td><td align="left" class="userInfoVal">2010-06-20 20:30:50</td></tr>
+														<tr nowrap><td align="right" class="userLabel">联系交流:</td><td align="left" class="userInfoVal">man_jia1@yeah.net</td></tr>
+													</table>
+												</div>
+										
+											<li><a href="javascript:openUserInfo('5');"  ><span>9  
+												&nbsp;
+												
+												    vincen...
+												   
+												
+												&nbsp;&nbsp; 200 </span></a></li>
+												<div id="topUserInfo5" class="userinfo">
+													<table >
+														<tr nowrap><td align="right" class="userLabel">用户名:</td><td align="left" class="userInfoVal">vincent</td></tr>
+														<tr nowrap><td align="right" class="userLabel">速读级别:</td><td align="left" class="userInfoVal">200字/分钟</td></tr>
+														<tr nowrap><td align="right" class="userLabel">本站排名:</td><td align="left" class="userInfoVal">第9名/共21人</td></tr>
+														<tr nowrap><td align="right" class="userLabel">注册时间:</td><td align="left" class="userInfoVal">2009-06-25 13:03:16</td></tr>
+														<tr nowrap><td align="right" class="userLabel">联系交流:</td><td align="left" class="userInfoVal">vincent0571@163.com</td></tr>
+													</table>
+												</div>
+										
+											<li><a href="javascript:openUserInfo('12');"  ><span>10  
+												&nbsp;
+												   
+												      
+												     tom
+												
+												&nbsp;&nbsp; 200 </span></a></li>
+												<div id="topUserInfo12" class="userinfo">
+													<table >
+														<tr nowrap><td align="right" class="userLabel">用户名:</td><td align="left" class="userInfoVal">tom</td></tr>
+														<tr nowrap><td align="right" class="userLabel">速读级别:</td><td align="left" class="userInfoVal">200字/分钟</td></tr>
+														<tr nowrap><td align="right" class="userLabel">本站排名:</td><td align="left" class="userInfoVal">第10名/共21人</td></tr>
+														<tr nowrap><td align="right" class="userLabel">注册时间:</td><td align="left" class="userInfoVal">2010-06-20 07:16:30</td></tr>
+														<tr nowrap><td align="right" class="userLabel">联系交流:</td><td align="left" class="userInfoVal">tom@gmail.com</td></tr>
+													</table>
+												</div>
+																				
+									
+									
+								</ul>
+							</div>
+							<div id="related_bottom"><img src='/common/assets/images/trans.gif' alt="" /><br /></div>
+						</div><!-- end:body/centerwrap/container/contentwrapper/contentcontainer2/right/relatedcontainer-->
+					</div><!-- end:body/centerwrap/container/contentwrapper/contentcontainer2/right -->
+
+
+				</div><!-- end:body/centerwrap/container/contentwrapper/contentcontainer2 -->
+
+			</div><!-- end:body/centerwrap/container/contentwrapper -->
+			<div class="spacer"></div>
+		</div><!-- end:container -->
+		<!-- End:mainBody -->
+
+    </div><!--END:body/CENTERWRAP-->  
+
+	<div class="spacer"></div>
+
+	<!--Begin:Footer-->
+	
+
+
+<!--  taglib prefix="security" uri="http://www.springframework.org/security/tags" -->
+
+
+
+	
+
+<div id="footer">
+    <div id="footertop">
+		&nbsp;
+    </div><!--END FOOTERTOP-->
+
+	<div class="clearmb2"><p>&nbsp;</p></div>
+
+	<div id="footerworldwide">
+     	<a href='/about/about_a1_aboutsite.html'  >关于本站</a> | 	
+		<a href='/about/about_a1_sitemap.html'  >网站地图</a> |		
+        <a href='/about/about_a1_helpcenter.html'  >帮助中心</a> |
+		<a href='/about/about_a1_sugList.html'  >建议问题</a> |
+		<a href='/about/about_a1_adservice.html'  >广告联系</a> |
+		<a href='/about/about_a1_fdlink.html'  >友情链接</a> |
+		<a href='/about/about_a1_aboutus.html'  >关于我们</a> 
+
+    </div><!--END FOOTERWORLDWIDE-->
+	<!-- copyRight -->
+	Copyright © 2009-2010  我爱速读(www.5isudu.com) -- 做最好的在线速读训练系统 All rights reserved. 
+
+	<script type="text/javascript" src="http://js.tongji.linezing.com/1799853/tongji.js"></script><noscript><a href="http://www.linezing.com"><img src="http://img.tongji.linezing.com/1799853/tongji.gif"/></a></noscript>      
+
+ </div><!--END FOOTER-->
+   
+
+
+   
+	<!--End:Footer-->
+
+
+</body>
+</html>
+<script >
+
+$(document).ready(function(){
+
+
+//topbannerImg tip	
+ $('#topbannerImg #suduinfo a[title],#topbannerImg #suduset a[title]').qtip({
+		      position: {
+		         corner: {
+		            target: 'topRight',
+		            tooltip: 'bottomLeft'
+		         }
+		      },
+		      style: {
+		         name: 'cream',
+		         padding: '7px 13px',
+		         width: {
+		            max: 250,
+		            min: 0
+		         },
+		         tip: true
+		      }
+ });
+
+ $('#topbannerImg #sudutrain a[title],#topbannerImg #suduforum a[title]').qtip({
+     position: {
+        corner: {
+           target: 'topLeft',
+           tooltip: 'bottomRight'
+        }
+     },
+     style: {
+        name: 'cream',
+        padding: '7px 13px',
+        width: {
+           max: 250,
+           min: 0
+        },
+        tip: true
+     }
+});
+
+//recommend message
+$('#commends1,#commendsLabel1').mouseover(function() {
+		var msg1 = "小函，女，25，公司白领";
+		var msg2 = "我每天花1小时来练速读，已经坚持半年多了，这段时间感觉很充实，对未来充满了希望。";
+		msg2 = msg2 + "现在我能以5000字/分钟的速度快速的吸收众多有营养的知识，帮我扩展眼界、修养心灵、提升智慧、成就自己。";
+		msg2 = msg2 + "通过速读训练，同时让我的思维更加活跃，源源不断的激发着创造力。这一切很神奇，却又真真切切。";
+		$('#commends_message1').html(msg1);
+		$('#commends_message2').html(msg2);
+});
+
+$('#commends2,#commendsLabel2').mouseover(function() {
+	var msg1 = "丹尼，女，15，在校学生";
+	var msg2 = "一直学习成绩平平的我，这个学期成绩突飞猛进,让老师和同学都刮目想看。";
+	msg2 = msg2 + "以前的我，尽管也很努力，但就是学的比其他同学慢一些，甚至深信自己确实比别人笨一些。";
+	msg2 = msg2 + "通过快速阅读训练以后，情况就大不一样了，不但提高了阅读速读，同时也帮我开启了沉睡的右脑，激活了我的想象力，";
+	msg2 = msg2 + "学习不再是机械式的死记硬背，而是思维的连续碰撞，令人兴奋的过程。";
+	$('#commends_message1').html(msg1);
+	$('#commends_message2').html(msg2);
+});
+
+$('#commends3,#commendsLabel3').mouseover(function() {
+	var msg1 = "陶然，男，28，公务员";
+	var msg2 = "有幸接触了在线速读训练系统， 让我有能力在繁忙的工作之余阅读大量的报刊杂志， 各种书籍， 迅速掌握时讯和广博的知识。";
+	msg2 = msg2 + "给我的生活、 社交、工作带来的众多积极影响。";
+	$('#commends_message1').html(msg1);
+	$('#commends_message2').html(msg2);
+});
+
+$('#commends4,#commendsLabel4').mouseover(function() {
+	var msg1 = "王教授，男，57，大学教授";
+	var msg2 = "每研究一个课题都要查看大量的相关资料，我预感再过几年速读将成为一项基本技能，";
+	msg2 = msg2 + " 如果你不能掌握， 你将被无情的淘汰。";
+	$('#commends_message1').html(msg1);
+	$('#commends_message2').html(msg2);
+});
+
+$('#commends5,#commendsLabel5').mouseover(function() {
+	var msg1 = "沈洁，女，35，网站主编";
+	var msg2 = "作为一名网编，每天要面对海量的信息。";
+	msg2 = msg2 + " 以前工作中，天天在超负荷的阅读大量的文章，总感觉在不断的透支自己， 虽然这份工作让我很有成就感， 收入也丰厚，";
+	msg2 = msg2 + " 但就是太累了，整天身心疲惫， 让我对它又爱又恨。";
+	msg2 = msg2 + "  现在好了， 我训练了三个月的快速阅读， 目前的工作效率比以前提高了5倍多， 工作起来游刃有余，";
+	msg2 = msg2 + "  终于可以合理的安排工作和生活的时间了！";
+	$('#commends_message1').html(msg1);
+	$('#commends_message2').html(msg2);
+});
+
+
+
+});//end ready
+
+
+/**
+ * 显示排行榜内用户的信息
+ */
+function openUserInfo(id){
+	var box=new Boxy($("#topUserInfo"+id),{
+	     title:"光荣榜",
+	     closeText:"[关闭]",
+	     center:true,
+	     modal:true,
+	     draggable:true
+	});
+}
+
+
+//导航图动态文字
+var i=1;
+$("#forcewordLeft ul li").hide();
+$("#forcewordLeft ul li").eq(0).show();
+$("#forcewordRight ul li").hide();
+$("#forcewordRight ul li").eq(0).show();
+var forceword=setInterval("sl()",5000);
+function sl(){
+	$("#forcewordLeft ul li").hide();
+	$("#forcewordLeft ul li").eq(i).show("slow");
+	$("#forcewordRight ul li").hide();
+	$("#forcewordRight ul li").eq(i).show("slow");
+	if(i<4){
+		i++;
+	}else{
+	    i = 0;
+	}
+}
+
+
+function viewPerusal(id){
+	
+	var addViewCount = "0";
+	var viewIds = $.cookie('viewIds');
+	if(viewIds == null){
+		$.cookie('viewIds',id);
+		addViewCount = "1";
+	}else{
+		if(viewIds.indexOf(id)>-1){	
+			addViewCount = "0";	
+		}else{
+			addViewCount = "1";
+			viewIds = viewIds + "|"+id;
+			var idList = viewIds.split('|');
+			if(idList.length > 100){
+				viewIds = "";
+				for(var i=50;i<idList.length;i++){
+					viewIds = viewIds + "|" + idList[i];
+				}				
+			}
+			$.cookie('viewIds',viewIds);
+		}
+	}
+	var url = "/info/info_af3_viewPerusal_perusal_"+id;
+	//url = url + "&add="+addViewCount;
+	url = url + "_"+addViewCount+".html";
+	
+
+	//window.open(url,'','fullscreen=1');
+	window.open(url);
+}
+
+function turn2train(mark){
+	var url = "/info/info_a2_m_training_"+mark+".html";
+	//url = url+mark;
+	location.href = url;
+}
+
+
+$(".category-section").hover(function() {
+	$(this).addClass('homepagesections');
+	},function(){
+	$(this).removeClass('homepagesections');
+});
+
+
+$.cookie('5isudu_cookie_name',null,{path: '/'}); 
+
+
+</script>
+
+
+

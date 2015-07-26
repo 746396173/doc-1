@@ -1,0 +1,16 @@
+﻿
+☆ 绝对路径
+<?php include_once($_SERVER["DOCUMENT_ROOT"]."/include/analyticstracking.php") ?>
+
+
+☆php插入数据库特殊字符处理
+两种方法：
+1.修改php.ini文件，将magic_quotes_gpc 设为 on
+2.在数据插入数据库前，用addslashes函数处理一下数据
+
+lucklaser->aliarm 问题： 
+$description = iconv('iso-8859-1','utf-8',$description);
+google feed中遇到 这个方法解决的；
+
+☆PHP本地路径
+http://www.localaliarm.com/phpinfo.php

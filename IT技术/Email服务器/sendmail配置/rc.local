@@ -1,0 +1,19 @@
+#!/bin/sh
+#
+# This script will be executed *after* all the other init scripts.
+# You can put your own initialization stuff in here if you don't
+# want to do the full Sys V style init stuff.
+
+
+#modify by vincent
+#touch /var/lock/subsys/local
+#ulimit -SHn 51200
+#service mysql start
+#/usr/local/apache/bin/apachectl -k start
+
+touch /var/lock/subsys/local
+ulimit -SHn 51200
+service mysql start
+/usr/local/apache2/bin/apachectl -k start
+/usr/local/tomcat/bin/startup.sh
+/etc/rc.d/init.d/sendmail start

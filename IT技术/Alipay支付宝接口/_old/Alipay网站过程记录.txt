@@ -1,0 +1,185 @@
+00:00:00.000	ステップ１（３ステップ中） - 配送情報 : レーザーポインター，グリーンレーザー，高出力レーザーはhiteclaserから来る, Laser Pointer								
++ 0.000		2	0.394	1058	24510	GET	200	html	http://www.hiteclaser.com/index.php?main_page=checkout_shipping
++ 0.248		2	0.001	0	0	GET	(Cache)	javascript	http://www.hiteclaser.com/common/common.js
++ 0.250		2	0.001	0	0	GET	(Cache)	css	http://www.hiteclaser.com/includes/templates/premium4a/css/stylesheet.css
++ 0.288			0.001	0	0	GET	(Cache)	javascript	http://www.google-analytics.com/ga.js
++ 0.342		1	0.062	1366	377	GET	200	gif	http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=15&utmn=835589222&utmhn=www.hiteclaser.com&utmcs=utf-8&utmsr=1440x900&utmvp=1436x486&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.1%20r102&utmdt=%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%EF%BC%91%EF%BC%88%EF%BC%93%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E4%B8%AD%EF%BC%89%20-%20%E9%85%8D%E9%80%81%E6%83%85%E5%A0%B1%20%3A%20%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%8C%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%EF%BC%8C%E9%AB%98%E5%87%BA%E5%8A%9B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AFhiteclaser%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%2C%20Laser%20Pointer&utmhid=708863006&utmr=0&utmp=%2Findex.php%3Fmain_page%3Dcheckout_shipping&utmht=1376621225171&utmac=UA-22916103-6&utmcc=__utma%3D254973713.1552283323.1372731777.1376559063.1376620747.4%3B%2B__utmz%3D254973713.1372735086.2.2.utmcsr%3Dblogs.yahoo.co.jp%7Cutmccn%3D(referral)%7Cutmcmd%3Dreferral%7Cutmcct%3D%2Fhiteclaer%3B&utmu=q~
++ 0.397		1	0.004	0	0	GET	(Cache)	javascript	http://www.googleadservices.com/pagead/conversion.js
+		8	0.404	2424	24887	6 requests			
+00:00:03.227	ステップ ２（３ステップ中）- お支払い情報 : レーザーポインター，グリーンレーザー，高出力レーザーはhiteclaserから来る, Laser Pointer								
++ 0.000		1	0.176	1229	596	POST	302	Redirect to http://www.hiteclaser.com/index.php?main_page=checkout_payment	http://www.hiteclaser.com/index.php?main_page=checkout_shipping
++ 0.180		2	0.500	1086	28587	GET	200	html	http://www.hiteclaser.com/index.php?main_page=checkout_payment
++ 0.474		2	0.001	0	0	GET	(Cache)	javascript	http://www.hiteclaser.com/common/common.js
++ 0.476		2	0.001	0	0	GET	(Cache)	css	http://www.hiteclaser.com/includes/templates/premium4a/css/stylesheet.css
++ 0.552			0.001	0	0	GET	(Cache)	javascript	http://www.google-analytics.com/ga.js
++ 0.659		1	0.091	1383	377	GET	200	gif	http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=16&utmn=1857835089&utmhn=www.hiteclaser.com&utmcs=utf-8&utmsr=1440x900&utmvp=1436x486&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.1%20r102&utmdt=%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%20%EF%BC%92%EF%BC%88%EF%BC%93%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E4%B8%AD%EF%BC%89-%20%E3%81%8A%E6%94%AF%E6%89%95%E3%81%84%E6%83%85%E5%A0%B1%20%3A%20%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%8C%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%EF%BC%8C%E9%AB%98%E5%87%BA%E5%8A%9B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AFhiteclaser%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%2C%20Laser%20Pointer&utmhid=211154546&utmr=0&utmp=%2Findex.php%3Fmain_page%3Dcheckout_payment&utmht=1376621228718&utmac=UA-22916103-6&utmcc=__utma%3D254973713.1552283323.1372731777.1376559063.1376620747.4%3B%2B__utmz%3D254973713.1372735086.2.2.utmcsr%3Dblogs.yahoo.co.jp%7Cutmccn%3D(referral)%7Cutmcmd%3Dreferral%7Cutmcct%3D%2Fhiteclaer%3B&utmu=q~
++ 0.684		1	0.005	0	0	GET	(Cache)	javascript	http://www.googleadservices.com/pagead/conversion.js
+		9	0.750	3698	29560	7 requests			
+00:00:08.886	ステップ3（３ステップ中） - ご注文確認 : レーザーポインター，グリーンレーザー，高出力レーザーはhiteclaserから来る, Laser Pointer								
++ 0.000		3	0.560	1231	28958	POST	200	html	http://www.hiteclaser.com/index.php?main_page=checkout_confirmation
++ 0.392		2	0.001	0	0	GET	(Cache)	javascript	http://www.hiteclaser.com/common/common.js
++ 0.394		2	0.001	0	0	GET	(Cache)	css	http://www.hiteclaser.com/includes/templates/premium4a/css/stylesheet.css
++ 0.447			0.001	0	0	GET	(Cache)	javascript	http://www.google-analytics.com/ga.js
++ 0.502		1	0.097	1377	377	GET	200	gif	http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=17&utmn=1519700037&utmhn=www.hiteclaser.com&utmcs=utf-8&utmsr=1440x900&utmvp=1436x486&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.1%20r102&utmdt=%E3%82%B9%E3%83%86%E3%83%83%E3%83%973%EF%BC%88%EF%BC%93%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E4%B8%AD%EF%BC%89%20-%20%E3%81%94%E6%B3%A8%E6%96%87%E7%A2%BA%E8%AA%8D%20%3A%20%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%8C%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%EF%BC%8C%E9%AB%98%E5%87%BA%E5%8A%9B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AFhiteclaser%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%2C%20Laser%20Pointer&utmhid=1151347891&utmr=0&utmp=%2Findex.php%3Fmain_page%3Dcheckout_confirmation&utmht=1376621234218&utmac=UA-22916103-6&utmcc=__utma%3D254973713.1552283323.1372731777.1376559063.1376620747.4%3B%2B__utmz%3D254973713.1372735086.2.2.utmcsr%3Dblogs.yahoo.co.jp%7Cutmccn%3D(referral)%7Cutmcmd%3Dreferral%7Cutmcct%3D%2Fhiteclaer%3B&utmu=q~
++ 0.566		1	0.001	0	0	GET	(Cache)	javascript	http://www.googleadservices.com/pagead/conversion.js
+		9	0.599	2608	29335	6 requests			
+00:00:13.095	https://tradeexprod.alipay.com/fastpay/securityCheck.htm?timestamp=07690443515B5F49514D617E&tokenId=P204c0ef79613b1aa130fc945caa10868								
++ 0.000		9	0.670	2480	2320	POST	302	Redirect to https://tradeexprod.alipay.com/gateway/exterfaceAssign.do?alipay_exterface_invoke_assign_client_ip=120.199.0.214&body=Hiteclaser+%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E8%A3%BD%E5%93%81%E5%B0%82%E7%94%A8+1%E5%86%86&extend_param=SHIP_TO_FIRSTNAME%5E%E5%92%8C%E5%BD%A6%7CSHIP_TO_LASTNAME%5E%E5%B0%8F%E6%9E%97%7CSHIP_TO_POSTALCODE%5E4101102%7CSHIP_TO_PHONENUMBER%5E09034246199%7CSHIP_TO_STREET1%5E%E6%B7%B1%E8%89%AF1802%7CSHIP_TO_CITY%5E%E8%A3%BE%E9%87%8E%E5%B8%82%7CSHIP_TO_STATE%5E%E9%9D%99%E5%B2%A1%E7%9C%8C%7CSHIP_TO_COUNTRY%5EJP%7CSHIP_TO_SHIPMETHOD%5EEMS%7CLOGISTICS_COST%5E0.00%7CREGISTRATION_NAME%5E%E5%92%8C%E5%BD%A6%E5%B0%8F%E6%9E%97%7CREGISTRATION_EMAIL%5Evincent0571%40gmail.com%7CREGISTRATION_PHONE%5E09034246199%7Cproduct_name%5EHiteclaser+%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E8%A3%BD%E5%93%81%E5%B0%82%E7%94%A8+1%E5%86%86&subject=order+%232659+from+Hiteclaser+Inc.+High+Technology++Laser+Pointer&sign_type=MD5&notify_url=http%3A%2F%2Fwww.hiteclaser.com%2Falipay_notify.php&defaultbank=boc-visa&out_trade_no=2659&return_url=http%3A%2F%2Fwww.hiteclaser.com%2Findex.php%3Fmain_page%3Dcheckout_process&sign=b600b782bc268628094f0926a2b0c222&_input_charset=utf-8&alipay_exterface_invoke_assign_target=createJVMDirectPay.htm&alipay_exterface_invoke_assign_model=fastpay&total_fee=5.66&service=alipay.trade.direct.forcard.pay&partner=2088011376518521&seller_id=2088011376518521&alipay_exterface_invoke_assign_sign=_o_nlru_i_pwv_hqb_q_s6_q_oix_w%2Bil_flyk3_pkv_ow_lpccz1_fp_hx_g7g_zu_m_lfhg_q%3D%3D&show_url=http%3A%2F%2Fwww.hiteclaser.com%2Findex.php%3Fmain_page%3Dshopping_cart	https://mapi.alipay.com/gateway.do?_input_charset=utf-8
++ 0.673		6	0.294	2821	683	GET	302	Redirect to https://tradeexprod.alipay.com/fastpay/createJVMDirectPay.htm?partner=2088011376518521&out_trade_no=2659	https://tradeexprod.alipay.com/gateway/exterfaceAssign.do?alipay_exterface_invoke_assign_client_ip=120.199.0.214&body=Hiteclaser+%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E8%A3%BD%E5%93%81%E5%B0%82%E7%94%A8+1%E5%86%86&extend_param=SHIP_TO_FIRSTNAME%5E%E5%92%8C%E5%BD%A6%7CSHIP_TO_LASTNAME%5E%E5%B0%8F%E6%9E%97%7CSHIP_TO_POSTALCODE%5E4101102%7CSHIP_TO_PHONENUMBER%5E09034246199%7CSHIP_TO_STREET1%5E%E6%B7%B1%E8%89%AF1802%7CSHIP_TO_CITY%5E%E8%A3%BE%E9%87%8E%E5%B8%82%7CSHIP_TO_STATE%5E%E9%9D%99%E5%B2%A1%E7%9C%8C%7CSHIP_TO_COUNTRY%5EJP%7CSHIP_TO_SHIPMETHOD%5EEMS%7CLOGISTICS_COST%5E0.00%7CREGISTRATION_NAME%5E%E5%92%8C%E5%BD%A6%E5%B0%8F%E6%9E%97%7CREGISTRATION_EMAIL%5Evincent0571%40gmail.com%7CREGISTRATION_PHONE%5E09034246199%7Cproduct_name%5EHiteclaser+%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E8%A3%BD%E5%93%81%E5%B0%82%E7%94%A8+1%E5%86%86&subject=order+%232659+from+Hiteclaser+Inc.+High+Technology++Laser+Pointer&sign_type=MD5&notify_url=http%3A%2F%2Fwww.hiteclaser.com%2Falipay_notify.php&defaultbank=boc-visa&out_trade_no=2659&return_url=http%3A%2F%2Fwww.hiteclaser.com%2Findex.php%3Fmain_page%3Dcheckout_process&sign=b600b782bc268628094f0926a2b0c222&_input_charset=utf-8&alipay_exterface_invoke_assign_target=createJVMDirectPay.htm&alipay_exterface_invoke_assign_model=fastpay&total_fee=5.66&service=alipay.trade.direct.forcard.pay&partner=2088011376518521&seller_id=2088011376518521&alipay_exterface_invoke_assign_sign=_o_nlru_i_pwv_hqb_q_s6_q_oix_w%2Bil_flyk3_pkv_ow_lpccz1_fp_hx_g7g_zu_m_lfhg_q%3D%3D&show_url=http%3A%2F%2Fwww.hiteclaser.com%2Findex.php%3Fmain_page%3Dshopping_cart
++ 0.971		4	0.252	1541	619	GET	302	Redirect to https://tradeexprod.alipay.com/fastpay/securityCheck.htm?timestamp=07690443515B5F49514D617E&tokenId=P204c0ef79613b1aa130fc945caa10868	https://tradeexprod.alipay.com/fastpay/createJVMDirectPay.htm?partner=2088011376518521&out_trade_no=2659
++ 1.225		5	0.099	1570	2136	GET	200	html	https://tradeexprod.alipay.com/fastpay/securityCheck.htm?timestamp=07690443515B5F49514D617E&tokenId=P204c0ef79613b1aa130fc945caa10868
++ 1.331		1	0.146	508	3920	GET	200	javascript	https://a.alipayobjects.com/ar/alipay.security.um-1.6.js
++ 1.386		1	0.365	1154	358	GET	200	png	https://ynuf.alipay.com/service/clear.png?xt=P204c0ef79613b1aa130fc945caa10868&xa=
++ 1.563		3	0.242	962	4380	GET	200	flash	https://img.alipay.com/common/um/lsa.swf?v=1
++ 2.191		3	0.065	2485	492	GET	200	javascript	https://ynuf.alipay.com/service/um.json?xv=0.8.1&xt=P204c0ef79613b1aa130fc945caa10868&xf=0&xa=&xh=ENCODE_3_000000000000000000000000000000_C48A2A2A6DD63B1585241EB9ABAC8C362CB0E27476340B321BA256E5179A5E7C10F486BFB74E307C194BED4AC08527D10690C8CBCF66BDD9A2137C77D95F4989134D64EA0A813284DB7097DCF598DF8ECF72706688D5DC85718C25A99F927626B6FA89B00E4032E7006886E82DF691A954DFF88C816FF6F8D59331D49BCF7B924BDA8D29A9DD520161378CA9ED71BDD376F31FFC7E687ADDDF3F1599F04BB67518A54552713C135D540523F01649A37AFE146560BDFD7565&x0=-%5E%5E-%5E%5E-%5E%5E-%5E%5E-%5E%5E-%5E%5E-%5E%5E-%5E%5E-%5E%5E-%5E%5E-%5E%5E-%5E%5E-%5E%5E-&x1=1%5E%5E-%5E%5E-%5E%5E-%5E%5E-%5E%5E-%5E%5E-%5E%5E-%5E%5E-%5E%5E-%5E%5E-%5E%5E-%5E%5E-%5E%5EWin32&x2=Mozilla%5E%5E0%5E%5EMicrosoft%20Internet%20Explorer%5E%5E4.0%20(compatible%3B%20MSIE%208.0%3B%20Windows%20NT%205.1%3B%20Trident%2F4.0%3B%20GTB6.6%3B%20.NET%20CLR%202.0.50727%3B%20InfoPath.1%3B%20.NET%20CLR%203.0.4506.2152%3B%20.NET%20CLR%203.5.30729)%5E%5Ezh-cn%5E%5Ex86%5E%5E-%5E%5E-%5E%5E-%5E%5Ezh-cn%5E%5EMozilla%2F4.0%20(compatible%3B%20MSIE%208.0%3B%20Windows%20NT%205.1%3B%20Trident%2F4.0%3B%20GTB6.6%3B%20.NET%20CLR%202.0.50727%3B%20InfoPath.1%3B%20.NET%20CLR%203.0.4506.2152%3B%20.NET%20CLR%203.5.30729)%5E%5Ezh-cn%5E%5E-&xs=9A5D8CDDE928FC429E0D43A25AEC95D109A7C9D6A54BA8AAA87BE880D26CB8EF80F4EC40E8CA1790A482322D8118098ECAEDCEACF887A1CD93603238261471E839CB6075F6DCEA1B&_callback=_7680_1376621240109
++ 2.267			0.001	0	0	GET	(Cache)	flash	https://img.alipay.com/common/um/lsa.swf?v=1
+		32	2.268	13521	14908	9 requests			
+00:00:15.557	Alipay-simple,secure and speedy way to send and receive money worldwide.								
++ 0.000		17	0.359	1783	1167	POST	302	Redirect to https://cashier.alipay.com/standard/gateway/singleChannelPay.htm?bizIdentity=trade20001&orderId=08162154be1415bb69448f0701397411	https://tradeexprod.alipay.com/fastpay/securityCheck.htm
++ 0.364		7	0.371	1437	903	GET	302	Redirect to https://wkprod.alipay.com/payment/wkpayment.htm?sign=cf940d7067a22cd2c04d47ffff9be40e&orderId=08162154be1415bb69448f0701397411	https://cashier.alipay.com/standard/gateway/singleChannelPay.htm?bizIdentity=trade20001&orderId=08162154be1415bb69448f0701397411
++ 0.740		7	1.011	1435	818	GET	302	Redirect to https://wkprod.alipay.com/payment/wkFastPayment.htm?sign=cf940d7067a22cd2c04d47ffff9be40e&cashOrderId=08162154be1415bb69448f0701397411	https://wkprod.alipay.com/payment/wkpayment.htm?sign=cf940d7067a22cd2c04d47ffff9be40e&orderId=08162154be1415bb69448f0701397411
++ 1.762		6	0.702	1573	44874	GET	200	html	https://wkprod.alipay.com/payment/wkFastPayment.htm?sign=cf940d7067a22cd2c04d47ffff9be40e&cashOrderId=08162154be1415bb69448f0701397411
++ 1.888			0.031	0	0	GET	(Cache)	css	https://a.alipayobjects.com/wkprod/wkprod.wkpayment-2.1.css
++ 2.008			0.001	0	0	GET	(Cache)	javascript	https://a.alipayobjects.com/??seajs/1.3.1/sea.js,seajs/1.3.1/plugin-combo.js,jquery/jquery/1.7.2/jquery.js
++ 2.011			0.001	0	0	GET	(Cache)	javascript	https://a.alipayobjects.com/ar/??alipay.light.base-1.1.js,alipay.tracker-1.11.js,alipay.smartracker-1.6.js
++ 2.102		1	0.110	510	16720	GET	200	vnd.ms-fontobject	https://i.alipayobjects.com/common/fonts/rei.eot?20130502
++ 2.230		10	0.237	1555	739	GET	200	text	https://kcart.alipay.com/web/bi.do?ref=https%3A%2F%2Ftradeexprod.alipay.com%2Ffastpay%2FsecurityCheck.htm%3Ftimestamp%3D07690443515B5F49514D617E%26tokenId%3DP204c0ef79613b1aa130fc945caa10868&pg=https%3A%2F%2Fwkprod.alipay.com%2Fpayment%2FwkFastPayment.htm%3Fsign%3Dcf940d7067a22cd2c04d47ffff9be40e%26cashOrderId%3D08162154be1415bb69448f0701397411&r=1376621242609&v=1.0&screen=1440x900&color=-&BIProfile=page&sc=32-bit&utmhn=wkprod.alipay.com&rnd=0.5527507014310455&_clnt=windows%2F5.1%7Ctrident%2F8.0%7Cie%2F8.0%7Cpc%2F-1
++ 2.232			0.061	0	0	GET	(Cache)	gif	https://img.alipay.com/sys/wkpayment/lang_bk.gif
++ 2.307			0.043	0	0	GET	(Cache)	png	https://img.alipay.com/sys/wkpayment/card_logo_VC.png
++ 2.308			0.057	0	0	GET	(Cache)	png	https://i.alipayobjects.com/sys/cashier/style/cashier-bg.png
++ 2.376			0.027	0	0	GET	(Cache)	png	https://i.alipayobjects.com/e/201303/2V0t7Te9SO.png
++ 2.453			0.010	0	0	GET	(Cache)	png	https://img.alipay.com/alice/ui-tip.png
++ 2.466			0.007	0	0	GET	(Cache)	javascript	https://a.alipayobjects.com/ar/arale.core-1.1.js
++ 2.579			0.035	0	0	GET	(Cache)	javascript	https://a.alipayobjects.com/wkprod/wkprod.wkpayment-1.9.js
++ 2.589			0.080	0	0	GET	(Cache)	gif	https://i.alipayobjects.com/e/201307/e3ptyv1rZ.gif
++ 2.656		3	3.677	605	12160	GET	200	javascript	https://h.online-metrix.net/fp/check.js?org_id=k8vif92e&session_id=alipayd3d9b2a8157031c8ba7bb12819dc79ae
++ 2.723			0.029	0	0	GET	(Cache)	jpeg	https://i.alipayobjects.com/e/201207/32TMTjFMqn.jpg
++ 2.755			3.448	610	406	GET	200	png	https://h.online-metrix.net/fp/clear.png?org_id=k8vif92e&session_id=alipayd3d9b2a8157031c8ba7bb12819dc79ae&m=2
++ 2.771			3.964	610	406	GET	200	png	https://h.online-metrix.net/fp/clear.png?org_id=k8vif92e&session_id=alipayd3d9b2a8157031c8ba7bb12819dc79ae&m=1
++ 2.867			0.049	0	0	GET	(Cache)	javascript	https://a.alipayobjects.com/ar/??arale.class-1.0.js,arale.tmpl-1.0.js,arale.aspect-1.0.js,aralex.base-1.1.js,arale.uri-1.0.js,arale.http-1.1.js,alipay.finance.AsyncHtml-1.0.js,alipay.finance.Flexible-1.0.js,alipay.finance.Apop-1.1.js,alipay.http-1.1.js,aralex.validator-1.1.js,aralex.classicvalidator-1.1.js,aralex.apop-1.2.js
++ 3.510		1	0.025	0	0	GET	(Cache)	css	https://a.alipayobjects.com/ar/??alipay.finance.Apop-1.1.css,aralex.apop-1.2.css
++ 3.585			0.033	0	0	GET	(Cache)	png	https://i.alipayobjects.com/e/201208/3LPrsalrOr.png
++ 6.355			0.212	603	4355	GET	200	flash	https://h.online-metrix.net/fp/fp.swf?org_id=k8vif92e&session_id=alipayd3d9b2a8157031c8ba7bb12819dc79ae
++ 6.599			0.214	621	4353	GET	200	flash	https://h.online-metrix.net/fp/fp.swf?org_id=k8vif92e&session_id=alipayd3d9b2a8157031c8ba7bb12819dc79ae
++ 7.782			3.179	731	2338	GET	200	flash	https://aa.online-metrix.net/fpc.swf?session=alipayd3d9b2a8157031c8ba7bb12819dc79ae&org=k8vif92e&nu=73594&fx=39382e7572643d6a747c72713a272f682c6f6c6c6b66672d6f6776726b702e6665762d6e702f266e6f3d353a313162313b673239393836333b353a693331373535323a3a35386560366e26773d3f3d38616b393532383232646c353630
++ 7.783			0.214	939	318	GET	200	text	https://h.online-metrix.net/fp/clear.png?fa=313e3d266e7d3d35333d3b36267f3d37373863633b3f303032326664373e322e746d3f3c3830267b7c3d302e73703d39363630703930322666703f3f3026743f55494c2831392c332e3930322c3e3b266f35576b6e6c6d7573285850246c3f7a6a25414e246f643d4f69637a6f6f676c6961205f616e64677771266e76716e35313731332466767b3f3632306133346b386a3364663e3432343c693035393661366d34643269326566&session%5Fid=alipayd3d9b2a8157031c8ba7bb12819dc79ae&org%5Fid=k8vif92e
++ 8.912			0.202	2377	308	GET	200	javascript	https://h.online-metrix.net/fp/clear.png?org_id=k8vif92e&session=alipayd3d9b2a8157031c8ba7bb12819dc79ae&ja=363e3126267f3d3535303b61393f323032306664373e3026613f3638322e7a35302464353134343870393038266e68356a767478732531412732442d3046756972726d6c2e696c6b7269792e63676525324e70637965676c742d3246756b4461717c52617b6f676e7626687c6d27314e736967662d33446b663b34386635303e376130326164306b323466363566646e6631626736386525323e6b6173604f70646d704b642d3344323833363039373460673334333d626a363b363c3866303f3831333137363139246672356874767071253149273244273046767a616c65677a78726f6426696c6978617b2e6b6d6f253a4666637376706371273244716763777a697c79416a6d636b2e607c6d253b46766965677174696d7027334630353e3b3036363135333d423d46363b3d3134443e3937452d3234746769676e41642531445232323c6130676435393439336a316363393330666b3134356b616331383a34382e703d726c77676b665d666e6371685c7c727d652372647567696657776966646d777b5d6f656c69615d706e617b6d705e33332c302c3d373a312c373a38302178647567616e5d616c6d6065576163706f60617656352e322d6e61766d7229706e776f696e5f7b616c766d726e696f6a765e3c2e312c31323330312c3023726e7565616e5771776b6b6b7469656d5e66696c716529726e756f696e5d736a6f6163756174675c666364736d21726e7d67696e577a656164706e617167705e6e616c716523706e7d65696c5d746c61577064617b677a5e6661647b6521786c7767616c5d646d76616e76705e64696e736723726c776f69665f71746f5f76696d7f65725666636c7b6723706475676b6e5d6a637e635e64636e73672e68603d66323e3934666c696631383231393d3763386d613830643566353934393b3261&jb=32383e266c793d4f6f726b6e6c69253244342c30273a3228616d6f70637c696a6c67273b422532384553494d253030302c32253b4225303055696c6c6d77712730304c5c253a30372c392533422d3a30547a696665667627324e342e32253142273a32475640342e342d334a253032264e45542d3a30434452273238302c3026353035323525314a2732324b6c666d58617c682c332d3342253a382e4e4d54273238414e522d3230312e322e363d32362c303335302d334a253032264e45542d3a30434452273238312c3526333035323b29
++ 8.917		1	2.114	934	3038	GET	200	html	https://h.online-metrix.net/fp/ls_fp.html?org_id=k8vif92e&session_id=alipayd3d9b2a8157031c8ba7bb12819dc79ae
++ 10.949			0.767	741	302	GET	200	css	https://h.online-metrix.net/fp/clear.png?org_id=k8vif92e&session=alipayd3d9b2a8157031c8ba7bb12819dc79ae&jd=363c2e26773537373831613b373a303032646635343a246a646c3f3130392662666a3f6b3632363e6963353b3760353b3a60313d3434303861373b6c66393460616331
++ 11.011			0.618	416	527	GET	200	xml	https://h.online-metrix.net/crossdomain.xml
++ 11.077			0.199	631	308	GET	200	javascript	https://h.online-metrix.net/fp/clear.png?org_id=k8vif92e&session_id=alipayd3d9b2a8157031c8ba7bb12819dc79ae&la=758dc972000dd5628c1000107fbd434ab612ecb304f23b72
++ 11.638		1	0.208	695	305	GET	200	text	https://h.online-metrix.net/fp/clear.png?fc=758ac972000dd562cb69528ca1aa4b8389b58726d0e78822&session%5Fid=alipayd3d9b2a8157031c8ba7bb12819dc79ae&nu=98257&org%5Fid=k8vif92e
+		54	11.846	18806	94345	34 requests			
+00:00:27.662	Alipay-simple,secure and speedy way to send and receive money worldwide.								
++ 0.000		10	0.213	1449	717	GET	200	text	https://kcart.alipay.com/web/bi.do?ref=https%3A%2F%2Fwkprod.alipay.com%2Fpayment%2FwkFastPayment.htm%3Fsign%3Dcf940d7067a22cd2c04d47ffff9be40e%26cashOrderId%3D08162154be1415bb69448f0701397411&pg=https%3A%2F%2Fwkprod.alipay.com%2Fpayment%2FwkFastPayment.htm%3Fseed%3Dform-creditCardNo&r=1376621252484&v=1.0&BIProfile=clk
+		10	0.213	1449	717	1 request			
+00:00:28.536	Alipay-simple,secure and speedy way to send and receive money worldwide.								
++ 0.000		10	0.247	1383	741	GET	200	text	https://kcart.alipay.com/web/bi.do?ref=https%3A%2F%2Fwkprod.alipay.com%2Fpayment%2FwkFastPayment.htm%3Fseed%3Dform-creditCardNo&pg=https%3A%2F%2Fwkprod.alipay.com%2Fpayment%2FwkFastPayment.htm%3Fseed%3Dform-fname&r=1376621253359&v=1.0&BIProfile=clk
+		10	0.247	1383	741	1 request			
+00:00:35.198	Alipay-simple,secure and speedy way to send and receive money worldwide.								
++ 0.000		10	0.235	1375	716	GET	200	text	https://kcart.alipay.com/web/bi.do?ref=https%3A%2F%2Fwkprod.alipay.com%2Fpayment%2FwkFastPayment.htm%3Fseed%3Dform-fname&pg=https%3A%2F%2Fwkprod.alipay.com%2Fpayment%2FwkFastPayment.htm%3Fseed%3Dform-month-&r=1376621260031&v=1.0&BIProfile=clk
++ 1.224		10	0.215	1377	717	GET	200	text	https://kcart.alipay.com/web/bi.do?ref=https%3A%2F%2Fwkprod.alipay.com%2Fpayment%2FwkFastPayment.htm%3Fseed%3Dform-month-&pg=https%3A%2F%2Fwkprod.alipay.com%2Fpayment%2FwkFastPayment.htm%3Fseed%3Dform-month-&r=1376621261250&v=1.0&BIProfile=clk
+		20	1.439	2752	1433	2 requests			
+00:00:37.134	Alipay-simple,secure and speedy way to send and receive money worldwide.								
++ 0.000		10	0.205	1377	744	GET	200	text	https://kcart.alipay.com/web/bi.do?ref=https%3A%2F%2Fwkprod.alipay.com%2Fpayment%2FwkFastPayment.htm%3Fseed%3Dform-month-&pg=https%3A%2F%2Fwkprod.alipay.com%2Fpayment%2FwkFastPayment.htm%3Fseed%3Dform-year-&r=1376621261968&v=1.0&BIProfile=clk
++ 0.033			0.027	0	0	GET	(Cache)	png	https://img.alipay.com/alice/ui-fm.png
++ 1.209		10	0.194	1376	717	GET	200	text	https://kcart.alipay.com/web/bi.do?ref=https%3A%2F%2Fwkprod.alipay.com%2Fpayment%2FwkFastPayment.htm%3Fseed%3Dform-year-&pg=https%3A%2F%2Fwkprod.alipay.com%2Fpayment%2FwkFastPayment.htm%3Fseed%3Dform-year-&r=1376621263171&v=1.0&BIProfile=clk
+		20	1.403	2753	1461	3 requests			
+00:00:38.822	Alipay-simple,secure and speedy way to send and receive money worldwide.								
++ 0.000		10	0.033	1376	744	GET	200	text	https://kcart.alipay.com/web/bi.do?ref=https%3A%2F%2Fwkprod.alipay.com%2Fpayment%2FwkFastPayment.htm%3Fseed%3Dform-year-&pg=https%3A%2F%2Fwkprod.alipay.com%2Fpayment%2FwkFastPayment.htm%3Fseed%3Dform-cvv2-&r=1376621263656&v=1.0&BIProfile=clk
++ 0.112			0.039	0	0	GET	(Cache)	png	https://i.alipayobjects.com/e/201211/1iMSl4q89N.png
+		10	0.151	1376	744	2 requests			
+00:00:42.311	Alipay-simple,secure and speedy way to send and receive money worldwide.								
++ 0.000		10	0.161	1380	744	GET	200	text	https://kcart.alipay.com/web/bi.do?ref=https%3A%2F%2Fwkprod.alipay.com%2Fpayment%2FwkFastPayment.htm%3Fseed%3Dform-cvv2-&pg=https%3A%2F%2Fwkprod.alipay.com%2Fpayment%2FwkFastPayment.htm%3Fseed%3Dform-userEmail&r=1376621267140&v=1.0&BIProfile=clk
+		10	0.161	1380	744	1 request			
+00:00:51.671	Alipay-simple,secure and speedy way to send and receive money worldwide.								
++ 0.000		10	0.046	1381	745	GET	200	text	https://kcart.alipay.com/web/bi.do?ref=https%3A%2F%2Fwkprod.alipay.com%2Fpayment%2FwkFastPayment.htm%3Fseed%3Dform-userEmail&pg=https%3A%2F%2Fwkprod.alipay.com%2Fpayment%2FwkFastPayment.htm%3Fseed%3Dform-submit&r=1376621276500&v=1.0&BIProfile=clk
+		10	0.046	1381	745	1 request			
+00:00:51.926	https://wkprod.alipay.com/payment/wkFastPayment.htm								
++ 0.000			0.614	588	309	GET	200	javascript	https://h.online-metrix.net/fp/clear.png?org_id=k8vif92e&session_id=alipayd3d9b2a8157031c8ba7bb12819dc79ae&tp=25282
++ 0.616		6	4.813	2209	11367	POST	200	html	https://wkprod.alipay.com/payment/wkFastPayment.htm
++ 5.432			0.001	0	0	GET	(Cache)	css	https://a.alipayobjects.com/wkprod/wkprod.wkpayment-2.1.css
++ 5.435			0.001	0	0	GET	(Cache)	javascript	https://a.alipayobjects.com/??seajs/1.3.1/sea.js,seajs/1.3.1/plugin-combo.js,jquery/jquery/1.7.2/jquery.js
++ 5.437			0.001	0	0	GET	(Cache)	javascript	https://a.alipayobjects.com/ar/??alipay.light.base-1.1.js,alipay.tracker-1.11.js,alipay.smartracker-1.6.js
++ 5.439			0.001	0	0	GET	(Cache)	javascript	https://a.alipayobjects.com/ar/arale.core-1.1.js
++ 5.444			0.001	0	0	GET	(Cache)	javascript	https://a.alipayobjects.com/wkprod/wkprod.wkpayment-1.9.js
++ 5.558			0.001	0	0	GET	(Cache)	vnd.ms-fontobject	https://i.alipayobjects.com/common/fonts/rei.eot?20130502
++ 5.607		10	0.113	1484	745	GET	200	text	https://kcart.alipay.com/web/bi.do?ref=https%3A%2F%2Fwkprod.alipay.com%2Fpayment%2FwkFastPayment.htm%3Fsign%3Dcf940d7067a22cd2c04d47ffff9be40e%26cashOrderId%3D08162154be1415bb69448f0701397411&pg=https%3A%2F%2Fwkprod.alipay.com%2Fpayment%2FwkFastPayment.htm&r=1376621282359&v=1.0&screen=1440x900&color=-&BIProfile=page&sc=32-bit&utmhn=wkprod.alipay.com&rnd=0.6540449549340261&_clnt=windows%2F5.1%7Ctrident%2F8.0%7Cie%2F8.0%7Cpc%2F-1
++ 5.611			0.006	0	0	GET	(Cache)	png	https://i.alipayobjects.com/sys/cashier/style/cashier-bg.png
++ 5.637			0.039	0	0	GET	(Cache)	jpeg	https://i.alipayobjects.com/e/201207/3X8iSw6iQN.jpg
+		16	5.720	4281	12421	11 requests			
+00:00:57.780	Verified by Visa								
++ 0.000		3	0.946	1266	741	POST	302	Redirect to https://migs.mastercard.com.au/vpcpay?o=pt&DOID=0AE0788B2937B98379A822D21DC53D16&paymentId=5534702228394597506	https://migs.mastercard.com.au/vpcpay
++ 0.954		3	0.182	933	765	GET	302	Redirect to https://migs.mastercard.com.au/ssl?sessionid=PAYCE223C1584AA2BFBD5A558505CF12EA2&paymentId=5534702228394597506	https://migs.mastercard.com.au/vpcpay?o=pt&DOID=0AE0788B2937B98379A822D21DC53D16&paymentId=5534702228394597506
++ 1.146		1	0.182	989	517	GET	302	Redirect to https://migs.mastercard.com.au/ssl?paymentId=5534702228394597506	https://migs.mastercard.com.au/ssl?sessionid=PAYCE223C1584AA2BFBD5A558505CF12EA2&paymentId=5534702228394597506
++ 1.329		2	4.386	941	1829	GET	200	html	https://migs.mastercard.com.au/ssl?paymentId=5534702228394597506
++ 5.748		4	0.185	685	573	GET	200	css	https://migs.mastercard.com.au/psp/gateway/common/style/vbv.css
++ 5.954		3	0.172	693	2853	GET	200	gif	https://migs.mastercard.com.au/psp/gateway/common/images/vbvLogo.gif
++ 5.955		3	0.499	693	973	GET	200	gif	https://migs.mastercard.com.au/psp/gateway/common/images/vbvDots.gif
+		19	6.454	6200	8251	7 requests			
+00:01:09.682	Verified by Visa								
++ 0.000		5	2.120	1505	40253	POST	200	html	https://acs.icbc.com.cn/servlet/PayauthServlet
++ 2.124		5	3.119	580	33533	GET	200	javascript	https://acs.icbc.com.cn/icbc/intermdk/visa3d/include/js/pebank_browsercompatible.js
++ 2.127		5	0.290	570	2113	GET	200	javascript	https://acs.icbc.com.cn/icbc/intermdk/visa3d/include/js/preventFresh.js
++ 5.295		3	0.173	566	2086	GET	200	gif	https://acs.icbc.com.cn/icbc/intermdk/visa3d/images/Chinese_VbV.gif
++ 5.343		3	2.178	559	3529	GET	200	gif	https://acs.icbc.com.cn/icbc/intermdk/visa3d/images/logo.gif
++ 5.351		3	4.474	568	500	GET	200	gif	https://acs.icbc.com.cn/icbc/intermdk/visa3d/images/79x16security.gif
++ 5.353		3	0.302	567	484	GET	200	gif	https://acs.icbc.com.cn/icbc/intermdk/visa3d/images/103x11please.gif
++ 5.355		3	0.357	568	352	GET	200	gif	https://acs.icbc.com.cn/icbc/intermdk/visa3d/images/30x11merchant.gif
++ 5.357		3	0.341	565	352	GET	200	gif	https://acs.icbc.com.cn/icbc/intermdk/visa3d/images/30x11money.gif
++ 5.361		3	0.357	564	352	GET	200	gif	https://acs.icbc.com.cn/icbc/intermdk/visa3d/images/28x11date.gif
++ 5.688		3	0.113	563	352	GET	200	gif	https://acs.icbc.com.cn/icbc/intermdk/visa3d/images/30x11PAN.gif
++ 5.689		3	0.098	570	396	GET	200	gif	https://acs.icbc.com.cn/icbc/intermdk/visa3d/images/54x11personInfo.gif
++ 5.691		3	0.180	566	6541	GET	200	gif	https://acs.icbc.com.cn/icbc/intermdk/visa3d/images/86x24submit.gif
+		45	9.825	8311	90843	13 requests			
+00:01:37.527	Pay authentication								
++ 0.000		2	7.107	4356	5799	POST	200	html	https://acs.icbc.com.cn/servlet/com.icbc.visa3d.acs.servlet.PayauthServlet2
+		2	7.107	4356	5799	1 request			
+00:01:44.813	支付宝 - 网上支付 安全快速！								
++ 0.000		1	1.838	5818	1189	POST	302	Redirect to https://supergw.alipay.com/bocwkreturn/gateway.htm?vpc_3DSECI=05&vpc_3DSXID=jr1r2FSrtOi1eH4Kw4ix5B3IRD4%3D&vpc_3DSenrolled=Y&vpc_3DSstatus=Y&vpc_AVSRequestCode=Z&vpc_AVSResultCode=Unsupported&vpc_AcqAVSRespCode=Unsupported&vpc_AcqCSCRespCode=M&vpc_AcqResponseCode=00&vpc_Amount=566&vpc_AuthorizeId=288309&vpc_BatchNo=20130816&vpc_CSCResultCode=M&vpc_Card=VC&vpc_Command=pay&vpc_Locale=en&vpc_MerchTxnRef=20130816000514169141&vpc_Merchant=021814594RMB&vpc_Message=Approved&vpc_OrderInfo=2013081622394568&vpc_ReceiptNo=322812100972&vpc_SecureHash=CBA0F75434929F2D0093A2C1E90265FB&vpc_TransactionNo=52054&vpc_TxnResponseCode=0&vpc_VerSecurityLevel=05&vpc_VerStatus=Y&vpc_VerToken=AAABCDAWEgABN2YhIjkyAAAAAAA%3D&vpc_VerType=3DS&vpc_Version=1	https://migs.mastercard.com.au/ssl?paymentId=5534702228394597506
++ 1.840		4	0.844	1988	781	GET	302	Redirect to https://cashier.alipay.com/standard/result/cashierResult.htm?isSettleSuccess=true&depositId=201308163H290441&settleStatus=S&errorMsg=&orderId=&payRequestId=&signData=ea87b1da8327c45f68da22111265028c	https://supergw.alipay.com/bocwkreturn/gateway.htm?vpc_3DSECI=05&vpc_3DSXID=jr1r2FSrtOi1eH4Kw4ix5B3IRD4%3D&vpc_3DSenrolled=Y&vpc_3DSstatus=Y&vpc_AVSRequestCode=Z&vpc_AVSResultCode=Unsupported&vpc_AcqAVSRespCode=Unsupported&vpc_AcqCSCRespCode=M&vpc_AcqResponseCode=00&vpc_Amount=566&vpc_AuthorizeId=288309&vpc_BatchNo=20130816&vpc_CSCResultCode=M&vpc_Card=VC&vpc_Command=pay&vpc_Locale=en&vpc_MerchTxnRef=20130816000514169141&vpc_Merchant=021814594RMB&vpc_Message=Approved&vpc_OrderInfo=2013081622394568&vpc_ReceiptNo=322812100972&vpc_SecureHash=CBA0F75434929F2D0093A2C1E90265FB&vpc_TransactionNo=52054&vpc_TxnResponseCode=0&vpc_VerSecurityLevel=05&vpc_VerStatus=Y&vpc_VerToken=AAABCDAWEgABN2YhIjkyAAAAAAA%3D&vpc_VerType=3DS&vpc_Version=1
++ 2.686		5	0.136	1579	3410	GET	200	html	https://cashier.alipay.com/standard/result/cashierResult.htm?isSettleSuccess=true&depositId=201308163H290441&settleStatus=S&errorMsg=&orderId=&payRequestId=&signData=ea87b1da8327c45f68da22111265028c
++ 2.862			0.001	0	0	GET	(Cache)	javascript	https://a.alipayobjects.com/ar/??alipay.light.base-1.1.js,alipay.tracker-1.11.js,alipay.smartracker-1.6.js
++ 2.864			0.001	0	0	GET	(Cache)	vnd.ms-fontobject	https://i.alipayobjects.com/common/fonts/rei.eot?20130502
++ 2.865			0.039	0	0	GET	(Cache)	javascript	https://a.alipayobjects.com/build/js/arale.js?t=2011
++ 2.950			0.011	0	0	GET	(Cache)	javascript	https://a.alipayobjects.com/build/js/tp/tp.js?t=20110627
++ 3.059		10	0.102	1742	719	GET	200	text	https://kcart.alipay.com/web/bi.do?ref=https%3A%2F%2Facs.icbc.com.cn%2Fservlet%2Fcom.icbc.visa3d.acs.servlet.PayauthServlet2&pg=https%3A%2F%2Fcashier.alipay.com%2Fstandard%2Fresult%2FcashierResult.htm%3FisSettleSuccess%3Dtrue%26depositId%3D201308163H290441%26settleStatus%3DS%26errorMsg%3D%26orderId%3D%26payRequestId%3D%26signData%3Dea87b1da8327c45f68da22111265028c&r=1376621332703&v=1.0&screen=1440x900&color=-&BIProfile=page&sc=32-bit&utmhn=cashier.alipay.com&rnd=0.5481265253903476&_clnt=windows%2F5.1%7Ctrident%2F8.0%7Cie%2F8.0%7Cpc%2F-1
+		20	3.161	11127	6099	8 requests			
+  00:01:47.955		7	0.060	945	5873	GET	200	text	https://cashier.alipay.com/favicon.ico
+00:01:48.157	Alipay-simple, secure and speedy way for millions of individuals and businesses to make and receive money online								
++ 0.000		5	0.197	1753	5685	GET	200	html	https://tradeexprod.alipay.com/fastpay/cashierReturnMiddlePage.htm?tradeNo=2013081666762141&isNeedAsync=false&sign=K1ib4bQSKA3fxnDkoB9ZbV2pa1wD597hipINt8q1zWIwUQ%253D%253D
++ 0.200			0.047	0	0	GET	(Cache)	png	https://img.alipay.com/sys/wkpayment/logo-alipay-en.png
++ 0.279			0.014	0	0	GET	(Cache)	png	https://img.alipay.com/pa/frame/v2/ico-pa.png
+		5	0.293	1753	5685	3 requests			
+00:01:58.560	ご注文の手続きが完了しました。 : レーザーポインター，グリーンレーザー，高出力レーザーはhiteclaserから来る, Laser Pointer								
++ 0.000		1	0.294	1705	597	GET	302	Redirect to http://www.hiteclaser.com/index.php?main_page=checkout_success	
+
+
+http://www.hiteclaser.com/index.php?main_page=checkout_process&
+bank_seq_no=20130816000514169141&
+body=Hiteclaser+%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E8%A3%BD%E5%93%81%E5%B0%82%E7%94%A8+1%E5%86%86&
+buyer_email=kehuzijinbu016%40alipay.com&
+buyer_id=2088502970087411&
+exterface=alipay.trade.direct.forcard.pay&is_success=T&
+notify_id=RqPnCoPT3K9%252Fvwbh3I72LyUIwo8jqXM6iBsdSMM5HbZwQ8QFIGGk954FNxHLLWHXxWwX&
+notify_time=2013-08-16+10%3A47%3A12&
+notify_type=trade_status_sync&
+out_trade_no=2659&
+payment_type=1&
+seller_email=vincent.wholesale%40gmail.com&
+seller_id=2088011376518521&
+subject=order+%232659+from+Hiteclaser+Inc.+High+Technology++Laser+Pointer&
+total_fee=5.66&trade_no=2013081666762141&
+trade_status=TRADE_SUCCESS&sign=60cf7f635fa51f8e16f914ccee255d7d&sign_type=MD5
+
+
+
++ 0.306		2	0.667	987	28094	GET	200	html	http://www.hiteclaser.com/index.php?main_page=checkout_success
++ 0.538		2	0.001	0	0	GET	(Cache)	javascript	http://www.hiteclaser.com/common/common.js
++ 0.540		2	0.002	0	0	GET	(Cache)	css	http://www.hiteclaser.com/includes/templates/premium4a/css/stylesheet.css
++ 0.668			0.030	0	0	GET	(Cache)	javascript	http://www.google-analytics.com/ga.js
++ 0.809		1	0.109	1339	377	GET	200	gif	http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=18&utmn=813910272&utmhn=www.hiteclaser.com&utmcs=utf-8&utmsr=1440x900&utmvp=1436x486&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.1%20r102&utmdt=%E3%81%94%E6%B3%A8%E6%96%87%E3%81%AE%E6%89%8B%E7%B6%9A%E3%81%8D%E3%81%8C%E5%AE%8C%E4%BA%86%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82%20%3A%20%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%8C%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%EF%BC%8C%E9%AB%98%E5%87%BA%E5%8A%9B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AFhiteclaser%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%2C%20Laser%20Pointer&utmhid=368483294&utmr=-&utmp=%2Findex.php%3Fmain_page%3Dcheckout_success&utmht=1376621344187&utmac=UA-22916103-6&utmcc=__utma%3D254973713.1552283323.1372731777.1376559063.1376620747.4%3B%2B__utmz%3D254973713.1372735086.2.2.utmcsr%3Dblogs.yahoo.co.jp%7Cutmccn%3D(referral)%7Cutmcmd%3Dreferral%7Cutmcct%3D%2Fhiteclaer%3B&utmu=q~
++ 0.975		1	0.012	0	0	GET	(Cache)	jpeg	http://www.hiteclaser.com/images/PI-payment.jpg
++ 0.990		1	0.003	0	0	GET	(Cache)	javascript	http://www.googleadservices.com/pagead/conversion.js
++ 1.059			*	0	0	GET	*		http://www.googleadservices.com/pagead/conversion/1009766459/?random=1376621344406&cv=7&fst=1376621344406&num=1&fmt=3&value=300&label=gt27CL2fuwMQu6C_4QM&bg=ffffff&hl=en&guid=ON&u_h=900&u_w=1440&u_ah=870&u_aw=1440&u_cd=32&u_his=22&u_tz=480&u_nplug=0&u_nmime=0&url=http%3A//www.hiteclaser.com/index.php%3Fmain_page%3Dcheckout_success&frm=0
+		10	22.184	4031	29068	9 requests			

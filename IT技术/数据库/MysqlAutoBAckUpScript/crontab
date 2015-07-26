@@ -1,0 +1,18 @@
+SHELL=/bin/bash
+PATH=/sbin:/bin:/usr/sbin:/usr/bin
+MAILTO=root
+HOME=/
+
+# run-parts
+01 * * * * root run-parts /etc/cron.hourly
+02 4 * * * root run-parts /etc/cron.daily
+22 4 * * 0 root run-parts /etc/cron.weekly
+42 4 1 * * root run-parts /etc/cron.monthly
+02 05  * * * root /home/www/default/DBbackup/script/hiteclaser.sh
+03 05  * * * root /home/www/default/DBbackup/script/lucklaser.sh
+04 05  * * * root /home/www/default/DBbackup/script/spycamhidden.sh
+05 05  * * * root /home/www/default/DBbackup/script/dmicroscope.sh
+11 05  * * * root /home/www/default/DBbackup/script/kennbikyou.sh
+12 05  * * * root /home/www/default/DBbackup/script/vincentlist.sh
+13 05  * * * root /home/www/default/DBbackup/script/laserdoor.sh
+

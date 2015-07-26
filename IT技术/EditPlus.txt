@@ -1,0 +1,53 @@
+editplus怎么去掉自动备份
+发布时间: 2012-03-9 浏览次数：435	 分类: 编程人生 0评论
+
+
+初次使用Editplus保存时总有备份文件：文件名.bak，
+
+可以按照此步骤去掉：
+打开Editplus-》工具-》参数设置-》文件-》在右边的“保存时创建备份文件”，去掉前面的勾，确定OK了。
+
+呵呵，高级编程人员都用editplus的！
+
+
+*********************************************************************
+
+
+http://www.phpddt.com/phpdown/462.html
+
+
+修改EditPlus默认html页面内容及编码
+发布时间: 2012-06-7 浏览次数：268	 分类: 资源共享 0评论
+
+
+EditPlus用起来确实很不错，很轻巧使用，我以前就在php教程中说过常见的php开发工具，本人用的就是editplus和zend studio, 以前就说EditPlus去掉备份文件的问题，还有个问题也是我非常困扰，就是默认的页面内容每次修改起来比较麻烦，比如说没有页面编码设置：
+
+<meta http-equiv="content-type"content="text/html; charset=UTF-8"/>等等！
+
+修改EditPlus默认html页面内容：
+
+工具-》配置用户工具-》模板， 如下图：
+
+
+
+如上图，点击上面按钮，出现如下：
+
+打开template.html ，修改页面内容，比如我我html默认页面设置成这样：
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<TITLE> map </TITLE>
+  <meta http-equiv="content-type"content="text/html; charset=UTF-8"/>
+</HEAD>
+<BODY>
+	
+</BODY>
+</HTML>
+
+修改默认编码方式：
+
+工具-》参数设置-》文件，如下图：
+
+现则默认编码，保存即可！

@@ -1,0 +1,11 @@
+Name: vincent
+Email: vincent0571@gmail.com
+password: p@ssword
+
+备份公钥:pubring.pkr
+备份私钥:secring.skr
+
+导出公钥:vincent.asc
+
+
+   Date: 2008-9-27

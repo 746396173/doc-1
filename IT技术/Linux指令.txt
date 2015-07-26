@@ -1,0 +1,2 @@
+1,在linux压缩文件，windows上能用的那种
+ zip -r vincent.zip yagayi.com/*

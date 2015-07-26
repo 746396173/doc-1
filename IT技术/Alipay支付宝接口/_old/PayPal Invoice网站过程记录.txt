@@ -1,0 +1,64 @@
+00:00:00.000	ステップ１（３ステップ中） - 配送情報 : レーザーポインター，グリーンレーザー，高出力レーザーはhiteclaserから来る, Laser Pointer								
++ 0.000		1	0.973	1017	24980	GET	200	html	http://www.localhiteclaser.com/index.php?main_page=checkout_shipping
++ 0.697		2	0.002	0	0	GET	(Cache)	javascript	http://www.localhiteclaser.com/common/common.js
++ 0.704		2	0.001	0	0	GET	(Cache)	css	http://www.localhiteclaser.com/includes/templates/premium4a/css/stylesheet.css
++ 0.767			0.001	0	0	GET	(Cache)	javascript	http://www.google-analytics.com/ga.js
++ 0.837		2	0.117	1338	405	GET	200	gif	http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=6&utmn=348812477&utmhn=www.localhiteclaser.com&utmcs=utf-8&utmsr=1440x900&utmvp=1436x345&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.1%20r102&utmdt=%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%EF%BC%91%EF%BC%88%EF%BC%93%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E4%B8%AD%EF%BC%89%20-%20%E9%85%8D%E9%80%81%E6%83%85%E5%A0%B1%20%3A%20%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%8C%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%EF%BC%8C%E9%AB%98%E5%87%BA%E5%8A%9B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AFhiteclaser%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%2C%20Laser%20Pointer&utmhid=699242120&utmr=0&utmp=%2Findex.php%3Fmain_page%3Dcheckout_shipping&utmht=1376622218640&utmac=UA-22916103-6&utmcc=__utma%3D245235992.1372844596.1376622178.1376622178.1376622178.1%3B%2B__utmz%3D245235992.1376622178.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~
++ 0.875		1	0.031	684	478	GET	404	html	http://www.localhiteclaser.com/images/500mw%20green%20laser%20beam%20cheap.jpg
++ 0.876		1	0.009	0	0	GET	(Cache)	jpeg	http://www.localhiteclaser.com/images/Mini%20key%20532nm-200mW-Green-Laser-Pointer.jpg
++ 0.885		1	0.010	0	0	GET	(Cache)	jpeg	http://www.localhiteclaser.com/images/100mw%20green%20laser%20Pen.jpg
++ 0.887		1	0.036	0	0	GET	(Cache)	jpeg	http://www.localhiteclaser.com/images/blue-1000mw-2000mw-new-laser%20pointer.jpg
++ 0.890		1	0.028	687	480	GET	404	html	http://www.localhiteclaser.com/images/500mw%20green%20laser%20pointer%20sales.jpg
++ 0.981		1	0.038	715	2373	GET	200	gif	http://www.localhiteclaser.com/includes/templates/template_default/buttons/japanese/button_change_address.gif
++ 0.981		1	0.043	718	3325	GET	200	gif	http://www.localhiteclaser.com/includes/templates/template_default/buttons/japanese/button_continue_checkout.gif
++ 0.982		1	0.005	0	0	GET	(Cache)	javascript	http://www.googleadservices.com/pagead/conversion.js
+		15	1.024	5159	32041	13 requests			
+00:00:02.861	ステップ ２（３ステップ中）- お支払い情報 : レーザーポインター，グリーンレーザー，高出力レーザーはhiteclaserから来る, Laser Pointer								
++ 0.000			0.387	1168	471	POST	302	Redirect to http://www.localhiteclaser.com/index.php?main_page=checkout_payment	http://www.localhiteclaser.com/index.php?main_page=checkout_shipping
++ 0.388		1	1.159	1025	28337	GET	200	html	http://www.localhiteclaser.com/index.php?main_page=checkout_payment
++ 1.098		2	0.001	0	0	GET	(Cache)	javascript	http://www.localhiteclaser.com/common/common.js
++ 1.101		2	0.002	0	0	GET	(Cache)	css	http://www.localhiteclaser.com/includes/templates/premium4a/css/stylesheet.css
++ 1.164			0.003	0	0	GET	(Cache)	javascript	http://www.google-analytics.com/ga.js
++ 1.240		2	0.052	1356	405	GET	200	gif	http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=7&utmn=1676140646&utmhn=www.localhiteclaser.com&utmcs=utf-8&utmsr=1440x900&utmvp=1436x345&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.1%20r102&utmdt=%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%20%EF%BC%92%EF%BC%88%EF%BC%93%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E4%B8%AD%EF%BC%89-%20%E3%81%8A%E6%94%AF%E6%89%95%E3%81%84%E6%83%85%E5%A0%B1%20%3A%20%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%8C%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%EF%BC%8C%E9%AB%98%E5%87%BA%E5%8A%9B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AFhiteclaser%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%2C%20Laser%20Pointer&utmhid=2080712602&utmr=0&utmp=%2Findex.php%3Fmain_page%3Dcheckout_payment&utmht=1376622221906&utmac=UA-22916103-6&utmcc=__utma%3D245235992.1372844596.1376622178.1376622178.1376622178.1%3B%2B__utmz%3D245235992.1376622178.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~
++ 1.274		1	0.008	683	477	GET	404	html	http://www.localhiteclaser.com/images/500mw%20green%20laser%20beam%20cheap.jpg
++ 1.284		1	0.001	0	0	GET	(Cache)	jpeg	http://www.localhiteclaser.com/images/Mini%20key%20532nm-200mW-Green-Laser-Pointer.jpg
++ 1.285		1	0.015	0	0	GET	(Cache)	jpeg	http://www.localhiteclaser.com/images/100mw%20green%20laser%20Pen.jpg
++ 1.295		1	0.046	0	0	GET	(Cache)	jpeg	http://www.localhiteclaser.com/images/blue-1000mw-2000mw-new-laser%20pointer.jpg
++ 1.296		1	0.012	686	480	GET	404	html	http://www.localhiteclaser.com/images/500mw%20green%20laser%20pointer%20sales.jpg
++ 1.548		1	0.001	0	0	GET	(Cache)	javascript	http://www.googleadservices.com/pagead/conversion.js
+		13	1.549	4918	30170	12 requests			
+00:00:08.241	ステップ3（３ステップ中） - ご注文確認 : レーザーポインター，グリーンレーザー，高出力レーザーはhiteclaserから来る, Laser Pointer								
++ 0.000		2	0.836	1146	27943	POST	200	html	http://www.localhiteclaser.com/index.php?main_page=checkout_confirmation
++ 0.534		2	0.003	0	0	GET	(Cache)	javascript	http://www.localhiteclaser.com/common/common.js
++ 0.539		2	0.008	0	0	GET	(Cache)	css	http://www.localhiteclaser.com/includes/templates/premium4a/css/stylesheet.css
++ 0.605			0.001	0	0	GET	(Cache)	javascript	http://www.google-analytics.com/ga.js
++ 0.676		2	0.094	1347	405	GET	200	gif	http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=8&utmn=999610042&utmhn=www.localhiteclaser.com&utmcs=utf-8&utmsr=1440x900&utmvp=1436x345&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.1%20r102&utmdt=%E3%82%B9%E3%83%86%E3%83%83%E3%83%973%EF%BC%88%EF%BC%93%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E4%B8%AD%EF%BC%89%20-%20%E3%81%94%E6%B3%A8%E6%96%87%E7%A2%BA%E8%AA%8D%20%3A%20%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%8C%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%EF%BC%8C%E9%AB%98%E5%87%BA%E5%8A%9B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AFhiteclaser%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%2C%20Laser%20Pointer&utmhid=129984492&utmr=0&utmp=%2Findex.php%3Fmain_page%3Dcheckout_confirmation&utmht=1376622226718&utmac=UA-22916103-6&utmcc=__utma%3D245235992.1372844596.1376622178.1376622178.1376622178.1%3B%2B__utmz%3D245235992.1376622178.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~
++ 0.719		1	0.009	688	477	GET	404	html	http://www.localhiteclaser.com/images/500mw%20green%20laser%20beam%20cheap.jpg
++ 0.727		1	0.002	0	0	GET	(Cache)	jpeg	http://www.localhiteclaser.com/images/Mini%20key%20532nm-200mW-Green-Laser-Pointer.jpg
++ 0.729		1	0.020	0	0	GET	(Cache)	jpeg	http://www.localhiteclaser.com/images/100mw%20green%20laser%20Pen.jpg
++ 0.733		1	0.048	0	0	GET	(Cache)	jpeg	http://www.localhiteclaser.com/images/blue-1000mw-2000mw-new-laser%20pointer.jpg
++ 0.734		1	0.009	691	480	GET	404	html	http://www.localhiteclaser.com/images/500mw%20green%20laser%20pointer%20sales.jpg
++ 0.832		1	0.014	708	2052	GET	200	gif	http://www.localhiteclaser.com/includes/templates/template_default/buttons/japanese/small_edit.gif
++ 0.836		1	0.032	718	3654	GET	200	gif	http://www.localhiteclaser.com/includes/templates/template_default/buttons/japanese/button_confirm_order.gif
++ 0.887		1	0.001	0	0	GET	(Cache)	javascript	http://www.googleadservices.com/pagead/conversion.js
+		16	0.888	5298	35011	13 requests			
+00:00:11.847	ご注文の手続きが完了しました。 : レーザーポインター，グリーンレーザー，高出力レーザーはhiteclaserから来る, Laser Pointer								
++ 0.000			1.477	1098	471	POST	302	Redirect to http://www.localhiteclaser.com/index.php?main_page=checkout_success	
+                                                                           http://www.localhiteclaser.com/index.php?main_page=checkout_process
++ 1.478		1	0.766	1029	25792	GET	200	html	http://www.localhiteclaser.com/index.php?main_page=checkout_success
++ 1.903		2	0.001	0	0	GET	(Cache)	javascript	http://www.localhiteclaser.com/common/common.js
++ 1.911		2	0.001	0	0	GET	(Cache)	css	http://www.localhiteclaser.com/includes/templates/premium4a/css/stylesheet.css
++ 1.979			0.001	0	0	GET	(Cache)	javascript	http://www.google-analytics.com/ga.js
++ 2.051		2	0.109	1312	405	GET	200	gif	http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=9&utmn=399538761&utmhn=www.localhiteclaser.com&utmcs=utf-8&utmsr=1440x900&utmvp=1436x345&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.1%20r102&utmdt=%E3%81%94%E6%B3%A8%E6%96%87%E3%81%AE%E6%89%8B%E7%B6%9A%E3%81%8D%E3%81%8C%E5%AE%8C%E4%BA%86%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82%20%3A%20%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%8C%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%EF%BC%8C%E9%AB%98%E5%87%BA%E5%8A%9B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AFhiteclaser%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%2C%20Laser%20Pointer&utmhid=2009533420&utmr=0&utmp=%2Findex.php%3Fmain_page%3Dcheckout_success&utmht=1376622231703&utmac=UA-22916103-6&utmcc=__utma%3D245235992.1372844596.1376622178.1376622178.1376622178.1%3B%2B__utmz%3D245235992.1376622178.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~
++ 2.100		1	0.010	683	477	GET	404	html	http://www.localhiteclaser.com/images/500mw%20green%20laser%20beam%20cheap.jpg
++ 2.105		1	0.012	0	0	GET	(Cache)	jpeg	http://www.localhiteclaser.com/images/Mini%20key%20532nm-200mW-Green-Laser-Pointer.jpg
++ 2.112		1	0.017	0	0	GET	(Cache)	jpeg	http://www.localhiteclaser.com/images/100mw%20green%20laser%20Pen.jpg
++ 2.113		1	0.052	0	0	GET	(Cache)	jpeg	http://www.localhiteclaser.com/images/blue-1000mw-2000mw-new-laser%20pointer.jpg
++ 2.120		1	0.008	686	480	GET	404	html	http://www.localhiteclaser.com/images/500mw%20green%20laser%20pointer%20sales.jpg
++ 2.231		1	0.031	706	2071	GET	200	gif	http://www.localhiteclaser.com/includes/templates/template_default/buttons/japanese/button_logoff.gif
++ 2.243		1	0.015	706	2012	GET	200	gif	http://www.localhiteclaser.com/includes/templates/template_default/buttons/japanese/button_update.gif
++ 2.244		1	0.001	0	0	GET	(Cache)	javascript	http://www.googleadservices.com/pagead/conversion.js
++ 2.301		1	0.228	787	983	GET	302	Redirect to http://googleads.g.doubleclick.net/pagead/viewthroughconversion/1009766459/?random=1376622231906&cv=7&fst=1376622231906&num=1&fmt=3&value=300&label=gt27CL2fuwMQu6C_4QM&bg=ffffff&hl=en&guid=ON&u_h=900&u_w=1440&u_ah=870&u_aw=1440&u_cd=32&u_his=9&u_tz=480&u_nplug=0&u_nmime=0&ref=http%3A//www.localhiteclaser.com/index.php%3Fmain_page%3Dcheckout_confirmation&url=http%3A//www.localhiteclaser.com/index.php%3Fmain_page%3Dcheckout_success&frm=0&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&convclickts=0	http://www.googleadservices.com/pagead/conversion/1009766459/?random=1376622231906&cv=7&fst=1376622231906&num=1&fmt=3&value=300&label=gt27CL2fuwMQu6C_4QM&bg=ffffff&hl=en&guid=ON&u_h=900&u_w=1440&u_ah=870&u_aw=1440&u_cd=32&u_his=9&u_tz=480&u_nplug=0&u_nmime=0&ref=http%3A//www.localhiteclaser.com/index.php%3Fmain_page%3Dcheckout_confirmation&url=http%3A//www.localhiteclaser.com/index.php%3Fmain_page%3Dcheckout_success&frm=0
++ 2.530		1	0.214	1069	1030	GET	302	Redirect to http://www.google.com/ads/conversion/1009766459/?random=1376622231906&cv=7&fst=1376622231906&num=1&fmt=3&value=300&label=gt27CL2fuwMQu6C_4QM&bg=ffffff&hl=en&guid=ON&u_h=900&u_w=1440&u_ah=870&u_aw=1440&u_cd=32&u_his=9&u_tz=480&u_nplug=0&u_nmime=0&ref=http%3A//www.localhiteclaser.com/index.php%3Fmain_page%3Dcheckout_confirmation&url=http%3A//www.localhiteclaser.com/index.php%3Fmain_page%3Dcheckout_success&frm=0&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&cdct=2&convclickts=0&random=412205801	http://googleads.g.doubleclick.net/pagead/viewthroughconversion/1009766459/?random=1376622231906&cv=7&fst=1376622231906&num=1&fmt=3&value=300&label=gt27CL2fuwMQu6C_4QM&bg=ffffff&hl=en&guid=ON&u_h=900&u_w=1440&u_ah=870&u_aw=1440&u_cd=32&u_his=9&u_tz=480&u_nplug=0&u_nmime=0&ref=http%3A//www.localhiteclaser.com/index.php%3Fmain_page%3Dcheckout_confirmation&url=http%3A//www.localhiteclaser.com/index.php%3Fmain_page%3Dcheckout_success&frm=0&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&convclickts=0
++ 2.744		1	0.145	1443	372	GET	200	gif	http://www.google.com/ads/conversion/1009766459/?random=1376622231906&cv=7&fst=1376622231906&num=1&fmt=3&value=300&label=gt27CL2fuwMQu6C_4QM&bg=ffffff&hl=en&guid=ON&u_h=900&u_w=1440&u_ah=870&u_aw=1440&u_cd=32&u_his=9&u_tz=480&u_nplug=0&u_nmime=0&ref=http%3A//www.localhiteclaser.com/index.php%3Fmain_page%3Dcheckout_confirmation&url=http%3A//www.localhiteclaser.com/index.php%3Fmain_page%3Dcheckout_success&frm=0&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&cdct=2&convclickts=0&random=412205801
+		18	2.889	9519	34093	17 requests			

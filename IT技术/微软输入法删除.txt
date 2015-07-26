@@ -1,0 +1,10 @@
+-不知道你的office是什么版本，如果是2007和2010的话，那么在office中屏蔽微软输入法的方法是：
+
+打开控制面板---->程序和功能---->选office，点更改--->添加或删除功能--->展开Microsoft office的office共享功能--->将微软拼音输入法设置为不可用，点继续，稍等一会就好了
+--> 重启系统
+--> ok
+
+
+又出现了
+C:\Program Files\Common Files\Microsoft Shared\IME搜索\IMSC  找到它然后删除 就可以呢
+--> ok

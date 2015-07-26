@@ -1,0 +1,38 @@
+1.删除以下文件夹中的内容： 
+
+C:\Documents and Settings\Vincent\Cookies\下的所有文件(保留index文件) 
+
+C:\Documents and Settings\Vincent\Local Settings\Temp\下的所有文件(用户临时文件) 
+
+C:\Documents and Settings\Vincent\LocalSettings\TemporaryInternet Files\下的所有文件(页面文件) 
+
+C:\Documents and Settings\Vincent\Local Settings\History\下的所有文件(历史纪录) 
+
+C:\Documents and Settings\Vincent\Recent\下的所有文件(最近浏览文件的快捷方式) 
+
+C:\WINDOWS\Temp\下的所有文件(临时文件) 
+
+C:\WINDOWS\ServicePackFiles(升级sp1或sp2后的备份文件) 
+
+C:\WINDOWS\Driver Cache\i386下的压缩文件(驱动程序的备份文件) 
+
+C:\WINDOWS\SoftwareDistribution\download下的所有文件 
+
+C:\windows\下以 $u... 开头的隐藏文件 
+
+
+2. 然后对磁盘进行碎片整理，整理过程中请退出一切正在运行的程序 
+
+3. 打开“我的电脑”-右键点系统盘-“属性”-“磁盘清理”-“其他选项”-单击系统还原一栏里的“清理”-选择“是”-ok了
+
+4. 删除不用的输入法：对很多网友来说，Windows XPt系统自带的输入法并不全部都合适自己的使用，比如IMJP8_1 日文输入法、IMKR6_1 韩文输入法这些输入法，如果用不着，我们可以将其删除。输入法位于\windows\ime\文件夹中，全部占用了88M的空间。
+
+5.关闭系统还原：系统还原功能使用的时间一长，就会占用大量的硬盘空间。因此有必要对其进行手工设置，以减少硬盘占用量。打开"系统属性"对话框，选择"系统还原"选项，选择"在所有驱动器上关闭系统还原"复选框以关闭系统还原。也可仅对系统所在的磁盘或分区设置还原。先选择系统所在的分区，单击"配置"按钮，在弹出的对话框中取消"关闭这个驱动器的系统还原"选项，并可设置用于系统还原的磁
+
+6.清除系统临时文件：系统的临时文件一般存放在两个位置中：一个Windows安装目录下的Temp文件夹；另一个是C:\Documents and Settings"用户名"\Local Settings\Temp文件夹(Y:是系统所在的分区)。这两个位置的文件均可以直接删除。 
+7.清除Internet临时文件：定期删除上网时产生的大量Internet临时文件，将节省大量的硬盘空间。打开IE浏览器，从"工具"菜单中选择 "Internet选项"，在弹出的对话框中选择"常规"选项卡，在"Internet临时文件"栏中单击"删除文件"按钮，并在弹出"删除文件"对话框，选中"删除所有脱机内容"复选框，单击"确定"
+
+
+8.关闭远程桌面："我的电脑"->"属性"->"远程"，"远程桌面"里的"允许用户远程连接到这台计算机"勾去掉。
+
+9.
