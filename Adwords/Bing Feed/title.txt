@@ -1,0 +1,2 @@
+id	title	brand	link	price	description	image_link	seller_name	mpn	availability	product_category	condition	product_type
+290	Nichia NDB7A75 445nm/448nm/450nm 3.5W 3500mW blue high power laser dio	CivilLaser	http://civillaser.com/-p-290.html	329	Nichia NDB7A75  3.5W 3500mW blue high power 	http://civillaser.com/images/NDB7A75%20450nm%203500mw%20ld%20(1).jpg	Civil Laser Products Supplier	C290	in stock	Electronics | Circuit Components | Optoelectronics | Laser Diodes	new	Industry & Business | Machinery | Laser Equipment Parts

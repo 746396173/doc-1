@@ -1,0 +1,297 @@
+
+2013-5-28
+光年_9.18上午
+
+
+2013-5-18
+安排 光年 9.17 下午
+
+2013-1-7
+SEO 光年教程看一集
+光年_9.17上午
+
+2012-12-21
+太基础 不看了
+直接看光年教程
+
+
+2012-12-18
+--> 整理导图的内容
+--> 定系统的学习计划
+--> 《搜索引擎优化（SEO）知识完全手册》.pdf 开始学习这个教程
+     第七页 第二部分;
+--> 光年教程(下一步学习)
+
+2012-12-13
+--> 创建了SEO的MindManager;
+
+
+
+***********知识点*************************************************
+中国的百度，俄罗斯的Yandex
+http://xiaoq.in/foreign-trade-marketing/local-marketing-yandex/
+
+
+问题:
+★ 怎么看一个网站的google收录? 怎么提高? 
+   --> 百度收录 和 谷歌收录  都是在搜索框中输入site:网址
+★ 怎么看网站的PR值? 怎么提高PR值?
+   --> 用工具查看PR 如: http://www.prchecker.info/
+★ 哪里去找好的链接交换?
++++++++++++++++Hiteclaser++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+★ Google Adwords调整;
+     调整出价;  
+     调整网络广告位置;
+     研究其他站的广告;
+     ==>整天的广告100，晚上的单独100，试效果，发现晚上订单多；2011-11-10
+     ==>广告费用不光，目标每天1000点击； 2011-11-10
+     ==> 质量得分下降了 为什么？2011-11-28
+     ==> 关键词重复 有影响？2011-11-28
+     ==> 删除了点击差的关键词  以后谨慎操作 下面有记录 2011-12-2
+     ==> 根据 adwords 官方教程 优化 2011-12-5
+★ Yahoo ads调整;
+   ==> 审核周期长 2011-11-28
+   ==> 审核通过 没点击
+   ==> 审核通过了 有点击了 2011-12-2
+   ==> 大概 1.0622 RMB 每次点击 2011-12-2
+   ==> yahoo 分类看看 2011-12-2
+   ==> 学习 yahoo 广告技巧 2011-12-2
+★ Facebook ads调整;
+   ==> 面向人群 3天必须换掉，否则点击率太低；  
+   ==> 每次点击3.8元 太贵 不做了 2011-12-2
+   ==> 发了10几个人 2011-12-2
+★ Youtube 上找人
+   ==> youtube 内部消息 看看 2011-12-2
+   ==> 发了10几个消息 2011-12-2
+★ 流量分析;
+   关键词分析
+   ==> 主要关键词
+   レーザーポインター (2126)
+   レーザー (154)
+   レーザーモジュール (98)
+   高出力レーザーポインター (56)
+   半導体レーザー
+   青 レーザーポインター
+   レーザーポインター グリーン  (绿色)
+   ブルーレーザーポインター (蓝色)
+   レーザー 200mw
+   緑色レーザーポインター
+★ 加新产品;
+     多增加200 300的；
+     货源参考: 
+     http://ja.aliexpress.com 
+     http://www.alibaba.co.jp/
+     kalaser.com
+     taobao.com
+     标题用不同的关键词
+     ==> 向厂家要产品原图 价格表；2011-11-10
+     ==> 调整激光二级管 2011-12-2 不改 改不了     
+★ twitter
+   ==>hiteclaser@gmail.com/p@+gmail Hiteclaser 2011-11-13
+   ==> TwittrAdder follow人的工具？
+   ==> 选用合适的关键词
+   ==> http://search.twitter.com 参与谈话
+   ==> 参与的关键词：
+       --> 礼物 : ギフト
+       --> 东京 ： 東京都
+       --> Cool Gifts for Christmas! 1000mwブルーレーザーポインター,High power blue laser pointer,can burn paper! http://www.hiteclaser.com/1000mw-p-253.html
+       --> Cool gifts for Christmas!  1000mwブルーレーザーポインター, Ohh, it's beautiful beam can burn paper! http://www.hiteclaser.com/1000mw-p-253.html
+   ==> 没弄两下 帐号被封了；2011-11-13
+   ==> 找 学中文的日本人 2011-11-14
+   ==> 不知道怎么弄
+★ 加新闻
+   ==> 找不到内容；
+   ==> 再加几个内容精华的，不加了，太麻烦 2011-11-10
+   ==> 没有日语翻译
+★ Google博客 (多为美国的访问, 效果不好 )
+     www.blogger.com 
+     salesforjapan@gmail.com/p@+g
+    http://japanlaserpointer.blogspot.com/  ==> 产品页面,直接copy产品信息页面; 也要放其他网站的产品,便于搜索引擎找到关键字;
+    ==>1000mw的那个有被搜索到
+    http://hiteclaser.blogspot.com/
+    ==>  文章,从其他博客等地方采集过来的文章,必须做修改;
+    ==> 也加了产品 绿 100mv 加到第三个
+
+    http://lasersjp.blogspot.com/ ==> 价格比较
+   参考:http://www.mikage.to/radiation/detector.html   放射線測定器の種類と一覧
+   提供有价值的信息;
+  先这方面的信息收集;
+  收集信息来源: http://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC 
+★ 日本博客
+   乐天博客也收录很好
+   (黑字：不能用)
+   登录： ID: sales@hiteclaser.com/p@+blog
+   ==> http://plaza.rakuten.co.jp/
+   ==> sales@hiteclaser.com/Hiteclaser.com/p@+blog/2011-10-28/  
+   ==> http://plaza.rakuten.co.jp/hiteclaserjp  (查看博客)
+   ==> http://plaza.rakuten.co.jp/hiteclaser (忘了那个帐号登录？)
+   ==> 激光二极管产品 2011-10-28 前10个
+   ==> 200mw 绿激光笔 2011-11-1 前10个
+   ==> 红色200mw 全部 2011-11-2 前7个
+   ==> 模组 红点 5个 2011-11-27
+   ==> 热卖 5 个 2011-11-27
+   ==> 绿 模组  点  2011-11-28 没做
+   ==> 绿 模组 所有＋2011最新 2011-11-29
+   ==> 青 模组 全部 2011-11-30
+   ==> 绿 100mw 全部 2011-12-1
+   ==> 绿 200mw 第一页  2011-12-2
+   http://blog.seesaa.jp/
+   ==>
+   http://livedoor.blogcms.jp/member/
+   ==>
+   http://www.yaplog.jp
+   ==>
+   http://blog.goo.ne.jp/
+   ==>
+   http://d.hatena.ne.jp/
+   ==>
+   https://blog.oricon.co.jp/
+   ==>
+   http://jugem.jp/
+   ==>
+   https://maruta.be
+   ==>
+   http://www.mitekaite.com/
+   ==>
+   http://www.teacup.com/ 
+   ==>
+   https://app.blog.bbiq.jp/t/app
+   ==>
+★ 论坛
+   ==> http://laserpointerforums.com/ 英文专业论坛 都在讨论什么
+   ==> 日本论坛找找 2011-12-2  
+   ==> レーザーポインター  フォーラム  (激光笔 论坛)
+   ==> http://6729.teacup.com/toutanbuildlaser/bbs? 这个论坛发产品信息
+   ==> 找日本激光笔论坛 他们都在讨论什么
+★ 图片
+   Google的图片
+   ==>
+   Yahoo的(不需要翻墙)
+   ==>雅虎图片http://www.flickr.com 
+      hiteclaser@yahoo.com/p@+yahoo (50的完)
+      相册地址：http://www.flickr.com/photos/laserjapan/
+   ==> 列表 60-100 完 2011-11-2
+★ 视频
+   自己拍视频
+   加写真、动画栏/写真、動画
+   http://www.youtube.com/
+   ==> hiteclaser@gmail.com google 帐号登录
+   ==> 用这个账户登录的，加了不少，继续加；
+   http://www.flipclip.net
+   ==>
+   http://www.watchme.tv/
+   ==>
+   Youtube上搜索激光视频，给留言的人推1w蓝光笔 2011-11-29
+   ==> 
+★ 分析一个同行站;
+   ka在哪里推广；
+   ==> sales.txt名单
+   ==> 看他们在哪里推广
+★ 外链接
+   ==> 查首页网站的反响链接 2011-12-2
+   ==> 怎么查反向链接： google中查看反向链接：Link:www.xxx.com
+★ 客户分析
+   老师当教鞭; 学校批量采购;
+   户外运动爱好者,当外具;
+   导游,当教鞭;
+   玩具逗宠物;
+★ SEO 排名推广
+★ 发邮件广告；
+   老用户发邮件;
+   ==> 在发Y的客户，到49；
+   ==> 43 2011-11-14
+★ 如果一定要每天做10单，必须先做好什么？哪些事是最重要的？
+   ==> 一天流量要1000以上
+★ 促销
+   11月份的促销：送1000元优惠券（没人用）
+   12月份的促销：满10000日元 送5mw笔（35元）
+   http://giga-laser.com/ 两个以上免运费
+★ Google +
+
+
+
+
++++++++++++++++Lucklaser++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+★ Google Adwords调整;
+     调整出价;  
+     调整网络广告位置;
+     研究其他站的广告;
+     ==>整天的广告100，晚上的单独100，试效果，发现晚上订单多；2011-11-10
+     ==>广告费用不光，目标每天1000点击； 2011-11-10
+     ==> 质量得分下降了 为什么？2011-11-28
+     ==> 关键词重复 有影响？2011-11-28
+     ==> 删除了点击差的关键词  以后谨慎操作 下面有记录 2011-12-2
+     ==> 根据 adwords 官方教程 优化 2011-12-5
+★ Yahoo ads调整;
+   ==> 审核周期长 2011-11-28
+   ==> 审核通过 没点击
+   ==> 审核通过了 有点击了 2011-12-2
+   ==> 大概 1.0622 RMB 每次点击 2011-12-2
+   ==> yahoo 分类看看 2011-12-2
+   ==> 学习 yahoo 广告技巧 2011-12-2
+★ Facebook ads调整;
+   ==> 面向人群 3天必须换掉，否则点击率太低；  
+   ==> 每次点击3.8元 太贵 不做了 2011-12-2
+   ==> 发了10几个人 2011-12-2
+★ Youtube 上找人
+   ==> youtube 内部消息 看看 2011-12-2
+   ==> 发了10几个消息 2011-12-2
+★ 流量分析;
+   关键词分析
+   ==> 主要关键词
+★ 加新产品;   
+★ twitter
+★ 加新闻
+★ Google博客 (多为美国的访问, 效果不好 )
+     www.blogger.com      
+★ 论坛
+   ==> http://laserpointerforums.com/ 英文专业论坛 都在讨论什么
+★ 图片
+   Google的图片
+   ==>
+   Yahoo的(不需要翻墙)
+   ==>雅虎图片http://www.flickr.com 
+      hiteclaser@yahoo.com/p@+yahoo (50的完)
+      相册地址：http://www.flickr.com/photos/laserjapan/
+   ==> 列表 60-100 完 2011-11-2
+★ 视频
+   自己拍视频
+   加写真、动画栏/写真、動画
+   http://www.youtube.com/
+★ 分析一个同行站;
+★ 外链接
+   ==> 查首页网站的反响链接 2011-12-2
+   ==> 怎么查反向链接： google中查看反向链接：Link:www.xxx.com
+★ 客户分析
+   老师当教鞭; 学校批量采购;
+   户外运动爱好者,当外具;
+   导游,当教鞭;
+   玩具逗宠物;
+★ SEO 排名推广
+★ 发邮件广告；
+   老用户发邮件;
+   ==> 在发Y的客户，到49；
+   ==> 43 2011-11-14
+★ 如果一定要每天做10单，必须先做好什么？哪些事是最重要的？
+   ==> 一天流量要1000以上
+★ 促销
+★ Google +
+
+
+
+
+
+###google.com/products###
+加产品
+加产品 评论
+
+
+
+
+#########Google PR Pagerank#################################
+
+
+*********************Blog Image***************************************
+<a href="http://www.civillaser.com/" title="Different laser wavelengths, What are the shape of the laser spot?" alt="Different laser wavelengths, What are the shape of the laser spot?" target="_blank">
+<img src="http://www.civillaser.com/images/650nm%205mW~150mW%20red%20laser%20module%20(1).jpg" width=450>
+</a>
