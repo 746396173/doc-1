@@ -1,0 +1,14 @@
+﻿
+---------------------最上面的是新的 发时候删除最上面的10~20个------------------------------
+select customers_email_address from  customers order by customers_id desc
+
+
+Note:
+直接用搜索结果页面下面的导出功能；
+---------------------------------------------------
+
+YMLP / 2500 emails /months
+
+---------------------------------------------------
+2014-10-30
+Pro Plus account, "7,500 e-mails/month"-plan
