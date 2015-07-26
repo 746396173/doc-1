@@ -1,0 +1,69 @@
+<div>
+
+<center>
+
+<div id="banner">
+<div id="ifocus">
+<div style="overflow: hidden;" id="ifocus_pic">
+<div style="overflow: hidden; top: 0px; left: 0px;" id="ifocus_piclist">
+<ul>
+  <li><a href="http://www.lucklaser.com/445nm-1w2w-ultra-powerful-blue-laser-flashlight-focusable-p-31.html" target="_blank"><img border="0" alt="lucklaser Laser World" src="/images/ad0.jpg" /></a></li>
+  <li><a href="http://www.lucklaser.com/1w-447nm-blue-laser-pointer-waterproof-sales-p-38.html" target="_blank"><img border="0" alt="lucklaser Laser World" src="/images/ad1.jpg" /></a> </li>
+  <li><a href="http://www.lucklaser.com/new-model-red-laser-300mw500mw-638nm-6000m-distance-p-9.html" target="_blank"><img border="0" alt="lucklaser Laser World" src="/images/ad2.jpg" /></a> </li>
+  <li><a href="http://www.lucklaser.com/10mw200mw-green-laser-pointer-waterproof-p-55.html" target="_blank"><img border="0" alt="lucklaser Laser World" src="/images/ad3.jpg" /></a> </li>
+  <li><a href="http://www.lucklaser.com/laser-modules-c-20.html" target="_blank"><img border="0" alt="lucklaser Laser World" src="/images/ad4.jpg" /></a> <!--å¤§å›¾_end --></li></ul>
+</div>
+<div id="ifocus_opdiv"></div>
+<div id="ifocus_tx">
+<ul>
+  <li class="current">&nbsp;</li><li class="normal">&nbsp;</li><li class="normal">&nbsp;</li><li class="normal">&nbsp;</li><li class="normal"><!--å°å›¾åˆ—è¡¨_end --></li></ul></div>
+<div id="ifocus_btn">
+<ul>
+  <li class="current"><img border="0" alt="lucklaser Laser World" src="/images/ad0.jpg" /> </li>
+  <li class="normal"><img border="0" alt="lucklaser Laser World" src="/images/ad1.jpg" /> </li>
+  <li class="normal"><img border="0" alt="lucklaser Laser World" src="/images/ad2.jpg" /> </li>
+  <li class="normal"><img border="0" alt="lucklaser Laser World" src="/images/ad3.jpg" /> </li>
+  <li class="normal"><img border="0" alt="lucklaser Laser World" src="/images/ad4.jpg" /> </li></ul>
+</div></div></div></div>
+</center>
+
+</div>
+
+<br />
+
+
+
+<!------------------b:todaySpecial-------------------------------------------------->
+<div id='todaySpecial'>
+<font size="6" style="background-color: rgb(255, 255, 0);" color="#ff0000">
+Today's special [<?php echo date('Y-m-d',time()); ?>]<br>
+</font>
+<table border=0>
+<tr>
+<td>
+<a href="http://www.lucklaser.com/flagon-type-small-powerful-green-laser-pointer-astronomy-for-sale-p-167.html" 
+title="laser pointer Today s special" alt="laser pointer Today s special">
+<img src="/images/910 Flagon type green laser pointer (1).jpg" width='250'>
+</a>
+</td>
+<td>
+<a href="http://www.lucklaser.com/flagon-type-small-powerful-green-laser-pointer-astronomy-for-sale-p-167.html" 
+title="laser pointer Today s special" alt="laser pointer Today s special">
+Flagon type small powerful green laser pointer astronomy for sale<br>
+</a>
+<h2 id="productPrices" class="productGeneral">
+<span class="normalprice">$79.00 </span>&nbsp;<span class="productSpecialPrice">$19.90</span><span class="productPriceDiscount"><br>Save:&nbsp;75% off</span></h2>
+</td>
+</tr>
+</table>
+
+</div>
+<!------------------e:todaySpecial-------------------------------------------------->
+
+
+
+
+
+
+
+

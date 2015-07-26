@@ -1,0 +1,314 @@
+
+<center>
+<img src="/images/powerful-laser-pointer.jpg" title="most powerful laser pointers" alt="most powerful laser pointers" />
+</center>
+
+<br><br>
+
+<div class="grayTable">	
+<table>
+
+<thead>
+<tr>
+<th scope="col">写真</th>
+<th scope="col">名称</th>
+<th scope="col">出力</th>
+<th scope="col" width='300'>製品の特徴</th>
+<th scope="col">価格</th>
+<th scope="col">リンク</th>
+</tr>
+</thead>
+
+
+
+
+<!--++++++++++++++++++++++++++++Blue+++++++++++++++++++++++++++++++++++++++ -->
+<tbody>
+<tr height="5" style="background-color: blue;">
+<td colspan="6"></td>
+</tr>
+
+
+<!--**************B:B009***************************** -->
+<tr>
+<td>
+<a href="http://www.lucklaser.jp/-p-1.html" target="_blank">
+<img src="/images/powerful 2w laser with laser sword.jpg" width="100" />
+</a>
+</td>
+<td>
+<a href="http://www.lucklaser.jp/-p-1.html" target="_blank">
+高出力445nm2Wレーザーポインター 懐中電灯 超強力 レーザーソード 特売!
+</a>
+</td>
+<td>2000mW</td>
+<td>
+1. 超高出力 レザーポインター 激安；<br>
+2. 遠距離まで届ける；<br>
+3. 光束が非常にまぶしい；<br>
+4. マッチを燃やすことが出来る<br>；
+5. タバコを燃やすことが出来る；<br>
+6. レーザーソードがある；<br>
+7. 高級なアルミニウム箱で包装される。<br>
+8. このレーザーを購入、 得るだろう無料の安全ゴーグル<br>
+</td>
+<td nowrap="nowrap">
+<strike><font class="Apple-style-span" color="#cccccc">31,900円</font></strike> <br />
+13,900円</td>
+<td nowrap="nowrap">
+<a href="http://www.lucklaser.jp/-p-1.html" target="_blank">
+詳細を調べる
+</a>
+</td>
+</tr>
+<!--**************E:B009***************************** -->
+
+
+
+
+<!--**************B:B015***************************** -->
+<tr>
+<td>
+<a href="http://www.lucklaser.jp/50off2000mw-p-95.html" target="_blank">
+<img src="/images/powerful blue 2000mw laser pointer (1).jpg" width="100" />
+</a>
+</td>
+<td>
+<a href="http://www.lucklaser.jp/50off2000mw-p-95.html" target="_blank">
+激安 50%OFF! 高品質 2000mw 青色 高出力 レーザーポインター販売店 -- 送料無料
+</a>
+</td>
+<td>2000mW</td>
+<td>
+1. 世界一流の超強力 青色レーザーポインター;<br>
+2. カラスを追い払う<br>
+3. 燃えるマッチ<br>
+4. 出力保証, 遠距離照射！<br>
+5. パワーが強すぎです.<br>
+</td>
+<td nowrap="nowrap">
+<strike><font class="Apple-style-span" color="#cccccc"> 35,900円</font></strike> <br />
+17,900円</td>
+<td nowrap="nowrap">
+<a href="http://www.lucklaser.jp/50off2000mw-p-95.html" target="_blank">
+詳細を調べる
+</a>
+</td>
+</tr>
+<!--**************E:B015***************************** -->
+
+
+
+<!--**************B:golden style***************************** -->
+<tr>
+<td>
+<a href="http://www.lucklaser.jp/2w48off-p-96.html" target="_blank">
+<img src="/images/golden powerful laser (1).jpg" width="100" />
+</a>
+</td>
+<td>
+<a href="http://www.lucklaser.jp/2w48off-p-96.html" target="_blank">
+金色手持ち型 高出力 2W 青色レーザーポインター カラスを追い払う 48%OFF 送料無料
+</a>
+</td>
+<td>2000mW</td>
+<td>
+1. 金色手持ち型 高出力 2W 青色レーザーポインター.<br>
+2. フォーカス可能な燃焼モンスター.<br>
+3. 十分にテストされ、 高品質レーザーポインター.<br>
+4. 最新技術.<br>
+</td>
+<td nowrap="nowrap">
+<strike><font class="Apple-style-span" color="#cccccc">35,510円</font></strike> <br />
+18,500円</td>
+<td nowrap="nowrap">
+<a href="http://www.lucklaser.jp/2w48off-p-96.html" target="_blank">
+詳細を調べる
+</a>
+</td>
+</tr>
+<!--**************E:golden style***************************** -->
+
+
+
+
+<!--**************B:product 3w***************************** -->
+<tr>
+<td>
+<a href="http://www.lucklaser.jp/3wled-p-85.html" target="_blank">
+<img src="/images/blue laser pointer 445nm 3000mw lucklaser (1).jpg" width="100" />
+</a>
+</td>
+<td>
+<a href="http://www.lucklaser.jp/3wled-p-85.html" target="_blank">
+3W 超高出力 青色レーザーポインター [附属品]レーザーの剣,LED 懐中電灯
+</a>
+</td>
+<td>3000mW</td>
+<td>
+1. 3000mW/3W 青色レーザーポインター!<br>
+2. 超強力レーザーポインター;<br>
+3. 世界一流の品質;<br>
+4. 3つのモード（强光、低光、めまい）
+</td>
+<td nowrap="nowrap">
+<strike><font class="Apple-style-span" color="#cccccc">39,800円</font></strike> <br />
+39,800円</td>
+<td nowrap="nowrap">
+<a href="http://www.lucklaser.jp/3wled-p-85.html" target="_blank">
+詳細を調べる
+</a>
+</td>
+</tr>
+<!--**************e:3w***************************** -->
+
+
+
+
+<!--**************b:3in1**************************** -->
+<tr>
+<td>
+<a href="http://www.lucklaser.jp/1000mw3in1-p-27.html" target="_blank">
+<img src="/images/1000mw blue laser 3in1.jpg" width="100" />
+</a>
+</td>
+<td>
+<a href="http://www.lucklaser.jp/1000mw3in1-p-27.html" target="_blank">
+ 2000mw 青色&緑色&赤色 レーザーポインター (3 IN 1) 激安
+</a>
+</td>
+<td>2000mW</td>
+<td>
+1. <font color='blue'>Blue,Green,Red laser pointer together;</font><br>
+2. <font color='blue'>2000mw Blue laser</font><font color='red'> 200mw Red laser</font><font color='green'> 100mw Green laser</font> ,3IN1 special offers;<br>
+3. Big discount now;<br>
+
+</td>
+<td nowrap="nowrap">
+<strike><font class="Apple-style-span" color="#cccccc">38,800円</font></strike> <br />
+20,699円</td>
+<td nowrap="nowrap">
+<a href="http://www.lucklaser.jp/1000mw3in1-p-27.html" target="_blank">
+詳細を調べる
+</a>
+</td>
+</tr>
+<!--**************e:3in1***************************** -->
+
+
+<!--++++++++++++++++++++++++++++Green+++++++++++++++++++++++++++++++++++++++ -->
+</tbody><tbody><tr height="5" style="background-color: green;">
+<td colspan="6"></td>
+</tr>
+
+</tbody><tbody>	
+
+
+
+<!--**************B:1w***************************** -->
+<tr>
+<td>
+<a href="http://www.lucklaser.jp/1000mw-p-97.html" target="_blank">
+<img src="/images/1000mw best green laser pointers (1).jpg" width="100" />
+</a>
+</td>
+<td><a href="http://www.lucklaser.jp/1000mw-p-97.html" target="_blank">
+推薦! 高出力 緑 レーザーポインター 1000mw グリーンレーザー 燃えるマッチ 激安 送料無料
+</a>
+</td>
+<td>1000mW</td>
+<td>
+1. 世界一流の超強力 緑色 レーザー<br />
+2. 調節可能    焼跡のマッチ<br />
+3. 非常に目に見える緑色の光ビーム<br />
+4. 高品質なグリーンレーザーポインター<br>
+</td>
+<td nowrap="nowrap">
+<strike><font class="Apple-style-span" color="#cccccc">30,900円</font></strike> <br />
+18,900円</td>
+<td nowrap="nowrap">
+<a href="http://www.lucklaser.jp/1000mw-p-97.html" target="_blank">
+詳細を調べる
+</a>
+</td>
+</tr>
+<!--**************E:1w***************************** -->
+
+
+
+
+
+
+<!--**************B:dazzler***************************** -->
+<tr>
+<td>
+<a href="http://www.lucklaser.jp/-p-40.html" target="_blank">
+<img src="/images/500mw green laser pointer sales.jpg" width="100" />
+</a>
+</td>
+<td>
+<a href="http://www.lucklaser.jp/-p-40.html" target="_blank">
+「激安」最新技術 500mW 緑レーザーポインター
+</a>
+</td>
+<td>250mW</td>
+<td>
+1. 眩しい機能.<br>
+2. カラスを追い払う.<br>
+</td>
+<td nowrap="nowrap">
+<strike><font class="Apple-style-span" color="#cccccc">17,500円</font></strike> <br />
+9,850円</td>
+<td nowrap="nowrap">
+<a href="http://www.lucklaser.jp/-p-40.html" target="_blank">
+詳細を調べる
+</a>
+</td>
+</tr>
+<!--**************E:dazzler**************************** -->
+
+
+
+
+<!--++++++++++++++++++++++++++++Red+++++++++++++++++++++++++++++++++++++++ -->
+<tr height="5" style="background-color: red;">
+<td colspan="6"></td>
+</tr>
+
+
+
+<!--**************B:red 1w**************************** -->
+<tr>
+<td>
+<a href="http://www.lucklaser.jp/650nm300mw500mw800mw1000mw-p-49.html" target="_blank">
+<img src="/images/650nm red laser pointer 300mw to 800mw.jpg" width="100" />
+</a>
+</td>
+<td>
+<a href="http://www.lucklaser.jp/650nm300mw500mw800mw1000mw-p-49.html" target="_blank">
+650nm  1000mw 超強力 携帯 赤色 レーザー ポインター
+</a>
+</td>
+<td>1000mW</td>
+<td>
+1. 最新のバージョン；<br>
+2. 眩暈機能がある；<br>
+3. 自衛護身道具；<br>
+4. 一流の高品質の赤色レーザーポインター<br>
+</td>
+<td nowrap="nowrap">
+<strike><font class="Apple-style-span" color="#cccccc">44,700円</font></strike> <br />
+44,700円</td>
+<td nowrap="nowrap">
+<a href="http://www.lucklaser.jp/650nm300mw500mw800mw1000mw-p-49.html" target="_blank">
+詳細を調べる
+</a>
+</td>
+</tr>
+<!--**************E: red 1w***************************** -->
+
+
+
+</tbody>	
+</table>
+</div>

@@ -1,0 +1,56 @@
+
+<div>
+
+<center>
+
+<div id="banner">
+<div id="ifocus">
+<div style="overflow: hidden;" id="ifocus_pic">
+<div style="overflow: hidden; top: 0px; left: 0px;" id="ifocus_piclist">
+<ul>
+  <li><a href="http://www.jp.civillaser.com/-c-2.html" target="_blank" alt="小型 レーザ モジュール" title="小型 レーザ モジュール"><img border="0" alt="小型 レーザ モジュール" src="/images/ad0.jpg" /></a></li>
+  <li><a href="http://www.jp.civillaser.com/-c-2_3.html" target="_blank" alt="高 出力 レーザ モジュール" title="高 出力 レーザ モジュール"><img border="0" alt="高 出力 レーザ モジュール" src="/images/ad1.jpg" /></a> </li>
+  <li><a href="http://www.jp.civillaser.com/-c-29.html" target="_blank" alt="レーザ モジュール Laser DPSS" title="レーザ モジュール Laser DPSS"><img border="0" alt="レーザ モジュール Laser DPSS" src="/images/ad2.jpg" /></a> </li>
+</ul></div>
+<div id="ifocus_opdiv"></div>
+<div id="ifocus_tx">
+<ul>
+  <li class="current">&nbsp;</li><li class="normal">&nbsp;</li><li class="normal">&nbsp;</li><li class="normal">&nbsp;</li><li class="normal" /></ul></div>
+<div id="ifocus_btn">
+<ul>
+  <li class="current"><img border="0" alt="CivilLaser Laser Module" src="/images/ad0.jpg" /> </li>
+  <li class="normal"><img border="0" src="/images/ad1.jpg" /> </li>
+  <li class="normal"><img border="0" src="/images/ad2.jpg" /> </li>
+
+</ul></div></div></div></div>
+</center>
+
+
+
+
+
+
+</div>
+
+
+<br />
+<font size="5" style="background-color: rgb(255, 204, 0);" color="#ff0000">
+
+【年末年始休暇のお知らせ】</font> 
+<div><span style="background-color: rgb(255, 255, 0);">期間：2015/2/13 ～ 2015/2/23</span> </div><div>2015/2/24 までのご注文を休暇前の最終出荷とさせていただきます。
+入荷待ち商品を含む場合には、商品入荷次第の出荷となります。</div><div><br /> 
+
+<div><div><font size="5" color="#ff0000" style="background-color: rgb(255, 204, 0);">Chinese New Year Holiday Notice</font> </div><div><br /></div><div><span style="background-color: rgb(255, 255, 0);"><b>From:</b>  Feb. <b>13th</b>,2015</span></div><div><span style="background-color: rgb(255, 255, 0);"><b>To:   </b>Feb. <b>23th</b>,2015</span></div><div><br /></div><div><span style="color: rgb(255, 0, 0);">[During The Chinese Spring Festival]</span></div><div><font color="#669900">1. Accept new orders.</font></div><div><font color="#669900">2. Response all the emails in 12 hours.</font></div><div><font color="#669900">3. Pause the online live-chat service.</font></div><div><font color="#669900">4. We will send out the products starting Feb. 24th, 2015.</font></div><div><br /></div><div><br /></div></div><div></div>
+
+
+
+
+
+
+<br />
+<div><font size="4" color="#ff0000">[告示・通知]2014年5月1日</font><br />  CivilLaserの [<a href="http://www.lucklaser.jp/-p-1.html" alt="レーザーポインター" title="レーザーポインター" target="_blank">レーザーポインター</a> / <a href="http://www.lucklaser.jp/-c-6_25.html" alt="レーザー サイト" title="レーザー サイト" target="_blank">レーザー サイト</a>] 商品は更新しません、最新の 
+[<a href="http://www.lucklaser.jp/-p-1.html" alt="レーザーポインター" title="レーザーポインター" target="_blank">レーザーポインター</a> / <a href="http://www.lucklaser.jp/-c-6_25.html" alt="レーザー サイト" title="レーザー サイト" target="_blank">レーザー サイト</a>]商品はこちらにクリックしてください: <a href="http://www.lucklaser.jp/" alt="高出力レーザーポインター 通販" title="高出力レーザーポインター 通販" target="_blank"> www.lucklaser.jp</a> </div><br />
+
+</div>
+
+

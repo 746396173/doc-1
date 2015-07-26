@@ -1,0 +1,79 @@
+
+
+<br>
+<div class="grayTable">	
+<table>
+
+<thead>
+<tr>
+<th scope="col">Output power</th>
+<th scope="col">Image</th>
+<th scope="col" width=15>Packing list</th>
+</tr>
+</thead>
+<tbody>	
+
+<!------------------------------------------------------------------------------------------------------>
+<tr>
+<td>
+1000mw<br> (Real output 1500mw)
+</td>
+
+<td><img src="/images/blue-1000mw-2000mw-new-laser%20pointer%20carton.jpg" width="300"></td>
+
+<td nowrap="nowrap">
+1x Laser Pointer 1500mw <br>
+1x Gift Box (Carton box) <br>
+1x Manual  <br>
+1x Charger  <br>
+5x Lens（kaleidoscope） <br>
+1x Laser Sword <br>
+1x Laser Goggles <br>
+</td>
+
+<!------------------------------------------------------------------------------------------------------>
+
+<tr>
+<td>
+2000mw<br> 
+</td>
+
+<td><img src="/images/blue-1000mw-2000mw-new-laser%20pointer%20(5).jpg" width="300"></td>
+
+<td nowrap="nowrap">
+1x Laser Pointer 2000mw <br>
+1x Gift Box (Senior Aluminium box) <br>
+1x Manual  <br>
+1x Charger  <br>
+5x Lens（kaleidoscope） <br>
+1x Laser Sword <br>
+1x Laser Goggles <br>
+</td>
+
+<!------------------------------------------------------------------------------------------------------>
+
+
+<tr>
+<td>
+3000mw<br> 
+</td>
+
+<td><img src="/images/blue%20laser%20pointer%20445nm%203000mw%20lucklaser%20(3).jpg" width="300"></td>
+
+<td nowrap="nowrap">
+1x Laser Pointer 3000mw <br>
+1x LED flashlight <br>
+1x Gift Box (Senior Aluminium box) <br>
+1x Manual  <br>
+2x Charger  <br>
+5x Lens（kaleidoscope） <br>
+1x Laser Sword <br>
+1x Laser Goggles <br>
+</td>
+
+<!------------------------------------------------------------------------------------------------------>
+
+
+</tbody>	
+</table>
+</div>

@@ -1,0 +1,33 @@
+
+<div>
+
+<center>
+
+<div id="banner">
+<div id="ifocus">
+<div style="overflow: hidden;" id="ifocus_pic">
+<div style="overflow: hidden; top: 0px; left: 0px;" id="ifocus_piclist">
+<ul>
+  <li><a href="http://www.civillaser.com/laser-module-c-2.html" target="_blank" alt="Green laser module,Red laser module, blue laser module" title="Green laser module,Red laser module, blue laser module"><img border="0" alt="Green laser module,Red laser module, blue laser module" src="/images/ad0.jpg" /></a></li>
+  <li><a href="http://www.civillaser.com/high-power-laser-c-16.html" target="_blank" alt="Green laser module,Red laser module, blue laser module" title="Green laser module,Red laser module, blue laser module"><img border="0" alt="Green laser module,Red laser module, blue laser module" src="/images/ad1.jpg" /></a> </li>
+  <li><a href="http://www.civillaser.com/dpss-laser-c-16.html" target="_blank" alt="Red Laser DPSS,Green Laser DPSS,Blue laser DPSS" title="Red Laser DPSS,Green Laser DPSS,Blue laser DPSS"><img border="0" alt="Red Laser DPSS,Green Laser DPSS,Blue laser DPSS" src="/images/ad2.jpg" /></a> </li>
+</ul></div>
+<div id="ifocus_opdiv"></div>
+<div id="ifocus_tx">
+<ul>
+  <li class="current">&nbsp;</li><li class="normal">&nbsp;</li><li class="normal">&nbsp;</li><li class="normal">&nbsp;</li><li class="normal" /></ul></div>
+<div id="ifocus_btn">
+<ul>
+  <li class="current"><img border="0" alt="CivilLaser Laser Module" src="/images/ad0.jpg" /> </li>
+  <li class="normal"><img border="0" src="/images/ad1.jpg" /> </li>
+  <li class="normal"><img border="0" src="/images/ad2.jpg" /> </li>
+
+</ul></div></div></div></div>
+</center>
+
+
+
+
+
+
+</div>

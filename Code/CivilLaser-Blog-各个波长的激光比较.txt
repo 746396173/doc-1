@@ -1,0 +1,170 @@
+<div id="container" >	
+
+<div class="grayTable">	
+
+
+
+<table >
+<thead>
+	<tr>
+		<th scope="col" >Wavelength</th>
+		<th scope="col" >Color</th>
+		<th scope="col" >Type</th>
+		<th scope="col" >Maximum power</th>
+		<th scope="col" >Security Overclocking</th>
+		<th scope="col" >Spot brightness</th>
+		<th scope="col" >Beam brightness</th>
+		<th scope="col" >Close-burning</th>
+		<th scope="col" >Remote-burning</th>
+		<th scope="col" >Price</th>
+	</tr>
+</thead>
+<tbody>
+<tr>
+	<td>405nm</td>
+	<td>Blue-violet</td>
+	<td>Semiconductor</td>
+	<td>300mw</td>
+	<td>500mw</td>
+	<td>Low</td>
+	<td>Low</td>
+	<td>Middle</td>
+	<td>Very very Strong</td>
+	<td>Cheaper</td>
+</tr>
+<tr>
+	<td>445nm</td>
+	<td>Navy blue</td>
+	<td>Semiconductor</td>
+	<td>1600mw</td>
+	<td>2500mw</td>
+	<td>Lower</td>
+	<td>Middle</td>
+	<td>Very very Strong</td>
+	<td>Weak</td>
+	<td>Cheap</td>
+</tr>
+<tr>
+	<td>473nm</td>
+	<td>Sky blue</td>
+	<td>Crystal</td>
+	<td>100mw</td>
+	<td>/</td>
+	<td>Middle</td>
+	<td>Higher</td>
+	<td>/</td>
+	<td>/</td>
+	<td>Very expensive</td>
+</tr>
+<tr>
+	<td>532nm</td>
+	<td>Bright green</td>
+	<td>Crystal</td>
+	<td>1000mw</td>
+	<td>/</td>
+	<td>Very very High</td>
+	<td>Very very High</td>
+	<td>Middle</td>
+	<td>Weaker</td>
+	<td>Expensive</td>
+</tr>
+<tr>
+	<td>589nm</td>
+	<td>Golden</td>
+	<td>Crystal</td>
+	<td>100mw</td>
+	<td>/</td>
+	<td>High</td>
+	<td>High</td>
+	<td>/</td>
+	<td>/</td>
+	<td>Sky-high price</td>
+</tr>
+<tr>
+	<td>593.5nm</td>
+	<td>Yellow</td>
+	<td>Crystal</td>
+	<td>30mw</td>
+	<td>/</td>
+	<td>High</td>
+	<td>High</td>
+	<td>/</td>
+	<td>/</td>
+	<td>Sky-high price</td>
+</tr>
+<tr>
+	<td>635nm/638nm</td>
+	<td>Orange</td>
+	<td>Semiconductor</td>
+	<td>500mw</td>
+	<td>800mw</td>
+	<td>Higher</td>
+	<td>High</td>
+	<td>Middle</td>
+	<td>Weak</td>
+	<td>Middle</td>
+</tr>
+<tr>
+	<td>650nm/660nm</td>
+	<td>Red</td>
+	<td>Semiconductor</td>
+	<td>1000mw</td>
+	<td>/</td>
+	<td>Middle</td>
+	<td>Middle</td>
+	<td>Very Strong</td>
+	<td>Weaker</td>
+	<td>Middle</td>
+</tr>
+<tr>
+	<td>780nm</td>
+	<td>Dark red</td>
+	<td>Semiconductor</td>
+	<td>20000mw</td>
+	<td>/</td>
+	<td>Very very low</td>
+	<td>Invisible</td>
+	<td>Strong</td>
+	<td>Weak</td>
+	<td>Very Expensive</td>
+</tr>
+<tr>
+	<td>808nm</td>
+	<td>Very dark red</td>
+	<td>Semiconductor</td>
+	<td>20000mw</td>
+	<td>/</td>
+	<td>Very very low</td>
+	<td>Invisible</td>
+	<td>Strong</td>
+	<td>Weak</td>
+	<td>Cheaper</td>
+</tr>
+<tr>
+	<td>980nm</td>
+	<td>Invisible</td>
+	<td>Semiconductor</td>
+	<td>20000mw</td>
+	<td>/</td>
+	<td>Invisible</td>
+	<td>Invisible</td>
+	<td>Strong</td>
+	<td>Weak</td>
+	<td>Very Expensive</td>
+</tr>
+<tr>
+	<td>1064nm</td>
+	<td>Invisible</td>
+	<td>Crystal</td>
+	<td>20000mw</td>
+	<td>/</td>
+	<td>Invisible</td>
+	<td>Invisible</td>
+	<td>Strong</td>
+	<td>Strong</td>
+	<td>Expensive</td>
+</tr>
+</tbody>					
+</table>	
+</div>
+</div><!--end container -->

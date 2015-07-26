@@ -1,0 +1,42 @@
+
+<center>
+
+<div id="banner">
+<div id="ifocus">
+<div style="overflow: hidden;" id="ifocus_pic">
+<div style="overflow: hidden; top: 0px; left: 0px;" id="ifocus_piclist">
+<ul><!--大图_start -->
+  <li><a href="http://www.lucklaser.jp/-p-42.html" target="_blank"><img border="0" alt="LuckLaser Laser Pointer" src="/images/ad0.jpg" /></a> </li>
+  <li><a href="http://www.lucklaser.jp/-p-1.html" target="_blank"><img border="0" alt="LuckLaser Laser Pointer" src="/images/ad1.jpg" /></a> </li>
+  <li><a href="http://www.lucklaser.jp/-p-51.html" target="_blank"><img border="0" alt="LuckLaser Laser Pointer" src="/images/ad2.jpg" /></a> </li>
+  <li><a href="http://www.lucklaser.jp/1000mw-p-97.html" target="_blank"><img border="0" alt="LuckLaser Laser Pointer" src="/images/ad3.jpg" /></a> </li>
+  <li><a href="http://www.jp.civillaser.com/" target="_blank"><img border="0" alt="LuckLaser Laser Pointer" src="/images/ad4.jpg" /></a> <!--大图_end --></li></ul>
+</div>
+<div id="ifocus_opdiv"></div>
+<div id="ifocus_tx">
+<ul><!--小图列表_start -->
+  <li class="current">&nbsp;</li><li class="normal">&nbsp;</li><li class="normal">&nbsp;</li><li class="normal">&nbsp;</li><li class="normal"><!--小图列表_end --></li></ul></div>
+<div id="ifocus_btn">
+<ul><!--小图_start -->
+  <li class="current"><img border="0" alt="LuckLaser Laser Pointer" src="/images/ad0.jpg" /> </li>
+  <li class="normal"><img border="0" alt="LuckLaser Laser Pointer" src="/images/ad1.jpg" /> </li>
+  <li class="normal"><img border="0" alt="LuckLaser Laser Pointer" src="/images/ad2.jpg" /> </li>
+  <li class="normal"><img border="0" alt="LuckLaser Laser Pointer" src="/images/ad3.jpg" /> </li>
+  <li class="normal"><img border="0" alt="LuckLaser Laser Pointer" src="/images/ad4.jpg" /> <!--小图_end --></li></ul>
+</div></div></div></div>
+</center>
+
+
+<div><br /></div>
+
+
+
+
+
+
+
+
+
+
+
+

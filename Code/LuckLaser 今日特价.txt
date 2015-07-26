@@ -1,0 +1,28 @@
+
+
+<!------------------b:todaySpecial-------------------------------------------------->
+
+<div id="todaySpecial">
+<font size="6" style="background-color: rgb(255, 255, 0);" color="#ff0000">
+Today's special [<?php echo date('Y-m-d',time()); ?>]<br />
+
+<table border="0">
+<tbody><tr>
+<td>
+<a href="http://www.lucklaser.com/most-popular-200mw-green-laser-pointer-golden-style-with-safety-key-free-shipping-p-162.html" title="laser pointer Today s special" alt="laser pointer Today s special">
+<img src="/images/303 golden style green laser pointer (1).jpg" width="150" />
+</a>
+</td>
+<td>
+<a href="http://www.lucklaser.com/most-popular-200mw-green-laser-pointer-golden-style-with-safety-key-free-shipping-p-162.html" title="laser pointer Today s special" alt="laser pointer Today s special">
+Most Popular 200mw green laser pointer golden style with Safety key<br />
+</a>
+<h2 id="productPrices" class="productGeneral">
+<span class="normalprice">$69.00 </span> <span class="productSpecialPrice">$19</span><span class="productPriceDiscount"><br />Save: 72% off</span></h2>
+</td>
+</tr>
+</tbody></table>
+
+
+
+<!------------------e:todaySpecial-------------------------------------------------->

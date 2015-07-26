@@ -1,0 +1,75 @@
+
+
+
+
+
+
+
+<div>
+
+<center>
+
+<div id="banner">
+<div id="ifocus">
+<div style="overflow: hidden;" id="ifocus_pic">
+<div style="overflow: hidden; top: 0px; left: 0px;" id="ifocus_piclist">
+<ul><!--å¤§å›¾_start -->
+  <li><a href="http://www.lucklaser.com/445nm-1w2w-ultra-powerful-blue-laser-flashlight-focusable-p-31.html" target="_blank"><img border="0" alt="lucklaser Laser World" src="/images/ad0.jpg" /></a></li>
+  <li><a href="http://www.lucklaser.com/1w-447nm-blue-laser-pointer-waterproof-sales-p-38.html" target="_blank"><img border="0" alt="lucklaser Laser World" src="/images/ad1.jpg" /></a> </li>
+  <li><a href="http://www.lucklaser.com/new-model-red-laser-300mw500mw-638nm-6000m-distance-p-9.html" target="_blank"><img border="0" alt="lucklaser Laser World" src="/images/ad2.jpg" /></a> </li>
+  <li><a href="http://www.lucklaser.com/10mw200mw-green-laser-pointer-waterproof-p-55.html" target="_blank"><img border="0" alt="lucklaser Laser World" src="/images/ad3.jpg" /></a> </li>
+  <li><a href="http://www.lucklaser.com/laser-modules-c-20.html" target="_blank"><img border="0" alt="lucklaser Laser World" src="/images/ad4.jpg" /></a> <!--å¤§å›¾_end --></li></ul>
+</div>
+<div id="ifocus_opdiv"></div>
+<div id="ifocus_tx">
+<ul><!--å°å›¾åˆ—è¡¨_start -->
+  <li class="current">&nbsp;</li><li class="normal">&nbsp;</li><li class="normal">&nbsp;</li><li class="normal">&nbsp;</li><li class="normal"><!--å°å›¾åˆ—è¡¨_end --></li></ul></div>
+<div id="ifocus_btn">
+<ul><!--å°å›¾_start -->
+  <li class="current"><img border="0" alt="lucklaser Laser World" src="/images/ad0.jpg" /> </li>
+  <li class="normal"><img border="0" alt="lucklaser Laser World" src="/images/ad1.jpg" /> </li>
+  <li class="normal"><img border="0" alt="lucklaser Laser World" src="/images/ad2.jpg" /> </li>
+  <li class="normal"><img border="0" alt="lucklaser Laser World" src="/images/ad3.jpg" /> </li>
+  <li class="normal"><img border="0" alt="lucklaser Laser World" src="/images/ad4.jpg" /> <!--å°å›¾_end --></li></ul>
+</div></div></div></div>
+</center>
+
+</div>
+
+<br />
+
+
+<div><div><font size="5" color="%2</body">&nbsp;</font></div></div>
+
+
+
+
+<div><div><font size="5" color="#ff0000" style="background-color: rgb(255, 204, 0);">Chinese New Year Holiday Notice</font> </div><div><br /></div><div><span style="background-color: rgb(255, 255, 0);"><b>From:</b>  Feb. <b>13th</b>,2015</span></div><div><span style="background-color: rgb(255, 255, 0);"><b>To:   </b>Feb. <b>23th</b>,2015</span></div><div><br /></div><div><span style="color: rgb(255, 0, 0);">[During The Chinese Spring Festival]</span></div><div><font color="#669900">1. Accept new orders and a gift for every customer.</font></div><div><font color="#669900">2. Response all the emails in 12 hours.</font></div><div><font color="#669900">3. Pause the online live-chat service.</font></div><div><font color="#669900">4. We will send out the products starting Feb. 24th, 2015.</font></div><div><br /></div><div><font color="#6633cc"><b>You will get a gift if you purchase lasers from us during the holiday.</b></font></div></div><div><br /></div><div></div>
+
+
+
+<div class="grayTable">	
+<table>
+
+<thead>
+<tr>
+<th scope="col">Order Time</th>
+<th scope="col">Order Amount</th>
+<th scope="col">Gift</th>
+</tr>
+</thead>
+
+<tbody><tr>
+<td>Feb. 13th ~ Feb. 23th</td>
+<td>&lt;$50</td>
+<td><img src="/images/100mw green laser Pen.jpg" width="120" /><br />100mw 532nm Green Laser Pen</td>
+</tr>
+<tr>
+<td>Feb. 13th ~ Feb. 23th</td>
+<td>≥$50</td>
+<td><img src="/images/hot sale green 200mw laser pointer.jpg" width="120" /><br />200mw 532nm Green Laser Pointer</td>
+</tr>
+</tbody></table>
+</div>
+
+

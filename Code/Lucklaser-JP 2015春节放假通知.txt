@@ -1,0 +1,67 @@
+
+<center>
+
+<div id="banner">
+<div id="ifocus">
+<div style="overflow: hidden;" id="ifocus_pic">
+<div style="overflow: hidden; top: 0px; left: 0px;" id="ifocus_piclist">
+<ul><!--大图_start -->
+  <li><a href="http://www.lucklaser.jp/-p-42.html" target="_blank"><img border="0" alt="LuckLaser Laser Pointer" src="/images/ad0.jpg" /></a> </li>
+  <li><a href="http://www.lucklaser.jp/-p-1.html" target="_blank"><img border="0" alt="LuckLaser Laser Pointer" src="/images/ad1.jpg" /></a> </li>
+  <li><a href="http://www.lucklaser.jp/-p-51.html" target="_blank"><img border="0" alt="LuckLaser Laser Pointer" src="/images/ad2.jpg" /></a> </li>
+  <li><a href="http://www.lucklaser.jp/-p-2.html" target="_blank"><img border="0" alt="LuckLaser Laser Pointer" src="/images/ad3.jpg" /></a> </li>
+  <li><a href="http://www.jp.civillaser.com/" target="_blank"><img border="0" alt="LuckLaser Laser Pointer" src="/images/ad4.jpg" /></a> <!--大图_end --></li></ul>
+</div>
+<div id="ifocus_opdiv"></div>
+<div id="ifocus_tx">
+<ul><!--小图列表_start -->
+  <li class="current">&nbsp;</li><li class="normal">&nbsp;</li><li class="normal">&nbsp;</li><li class="normal">&nbsp;</li><li class="normal"><!--小图列表_end --></li></ul></div>
+<div id="ifocus_btn">
+<ul><!--小图_start -->
+  <li class="current"><img border="0" alt="LuckLaser Laser Pointer" src="/images/ad0.jpg" /> </li>
+  <li class="normal"><img border="0" alt="LuckLaser Laser Pointer" src="/images/ad1.jpg" /> </li>
+  <li class="normal"><img border="0" alt="LuckLaser Laser Pointer" src="/images/ad2.jpg" /> </li>
+  <li class="normal"><img border="0" alt="LuckLaser Laser Pointer" src="/images/ad3.jpg" /> </li>
+  <li class="normal"><img border="0" alt="LuckLaser Laser Pointer" src="/images/ad4.jpg" /> <!--小图_end --></li></ul>
+</div></div></div></div>
+</center><div><br /></div><font size="5" style="background-color: rgb(255, 204, 0);" color="#ff0000"><b>
+
+
+
+
+
+
+【年末年始休暇のお知らせ】</b></font><div><span style="background-color: rgb(255, 255, 0);"> 期間：2015/2/13 ～ 2015/2/23 </span></div><div> 2015/2/24 までのご注文を休暇前の最終出荷とさせていただきます。
+入荷待ち商品を含む場合には、商品入荷次第の出荷となります。<div><div><div>&nbsp;</div><div><br /></div><div><span style="background-color: rgb(255, 255, 0);"><b>From:</b>  Feb. <b>13th</b>,2015</span></div><div><span style="background-color: rgb(255, 255, 0);"><b>To:   </b>Feb. <b>23th</b>,2015</span></div><div><br /></div><div><span style="color: rgb(255, 0, 0);">[During The Chinese Spring Festival]</span></div><div><font color="#669900">1. Accept new orders and a gift for every customer.</font></div><div><font color="#669900">2. Response all the emails in 12 hours.</font></div><div><font color="#669900">3. Pause the online live-chat service.</font></div><div><font color="#669900">4. We will send out the products starting Feb. 24th, 2015.</font></div><div><br /></div><div><font color="#6633cc"><b>You will get a gift if you purchase lasers from us during the holiday.</b></font></div></div><div><br /></div><div></div>
+
+
+<div class="grayTable">	
+<table>
+
+<thead>
+<tr>
+<th scope="col">Order Time</th>
+<th scope="col">Order Amount</th>
+<th scope="col">Gift</th>
+</tr>
+</thead>
+
+<tbody><tr>
+<td>Feb. 13th ~ Feb. 23th</td>
+<td>&lt;6,000円</td>
+<td><img src="/images/100mw green laser Pen.jpg" width="120" /><br /><font color="#66cc33">100mw 532nm Green Laser Pen</font></td>
+</tr>
+<tr>
+<td>Feb. 13th ~ Feb. 23th</td>
+<td>≥6,000円</td>
+<td><img src="/images/200mw 532nm high green laser pointer.jpg" width="120" /><br /><font color="#66cc33"><b>200mw 532nm Green Laser Pointer</b></font></td>
+</tr>
+</tbody></table>
+</div>
+
+
+
+
+</div></div>
+
+
