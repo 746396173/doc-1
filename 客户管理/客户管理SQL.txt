@@ -1,0 +1,14 @@
+
+2015-2-12
+最新的客户资料整理到 Aliarm/客户
+
+1. http://www.tccymm.com/phpmyadmin/main.php
+--> 进Aliarm database
+
+2. SQL:
+--> 
+select  count(*) as allnum, customer_email from orders where order_status!=100  group by customer_email having allnum>=2  order by allnum desc ; 
+
+
+3. 导出cvs,再copy到UEditPlus中, 按住Alt+鼠标拖动可以删除数量, 获取邮件列表;
+
