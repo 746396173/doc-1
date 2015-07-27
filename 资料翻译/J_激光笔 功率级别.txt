@@ -1,0 +1,5 @@
+ClassI <0.4mw
+ClassII 0.4mw~1mw
+ClassIIIA 1mw~5mw
+ClassIIIB 5mw~500mw
+ClassIV >500mw

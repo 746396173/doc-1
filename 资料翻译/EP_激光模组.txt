@@ -1,0 +1,862 @@
+	
+
+
+/*********************激光切割器************************************/
+3000W Fiber laser cutting system  , Laser cutting of steel plate , The maximum thickness of steel plate is 20mm
+
+/*********************激光器************************************/
+
+--------------------描述---------------------------------
+CNI is the largest and professional DPSS Laser manufacturer in China.
+
+--------------------名称--------------------------------
+二极管泵浦固体激光 DPSS Laser
+半导体泵浦固体激光器 DPSS Laser
+全固态半导体激光器 DPSS Laser / Diode Pumped Solid State laser
+固体激光 Diode-Pumped Solid-State (laser) / Diode-Pumped
+半导体激光器 Semiconductor laser
+光纤激光  Fiber laser
+二氧化碳激光 CO 2 laser
+-------------------菜单--------------------------------------
+
+1. Solid-state laser (DPSS Laser)
+   固体激光器
+2. Semiconductor laser
+   半导体激光器
+3. Fiber coupled laser (Fiber laser 和光纤激光器不一样？)
+   光纤耦合激光器
+4. CO 2 laser
+   二氧化碳激光器
+
+
+--------------------------------------
+电源图片 dpss-laser-power-supply.jpg 
+
+<img src="/images/dpss-laser-power-supply.jpg" /><br /><br />
+
+电源 可调加： 110
+
+----------------科普-----------------------------
+   
+半导体激光器和固体激光器的区别 
+
+
+半导体激光器-- 半导体激光器是电激励，直接把电能转化为光能，转换效率高达50%以上。
+-- 虽然转化效率高，但是不好用，因为光束质量差
+
+固体激光器
+-- 固体激光器是光激励，激活粒子需要吸收光能，然后产生受激振荡；半导体泵浦转化效率一般在15%左右，灯泵浦激励一般在4%左右。
+-- 半导体泵浦的全固态激光器光束质量非常好，适合于各种加工。
+
+半导体泵浦全固态激光器 
+-- 属于固体激光器
+
+-------------------------------------------------------
+Semiconductor laser  相关关键字
+high power semiconductor laser
+
+
+DPSS Laser 相关的关键字
+Diode Pumped Solid State laser
+dpss laser
+dpss lasers
+laser dpss
+pumped laser
+solid state laser
+dpss laser diode
+high quality laser
+high power Pumped laser 
+
+---------------------------------------------------
+/******************激光模组描述*************************/
+Infrared IR Laser Module Focusable Dot  (点)
+Violet Purple Blue Laser Module Focused Line  (线) 
+Crosshair(cross) Red Laser Module 2mW 635nm (十字)
+
+
+808nm 250mW  Infrared IR Laser Module Focusable Dot  
+650nm 5mw  Metal Body Projects Red Pointer Laser Module
+532nm 5mw green line shape laser module green laser diode
+12V 200mW red laser module 20*58mm
+blue laser diode with adjust focus
+Focusing Infrared IR Laser Module Focusable Dot M780D5-3--1230: 5mW 780nm
+
+可调焦：
+Focus adjustable 
+
+定位器：
+Locator
+
+
+工业定位：
+Industrial positioning
+
+夜视补光激光器:
+Night-vision fill light laser
+
+夜视定位激光头：
+Night vision positioning of laser head
+
+
+CCD红外夜视照明器：
+CCD IR illuminator
+
+工业模组：
+Industrial-grade
+
+
+专业级：（比工业级高）
+Professional Laser Module
+
+长时间连续工作：
+The working time is very long and continuity.
+
+粗光束：
+Thick laser beam
+
+
+高亮扩束激光灯
+Bright laser light beam expander
+
+
+散热设计
+heat radiation design
+
+准直激光器
+Collimation Lasers
+
+
+APC结构
+出口多少这种结构
+
+
+Features:
+* 100% brand new and high quality
+* Pocket design and lightweight
+* It can be connected to a power source directly
+* Comes with a red positive pole wire and a black negative pole wire
+* The laser pattern changes when you turn around the cap
+* This is a 100mW 650nm Red Laser Module Focusable Dot
+* APC accompanied by high-performance driving circuit and optical coated glass lens group
+* High-quality laser diode, optical glass lens, driver circuit and housing
+* High reliability, high stability and long life
+* Industrial marking devices, laser medical equipment, stage lighting and laser targeting devices and so on
+
+本产品航空铝氧化绝源技术让产品散热更好可以24小时工作
+Aluminum oxidation vast source technology to make this laser module better heat dissipation can continue work 24 hours.
+
+
+*****************TTL*******************************************
+TTL modulation
+Three line input , the red positive power supply , black line utility negative , yellow line TTL signal positive
+Current <300mA
+Power voltage of 5.0VDC
+TTL modulation voltage 0-5V
+Modulation frequency 0 -100K
+
+TTL 调制说明：
+1. 使用时，把红线和黄线短接，模组会亮，处于连续工作模式；
+2. 要调制时，信号线负极接黑线，正极接黄线，红线悬空，模组处于调制工作状态。
+3. 信号输入的调制频率需在500KHZ范围内；
+
+TTL modulation Description:
+1. The red and yellow lines shorted, the module will be lit, in a continuous mode of operation;
+2. To modulate the signal line negative black wire, positive connected to the yellow line, red line vacant, modulation module in working condition.
+3. Signal input modulation frequency must be within the range 500KHZ;
+
+
+xxxxxxxxxxxxttlxxxxxxxxxxxxxxxxxx
+<b>TTL modulation Description:</b><br>
+Click here: <a href="http://www.blog.civillaser.com/?p=120" alt="TTL laser module Operating Instructions" title="TTL laser module Operating Instructions" target="_blank"> [TTL laser module Operating Instructions] </a><br>
+
+
+
+SPECIFICATIONS:
+Name: 808nm 250mW  Infrared IR Laser Module Focusable Dot 
+Output Wavelength: 808nm
+Output Power: 250mW
+Laser Shape: Dot / Line / Crosshair /Rectangle -- 长方形
+Laser type: Visible laser, Red color
+Laser Spot size: focusable  光点大小: 可调焦
+Outside Color: Black / Silver / Purple red
+Material: Aluminum Alloy 外壳材质：航空铝
+Outer Casing Material: Aerospace aluminum Oxidation Absolute source Technology   外壳处理: 航空铝氧化绝源技术
+Range: Over 100-5,000 meters (At night)
+Warm-up time: Less than 5minutes
+Specifications: Fixed focus or adjustable focus,red spot, continuous output, the expected lifetime is more  than 5000 hours 
+Size: Φ16mm x 60 mm / Φ16mm*60mm / Φ22.5*55mm / Φ14.5*45mm
+Size:  Laser Module Ø25mm × 40mm; circuit board Ø60mm × 40mm × 24mm   -- 外形尺寸：模组Ø25mm×40mm;电路板Ø60mm×40mm×24mm
+Laser Module Size: Φ16mm x 60 mm 
+Laser Module Circuit board Size:
+Weight: 13.6g
+Operating mode: Continuous Wave (CW)
+Modulation: TTL modulation    调制方式：TTL
+Modes: single longitudinal mode 模    式：单纵模
+Modulation frequency: 1Hz-1000KHz  调制频率：1Hz-1000KHz
+Modulation Voltage: 3V or 5V   调制电平:  3V或5V
+Spatial mode: Near TEM00 Continuous Wave
+Electric-control: ACC line rod
+Structure: Laser tube + Lens
+Material: Aluminum Alloy / Metal
+Beam Divergence: 0.1mrad ~ 10mrad  （发散角）
+Exit Pupil Diameter: 5mm  (出瞳直径)
+Laser beam size: 0.4mm-1mm
+Bending degree:≤1mm @ 5m   弯 曲 度:≤1mm @ 5m
+Optical Systems: Optical Coated Glass (光学系统：光学镀膜玻璃) / Three spherical glass lens group  (激光光学系统: 渡膜光学玻璃窗口片)
+Optical Systems:  Three spherical glass lens group (Powell prism)      ---  光学系统：3片球面玻璃透镜组（加鲍威尔棱镜）
+Optical system: Infrared optical aspheric glass lens   ---光学系统：非球面红外光学玻璃透镜
+Structural features: laser tube + lens + cooling housing --- 结构特点:激光管+镜片+散热外壳
+Heat dissipation method: Aluminum heat sink +  fan cooling   -- 制冷方式: 铝散热+风扇  散热方式
+Optical Systems: Optical Coating Glass collimation system  光学系统：光学镀膜玻璃准直系统
+Spot Description: 1m department width spot diameter Φ0.5mm
+Spot Description: 1m Distance <=> Laser beam Diameter 0.8mm  / The minimum spot diameter Φ1mm, spot size can be adjusted according to use distance, 3 x 6mm spot less than 5m (现场情况)
+Laser Line width: 1m Distance => About 0.5mm width    ----(线    宽 ：0.5m处最细0.5mm；1.5m处最细0.8mm)
+Laser Line width: 0.5m working Distance,Finest width is 0.5mm  (光斑描述：50厘米处最小光斑直径Φ0.3mm，光斑大小可以根据使用距离调节) 
+Laser Line width: 1m Distance => The minimum spot diameter Φ1mm 
+Operating Voltage: DC 3V ~ 6V
+Operating Voltage: DC 3V Or DC 5V
+Operating Current: <250mA
+Threshold Current: 40mA   --- 阈值电流：40mA
+Circuit control: constant current -- 电路控制: 恒流
+Laser Class: IIIB
+Operating Temperature: -10℃~50℃
+Storage Temperature: -40℃~80℃
+Power Stability: <±10% (功率稳定性 ?)
+Fan Angle: 10°、30°、45°、60°、90°、110° (choose) (扇形 角度) / 120°(Default) -- 60°、90°(choice)
+Fan Angle: 90°(For line laser / Customizable)
+Anti Access Protection: Include(反接保护)
+反接保护：带自动识别正负极
+Warm-up Time: 1 second / NO  -- 预热时间
+Lens Focal Length: 52mm  镜片焦距: 52mm
+Working life: About 10,000 hours
+Continuous working time: > 12 hours(Good heat dissipation) 连续工作时间:  12小时以上 (散热良好的情况下)
+Wiring: Red line is (+), the black line is (-)
+Warranty: 12 Months
+Optical sections: Focus   光学部分:聚焦
+Lens Material: pvc gathered lenses  镜片材质:pvc聚集镜片
+Working medium: Semiconductors 工作介质:半导体
+Structural Features: Aluminum shell + Japanese laser diode + K9 glass lens + constant current driver board 结构特点:铝合金外壳+进口激光二极管+K9玻璃镜片+恒流驱动板
+
+Fiber diameter: 100um 200um  光纤
+Fiber core diameter: 4um single-mode  内径
+Fiber external diameter: 0.9mm 外径
+Covering size: 125um  外包
+Exit Pupil Diameter: 5mm  出孔
+
+
+
+Warranty: 6 Months
+
+【Package includes】
+Package includes:
+1 x Red laser module  
+1 x Power Supply (choose)
+1 x Laser Module Adjustable Holder/Clamp/Mount Heatsink (choose)
+
+Warning : 
+1. All of laser products are harmful for eyes,please don't aim people eyes(contain animal eyes) directly.
+2. It is Industrial lasers ,not toy .Keep far from Children under 18years old.
+
+
+
+
+
+
+*******************2014 关键字：**********************************************************
+laser module
+laser lights
+laser light
+green laser sight
+nd yag laser
+green lasers
+laser technology
+fiber laser
+laser diodes
+laser line
+infrared laser
+laser classes
+uv laser
+coherent laser
+line laser
+5mw laser
+dragon lasers
+5mw green laser
+green laser light
+led laser
+solid state laser
+cheap laser pointers
+blu ray laser
+2w laser
+laser components
+astronomy laser pointer
+laser pens uk
+200mw laser
+laser diode driver
+100mw laser
+dpss laser
+strong laser pointer
+laser line generator
+blue laser diode
+lazer pointers
+green laser pen
+ncstar green laser
+laser driver
+green laser diode
+dragon laser
+yellow laser pointer
+violet laser pointer
+5mw green laser pointer
+rgb laser
+laser lines
+burning lasers
+dfb laser
+lazer pens
+military laser pointer
+semiconductor laser
+high power green laser pointer
+ar 15 green laser
+buy laser pointer
+aixiz module
+cheap lasers
+5mw laser pointer
+industrial laser
+100mw laser pointer
+laser led
+cheap laser pointer
+class 3 laser pointer
+high power laser diode
+100mw green laser pointer
+green laser flashlight
+buy laser
+laser line pointer
+blu ray laser diode
+blu ray laser pointer
+300mw laser
+532 nm laser
+300mw green laser
+pulsed laser
+disco laser
+class 4 laser pointer
+best green laser pointer
+laser pointer for sale
+dvd laser
+laser diode driver circuit
+ir laser diode
+uv laser diode
+burning laser diode
+solid state lasers
+best laser pointers
+10mw green laser
+presentation laser pointer
+high powered laser pointers
+laser guide
+dpss lasers
+50mw green laser pointer
+mini laser pointer
+tactical green laser
+line lasers
+1w laser diode
+dvd laser diode
+laser diodes for sale
+red laser diode
+30mw green laser
+2w laser diode
+20mw green laser
+green laser pointer 100mw
+industrial laser pointer
+green laser pointer astronomy
+green line laser
+650nm laser
+1mw green laser
+infrared laser diode
+semiconductor lasers
+invisible laser
+blue laser light
+laserpointers
+laser diode pinout
+usb laser pointer
+diode laser concepts
+ir lasers
+1 watt laser pointer
+green lasers for sale
+200 mw laser
+laser diode circuit
+laser pointer 5mw
+line laser pointer
+532nm green laser pointer
+vcsel laser
+laser power supply
+laser facts
+808nm laser
+red laser light
+green lazers
+445nm laser diode
+405nm laser diode
+laser pen light
+1 watt laser diode
+200mw red laser
+best green laser
+green laser pointer 5mw
+cheap green laser pointer
+green laser pointer 50mw
+pulsed laser diode
+professional laser
+808nm laser diode
+what is a laser diode
+laser operation
+dvd burner laser diode
+green diode laser
+buy green laser pointer
+diode pumped solid state laser
+1 watt green laser
+laser pointer 100mw
+green light laser pointer
+2 watt laser diode
+5w laser diode
+green laser lights
+3w laser diode
+laser line projector
+what is a diode laser
+laser 5mw
+laser diodo
+laser pointer cheap
+dpss lasers inc
+laser diode modules
+laser drive
+laser range finder module
+laser safe
+armed forces laser sight module
+532 nm laser diode
+nir laser
+cheap laser diodes
+650nm laser diode
+1w blue laser diode
+led lasers
+lazer diode
+laser diod
+laser collimation
+laser pointer line
+high power laser diodes
+10w laser diode
+high power diode laser
+laser device
+diode pumped laser
+532 laser
+5mw red laser
+200mw blue laser
+green laser for sale
+green laser pointer review
+green laser 5mw
+300mw green laser pointer
+laser pointer 50mw
+most powerful green laser
+red or green laser
+green or red laser
+cheap green laser pointers
+high powered green laser
+buy laser pointers
+buy laser diode
+diode laser driver
+dx laser module
+laser pointer module
+blue laser diodes
+laser diode housing
+uv diode laser
+diodo laser
+nichia laser diode
+blue diode laser
+laser 200mw
+laser 100mw
+laser diode for sale
+yellow laser diode
+laser pointer store
+laser diode power supply
+semiconductor diode laser
+green laser line
+green laser reviews
+powerful blue laser
+10 watt laser diode
+focusable laser
+laser line lens
+500mw laser diode
+5 watt laser diode
+1000mw laser diode
+semiconductor laser diode
+osram laser diode
+pulsed diode laser
+1064 nm laser diode
+laser diodes for cutting
+ps3 laser diode
+200mw laser diode
+laser components usa
+greenlaser
+green laser kaleidoscope
+low power laser
+dx laser
+laser line scanner
+laser supply
+laser pointer buy
+what is laser technology
+laser modulator
+200mw 532nm green laser module
+laser pointer diode
+laser pen green
+laserdiode
+violet laser diode
+635nm laser diode
+red diode laser
+laser pointer shop
+line laser diode
+488 nm laser diode
+300mw laser diode
+5mw laser diode
+green laser pointer for sale
+laser diode drivers
+white laser diode
+powerful laser diode
+laser line generators
+red line laser
+high power solid state laser
+how to power a laser diode
+laser line generator lens
+laser diode lens
+laser diode mount
+500 mw laser pointer
+1550nm laser diode
+thorlabs laser
+blue ray laser diode
+very powerful laser
+laser diode heat sink
+laser solder
+solid state laser engineering
+green laser light show
+laser diode bar
+laser module australia
+laser diode datasheet
+100mw laser module
+100mw green laser module
+laser rangefinder module
+laser modules uk
+laser distance module
+laser sight module armed forces
+laser diode modulation
+ir laser diodes
+laser diode price
+laser leds
+laser diode manufacturers
+cheap laser diode
+led laser diode
+cni 500mw green laser
+uv laser diodes
+buy laser diodes
+green pen laser
+red laser diodes
+infrared diode laser
+lasers green
+green laserpointer
+laser diode 1w
+visible laser diode
+532nm laser diode
+mitsubishi laser diode
+laser diode high power
+burning laser diodes
+diod laser
+laser diodes cheap
+laser pointer 300mw
+laser diods
+cheap green lasers
+how laser diodes work
+100mw laser diode
+sanyo laser diode
+laser diode collimator
+rgb laser diode
+laser diode voltage
+line generator laser
+laser line projection
+sparkfun laser
+100 watt laser diode
+green diode
+1 watt blue laser diode
+bluray laser diode
+what is diode laser
+laser emitting diode
+solid state laser diode
+adjustable laser
+low power laser diode
+how to wire a laser diode
+single mode laser diode
+red diode
+coherent laser diode
+high power blue laser diode
+optic laser
+9mm laser diode
+20w laser diode
+laser focusing
+green lazer pointers
+lazer diodes
+405 nm laser diode
+laser diodes uk
+line generating laser
+plug in laser
+most powerful laser diode
+laser coherent
+laser buying guide
+green laser point
+waterproof green laser
+green 5mw laser
+point laser point
+red green laser
+red and green laser
+green laser line generator
+most powerful blue laser
+how powerful is a 5mw laser
+lxgd green laser
+buying a laser
+line laser generator
+laser diode wavelengths
+class 1 laser diode
+laser optic
+pulse laser diode
+laser industrial
+where to buy laser diodes
+blue laser diode driver
+pulsed laser diodes
+laser diode driver module
+
+
+
+*****************************************************************************
+关键字：
+laser module
+关键字	本地每月搜索量（美国）
+laser module	5400
+blue laser module	170
+laser diode modules	720
+infrared laser module	110
+green laser module	720
+ir laser module	110
+laser diode module	1000
+laser modulator	480
+laser aiming module	170
+green laser modules	590
+line laser module	170
+red laser diode module	58
+red laser module	320
+diode laser module	1000
+1w laser module	28
+laser line module	170
+dpss laser module	36
+5mw green laser module	28
+green laser diode module	73
+ir laser modules	91
+high power laser module	91
+laser pens	5400
+laser light module	46
+200mw laser module	210
+green laser diode modules	46
+5mw red laser module	36
+405nm laser module	73
+445nm laser module	22
+burning laser module	28
+laser modules for sale	36
+532nm laser module	110
+200mw green laser module	170
+blue laser diode module	28
+
+
+
+	
+
+
+
+否定关键字：
+(先copy的否定关键字，再调整去掉module的 diode的)
+dragon lasers	2900
+aixiz laser module	110
+wicked lasers	22200
+dragonlasers	2400
+fiber laser	14800
+co2 laser	33100
+cni laser	720
+
+
+***********************广告*******************************************************
+
+激光模组
+www.Civillaser.com/Laser-Module
+www.civillaser.com/laser-module-c-2.html 
+
+Laser Modules Custom & Wholesale
+Factory sale quality Laser Modules
+100 Industry experts to serve you
+
+
+☆ 2014-1-9
+Customize Laser Modules 
+Red blue green Ir laser modules
+Dot line cross Professional laser module
+
+www.Civillaser.com/Laser-Modules
+
+
+Laser Module diode Provider
+Customize red blue green Ir laser modules
+Dot&line&cross laser module Free Shipping
+
+Customize laser modules Dot line cross 
+Professional laser diode module Customize dot line cross lasers
+
+Bing:
+Professional laser diode module Customize dot line cross laser modules
+
+www.Civillaser.com/Laser-Modules
+www.civillaser.com/laser-module-c-2.html 
+
+
+
+
+dpss laser 广告
+
+DPSS Laser Cheap
+Still buying expensive DPSS laser
+DPSS laser Technology upgrades and cheap now
+
+technology upgrade 
+
+www.CivilLaser.com
+http://www.civillaser.com/solidstate-laser-dpss-laser-c-42.html
+---------------------------------------
+fiber laser 广告
+
+www.CivilLaser.com
+http://www.civillaser.com/fiber-coupled-laser-c-44.html
+
+
+
+
+laser module
+blue laser module
+infrared laser module
+green laser module
+ir laser module
+laser diode module
+green laser modules
+line laser module
+red laser diode module
+red laser module
+diode laser module
+1w laser module
+laser line module
+dpss laser module
+5mw green laser module
+green laser diode module
+ir laser modules
+high power laser module
+laser pens
+laser light module
+200mw laser module
+green laser diode modules
+5mw red laser module
+405nm laser module
+445nm laser module
+burning laser module
+laser modules for sale
+532nm laser module
+200mw green laser module
+blue laser diode module
+
+
+
+
+==========2015-3-26 lasermodule 图片ads keyword=================================
+laser module
+blue laser module
+infrared laser module
+green laser module
+ir laser module
+laser diode module
+green laser modules
+line laser module
+red laser diode module
+red laser module
+diode laser module
+1w laser module
+laser line module
+dpss laser module
+5mw green laser module
+green laser diode module
+ir laser modules
+high power laser module
+laser light module
+200mw laser module
+green laser diode modules
+5mw red laser module
+405nm laser module
+445nm laser module
+burning laser module
+laser modules for sale
+532nm laser module
+200mw green laser module
+blue laser diode module
+Diode Pumped Solid State laser
+dpss laser
+dpss lasers
+laser dpss
+pumped laser
+solid state laser
+dpss laser diode
+high quality laser
+high power Pumped laser 
+
+
+==========2015-3-26 lasermodule 图片ads 描述=================================
+Laser Module DPSS Laser Customize Supplier
+405nm 445nm 532nm 650nm 808nm 980nm lasers with Free shipping
+Buy Now
+
+
+
+
+*****************模组配件************************************
+-- model 中加
+lasermodule-power-holder.php
+
+
+<div>
+<br>
+<img src="/images/xxxx"><br><br>
+</div>
+
+
+*************980nm 一字线 Fan angle************************************
+huahua0929 (10:43:52): 
+哎,小于50MW最高90度,大于50MW最高45度左右
+vincent_0571 (10:45:24): 
+哦  这样啊  我回复一下客户
+huahua0929 (10:45:35): 
+好的 808的也是如此
+huahua0929 (10:49:05): 
+错了,808是所有的都最高45度
+因为808的全是方形的光斑
+
+
+****************YouTube 视频************************************
+<div class="clearBoth">&nbsp;</div>
+<div class="YouTube-link">
+<h4> 980nm 6W DPSS laser semiconductor laser with 110v or 220v power supply -- CivilLaser</h4><br>
+<a href="http://youtu.be/miJjjcmJodk" 
+alt=" 980nm 6W DPSS laser semiconductor laser with 110v or 220v power supply -- CivilLaser" 
+title=" 980nm 6W DPSS laser semiconductor laser with 110v or 220v power supply -- CivilLaser" 
+target="_blank">&nbsp;</a></div>
+<div class="clearBoth">&nbsp;</div>
+
+
+
+
+
+*****************Power Supply*******************************
+Power Supply:&nbsp;<a href="http://www.civillaser.com/standard-type-power-supply-for-dpss-laser-p-72.html">Standard type power supply</a>&nbsp;/&nbsp;<a href="http://www.civillaser.com/lab-adjustable-power-supply-for-dpss-laser-p-73.html">Lab Adjustable power supply</a>&nbsp;(Choose)&nbsp;
+
+
+*****************图片copy*****CivilLaser*******************************
+mv /home/www/default/civillaser/tmp/*.jpg   /home/www/default/civillaser/images/

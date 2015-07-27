@@ -1,0 +1,47 @@
+
+
+[Features]
+Miniature size
+Collimated straight beam
+Adjustible focuse
+Easy use & maintenance free
+Longlife operation 
+High efficiency 
+High reliability
+
+
+[APPLICATIONS]
+Thermal printing
+Material Inspection
+Scanning Biochemistry 
+Lidar
+
+
+
+[Specifications]
+Product Name: 405nm 50mw Blue violet DPSS Laser
+Lead Time: 5~7 workingdays! Custom product available!
+Output Wavelength: 405±5 nm
+Output Power: 50mW
+Operating mode: CW or Modulation
+Product Include: Laser system + Controller + Adjustable Power source 
+Laser Shape: Dot
+Spatial mode: Near TEM00 or Multimode
+Pointing Stability: <0.05 mrad    (光斑指向安定性)
+Polarization: 10:1 (?? 偏振)
+Beam Size: 4 mm  (出光穴光斑直径)
+Bean Height: 25mm
+Beam Divergence:  0.5 mrad  (发散角)
+Beam Quality (M2): <2
+Power Stability:  <3% over 4 hrs (安定性)
+Temperature Stabilizing: TEC (製冷方式)
+Warm Up Time: <2 minutes (<2 minutes)
+Optimum Operating Temperature: 20~30℃
+Storage Temperature: 10~50℃
+MTTF(mean time to failure): 10,000 hrs
+Modulation:  0~10khz or TTL  (模擬変調频率)
+Laser head dimensions: 100(L)x32(W)x45(H) mm
+Power Supply: Standard type power supply / Lab Adjustable power supply (choose)   (变成link样式)
+Warranty: 1 Year
+
+

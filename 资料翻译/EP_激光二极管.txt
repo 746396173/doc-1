@@ -1,0 +1,102 @@
+
+Laser Diode
+
+Blue Laser Diode
+Blue Violet Laser Diode
+Red Laser Diode
+Infrared
+
+【Application】
+Solid-state laser pumping
+Medical usage
+Beacons and Illumination
+Free-space communication
+Infrared light sources
+
+
+【Specifications】
+Name: Laser Diode
+Output Wavelength: 405nm
+Output power: 250mW CW(Pulse 380mW)
+Package Type: TO-18 (Φ5.6mm) / With Pb free glass cap, PD / TO package or C-Mount Package
+Brand: SONY
+Goods Origin: CN
+Place of production: Japan
+Module: AL405T20 TO-18
+Working life: >10,000 hours
+Welding time: < 10 seconds    -- 焊接时间:：小于10秒
+Welding Temperature: < 260℃   --- 焊接温度:： 小于260℃
+
+Note:
+1. It's a second-hand laser diode. 
+2. If there are any product problems with this laser diode within 3 days of receiving it, you can return it for a full refund or exchange new products.
+
+
+Note:
+If there are any product problems with this laser diode within 3 days of receiving it, you can return it for a full refund or exchange new products.
+
+
+注意事项：
+此元件对静电敏感，未做好防静电措施请勿用手直接接触激光管本体，另外本品必须有合格的驱动电路才可正常工作，不同功率的电压一样，但工作电流不同，电路对管子的驱动电流需要控制在安全范围内，否则会影响寿命。
+
+Note: 
+This component sensitive to static electricity, anti-static measures do not make direct contact with the laser tube by human hand, in addition to the product must have a qualified driver circuit before work, different laser beam power with the same working voltage, but  operating current is different, the circuit of the tube drive current needed to control in a safe range, otherwise it will affect life expectancy.
+
+
+
+
+Absolute Maximum Ratings
+(Tc=25℃)
+Parameter / Symbols  /  Ratings /  Units
+Forward Current / If / 
+Optical Output / Po(CW) / 250mW
+Optical Output / Po(Pulse) / 380mW
+Reverse Voltage / Vr / 2V
+Reverse Voltage / Laser / Vr / 2 / V 
+LD Reverse Voltage / Vr (LD) / 
+PD Reverse Voltage / Vr (PD)
+Operating Temperature / Top / 0 ~ +90 / ℃
+Storage Temperature / Tstg / -40 ~ +90 / ℃
+
+
+Pulse width 25ns , Duty50%
+
+
+Electrical and optical Characteristics
+(Tc=25℃)
+Parameter /  Symbols / Conditions /  Min /  Typ / Max / Units
+
+Optical Output Power / CW / Po/
+Peak Wavelength / Po=120mw / λP / 
+Dominant Wavelength / λd / 
+Threshold Current / Ith /  CW / 45 / 60 / mA
+Operating Current /  Iop / Po=200mW  / 170 210 mA
+Operating Voltage / Vop /Po=200mW /- 5.2 6.0 V
+Slop Efficiency / CW / η / 
+Reverse Voltage / Laser / Vr / 2 / V 
+Lasing Wavelength / Lp / Po=10mw / 395 / 405 / 415 / nm 
+Beam Divergence / Perpendicular / Qv/ Po=10mw / 16 / 19 /23 / .
+Beam Divergence / Parallel / Qh / po = 10mw / 6 /8.5 / 12 / .
+Off Axis Angle / Perpendicular / dQv / Po=10mw / -2 / - / 2 / .
+Off Axis Angle / Parallel / dQh / Po=10mw / -2 / - / 2 / .
+Differential Efficiency / SE / Po=10mw /0.7 / 1.1 / - / mW/mA 
+Monitor Current / Po= 120mw / Im
+Slope Efficiency / η / - 1.0 1.6 1.9 mW/mA
+Beam Divergence (FWHM) / Parallel /  θ‖ Po=200mW 7.0 8.5 12 deg
+Beam Divergence (FWHM) / Perpendicular θ⊥ Po=200mW 16 19 24 deg
+Parallel Deviation Angle / △θ‖ Po=200mW -2 - 2 deg
+Perpendicular Deviation Angle / △θ⊥ Po=200mW -2.5 - 2.5 deg
+Emission Point Accuracy / △X,△Y,△Z Po=200mW -80 - 80 um
+Lasing Wavelength / λp Po=200mW 400 405 410 nm
+
+
+
+3天质保
+Note:
+If there are any product problems with this laser diode within 3 days of receiving it, you can return it for a full refund or exchange new products.
+
+二手
+
+
+
+

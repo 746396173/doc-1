@@ -1,0 +1,28 @@
+
+Laser module power Supply DC 3V~5V
+
+
+【Input Characteristics】
+1, Voltage: operating voltage range of 100V ~ 240V AC voltage
+2, Frequency: AC input voltage range of 47 ~ 63 Hz frequency
+3, Current: maximum input current ≤ 20mA
+4, The impact of current: Inrush current ≤ 50A
+5, Protection: over voltage, over current, over temperature protection
+
+【Output Characteristics】
+1, The maximum output current: ≤ 2A ,Different voltage and current are different.
+2, Power: Output Power Rating 4W
+3, Ripple and noise: Ripple and noise: 30mV MAX.
+4, Boot delay time: boot delay time ≤ 3S
+5, Efficiency: ≥ 68% Power Efficiency
+
+
+【Reliability】
+At nominal input voltage, full load, ambient temperature of 40 degrees under the conditions of the supply MTBF is not less than 50,000 hours.
+
+【Input and output wiring】
+AC input line: flat head two plug input wire, cable length ≥ 1m;
+DC output cable: 5.5mm DC plug wire, cable length ≥ 1m
+
+
+

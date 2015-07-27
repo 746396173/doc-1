@@ -1,0 +1,38 @@
+ Supply: Standard type power supply for DPSS Laser / Lab Adjustable power supply for DPSS laser
+
+
+
+
+[Specifications]
+ Product Name: Standard type power supply for DPSS Laser / Lab Adjustable power supply for DPSS laser
+ Output Current:  0~100A adjustable / 0~2.0A  (电流)
+ Output Voltage: Max 50V Self-Adapted
+ Input Voltage: 110VAC or 220VAC +/-15%, 50/60Hz 
+ Pulse Width: 50~300us adjustable  (脉动)
+ Repetition Rate: 0~200Hz  (频率)
+ Max Duty Circle: 4%
+ Pulse Rise / Fall Time: ~10us
+ Protections: support
+ External Interface: support
+ Size:  304(W)x295(L)x88(H)mm
+
+
+ [Warranty]
+ 1. 12 months warranty from the date of delivery.
+ 2. We accept return & refund within 30 days after delivery for quality problem.
+ 3. Buyer pays the return freight in case of return.
+
+ [Applications]
+ 1. High Power Laser Diode Bars, Arrays, Stacks
+ 2. High Power DPSS Lasers
+ 3. Industry Laser Power Supply
+ 4. Lab Research Applications.
+
+ [Buyer Notice]
+ 1.  Buyers must be 18 years old and must have enough experience of using high power laser diodes.
+ 2.  Improper operation may cause damage to the laser diodes, especially for the over current operation. Seller doesn't take responsibility for these damage or loss.
+
+ 
+
+
+

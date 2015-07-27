@@ -1,0 +1,86 @@
+
+
+
+准直扩束激光器:
+Collimated laser beam expander
+
+
+远程点状定位指示器 :
+Remote indicator dot positioning
+
+40mm扩束:
+40mm beam expander
+
+
+
+Laser beam expander 650nm Red Laser Module
+
+Long-range Dot Position indicator/40mm extender
+
+650nm 5mw~50mw Focusable Beam expander laser module / Long distance Locator
+
+Laser Beam Expander Description:
+Collimated laser beam expander output by increasing the diameter of the beam divergence angle of its compression can make it better collimation, enabling remote use.
+Lasers are made of high-quality original, imported laser diode, together with the high performance APC driver circuit and optical coated glass lens group or quality plastic lens plastic composition, with high reliability, high stability, strong anti-interference, good consistency , long life and other characteristics.
+Our products are widely used in various industrial testing, long-distance point positioning, laser measuring diameter, interferometer and instrumentation, teaching test light source, laser sighting, laser medical equipment, stage lighting and laser light presentation, laser positioning device.
+
+High-quality laser diode,optical glass lens, driver circuit and housing 
+High Transmission 
+Short System Length
+
+
+You have to decrease the beam divergence if the working distance of laser is long. This beam expander laser module series is specially designed for use with red laser. The different expansion ratio can provide a small beam diameter at 10m, 100m even at 1000m. The lens design has considered the correction of spherical aberration in order to get good beam quality at long distance.Other expansion ratio is optional based on your request.
+ 
+Characteriscics:
+High-quality laser diode,optical glass lens, driver circuit and housing
+High Transmission
+Short System Length
+Small Spherical Aberration
+High reliability, high stability, long life,low price
+Applications:
+Laser Alignment
+Laser Leveling
+Aiming and Positioning
+Laser Surveying
+ 
+Specifications:
+Wavelength:650nm 
+Output power:50mW
+Expansion:5X,10X,20X
+Max input beam diameter:2mm
+Min beam divergence:0.05mrad ~ 0.6mrad
+Laser class:Ⅲb
+Operating Voltage:DC3V-5V
+Operating Temperature:10°C~40°C
+Storage Temperature:-30°C~80°C
+Dimensions:Φ30mm ×45mm x 160mm
+MTTF:8000 hours
+Warranty:1 year
+
+
+
+
+--------------------huahua---------------------------------------
+
+650nm 5mw~50mw Focusable Beam expander laser module / Long distance Locator / 20mm*100mm
+
+Specifications:
+Wavelength:650nm 
+Output power:5mw~50mW (Choice)
+Beam Divergence: 0.1mrad~0.6mrad Focusable
+Optical Systems: Optical Coated Glass 
+Spot Description: 50m department width spot diameter <Φ20mm / 6m department width spot diameter <Φ1.5mm / 5m department width spot diameter <Φ0.8mm
+Laser class:Ⅲb
+Operating Voltage:DC3V-5V
+Material: Aluminum Alloy
+Operating Temperature:10°C~50°C
+Storage Temperature:-40°C~80°C
+Size: Φ20mm x 100mm
+Note: Red line is (+), the black line is (-)
+MTTF:8000 hours
+Continuous working time: > 12 hours(Good heat dissipation)
+Warranty:1 year
+
+
+*********************keywords*********************************************************************
+laser beam expander
