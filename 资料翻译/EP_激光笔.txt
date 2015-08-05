@@ -151,7 +151,7 @@ Name: S3 Arctic Series
 Wavelength: 445nm
 Center wavelength: 447nm
 Output Power: Less than 1000mW   -- High output power laser beam, Safety glasses is necessary!
-Class: Class IIIB   / ClassⅣ 
+Class: Class IIIB   / ClassIV
 Output Mode: Continuous Wave
 Features: Waterproof
 Laser sharpe: Dot   
@@ -362,10 +362,10 @@ To become the best laser products supplier is our goal! ---- CivilLaser
 
 ****************YouTube 视频************************************
 <div class="clearBoth">&nbsp;</div><div class="YouTube-link">
-<h4>980nm 2W Powerful Ir lazer pointer invisible laser beam -- LuckLaser</h4>
+<h4>Instructions Video -- LuckLaser</h4>
 <a href="http://youtu.be/gQ591PFQ_to" 
-alt="980nm 2W Powerful Ir lazer pointer invisible laser beam -- LuckLaser" 
-title="980nm 2W Powerful Ir lazer pointer invisible laser beam -- LuckLaser" target="_blank">&nbsp;</a>
+alt="Instructions Video -- LuckLaser" 
+title="Instructions Video -- LuckLaser" target="_blank">&nbsp;</a>
 </div><div class="clearBoth">&nbsp;</div>
 
 

@@ -199,7 +199,12 @@ Electric-control: ACC line rod
 Structure: Laser tube + Lens
 Material: Aluminum Alloy / Metal
 Beam Divergence: 0.1mrad ~ 10mrad  （发散角）
+Beam Height: 30mm 光束高度(mm)
+Beam stability: ≤0.05(mrad) 光束稳定度(mrad)
 Exit Pupil Diameter: 5mm  (出瞳直径)
+Beam diameter (1/e2): ≤2.5mm  光束直径  束径
+Spectral line width: 0.1nm  谱线宽度(nm)
+Polarization ratio:　 ≥100:1 偏振比
 Laser beam size: 0.4mm-1mm
 Bending degree:≤1mm @ 5m   弯 曲 度:≤1mm @ 5m
 Optical Systems: Optical Coated Glass (光学系统：光学镀膜玻璃) / Three spherical glass lens group  (激光光学系统: 渡膜光学玻璃窗口片)
@@ -247,7 +252,7 @@ Exit Pupil Diameter: 5mm  出孔
 
 Warranty: 6 Months
 
-【Package includes】
+[Package includes]
 Package includes:
 1 x Red laser module  
 1 x Power Supply (choose)

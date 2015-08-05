@@ -8,3 +8,6 @@
 又出现了
 C:\Program Files\Common Files\Microsoft Shared\IME搜索\IMSC  找到它然后删除 就可以呢
 --> ok
+
+2015-8-4 又出现了
+
