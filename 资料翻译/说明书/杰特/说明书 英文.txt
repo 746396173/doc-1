@@ -1,0 +1,29 @@
+PL-E Pro Mechanical Switch
+
+1. Load Batteries: : Load "-" negative end of battery first.
+
+2. Switch on the Tail Switch:: There are two options of tail
+switches, one is the Keylock Switch, the other is the Simple Button
+Switch.
+
+2-1: The Keylock Switch: Turn into the keylock on tailcap with
+the key Clockwise, the LED indicator will turn on.
+
+2-2: Simple Button Switch: Depress the button on the tailcap, the
+LED indicator for the power supply will turn on.
+
+3: Turn the Beam On
+
+3-1: Constantly On/Off Button: the lower button
+▃ Depress Constantly On/Off Button，the beam is on.
+▃ Depress it again，the beam is off.
+
+3-2. Momentarily On/Off Button: the upper button
+▃ Depress the Momentarily On/Off Button, the beam is on.
+▃ Loosen the press, the beam is off.
+
+4..Switch the Beam Off
+▃ Press the Constantly on/off button to turn the beam off.
+▃ Switch the beam off at any state by pressing the tail power
+switch.
+

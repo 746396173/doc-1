@@ -1,5 +1,74 @@
 ﻿
 
+2015-8-18 colation
+520nm 1w 问题
+1. 光斑花;
+2. 电池仓太小;电池放进去不容易拿出; (上次方形款电池拿不出,我们用箭头钳子拉,短路电池爆炸,差点炸伤眼睛)
+3. 弹簧太短, 电池头稍微平一些,开关就够不到, 开不起来;
+
+
+
+
+最近一两周,访问国外的网站很慢;
+1. 以前好的,就最近有问题;
+2. 早上还好, 网站能慢的打开, 晚上基本就网页进不去了;
+3. 国外的网站服务器是正常的; 因为用同一时间段用其他的网络(公司/电信无线3G/移动4G)都可以访问,只有家里的电信宽带有问题;
+-----
+4. 测试的网站
+www.paypal.com
+www.aliarm.com
+www.civillaser.com
+5. 我们做外贸的, 要是国外的网站不能访问, 影响很大;
+
+--------------------------------------
+
+
+2015-8-12
+https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-3212931479.47.YdvQCL&id=520035173450
+蓝光 ktv 模组  / 激光 diy
+--> 450nm / 100mw
+--> 180 rmb / 180+120 = 300 rmb / 49$ / 5990 jpy / 
+
+
+2015-8-11
+https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-3212931479.44.owjVky&id=520035471840
+--> 37 + 50 = 90 / 16$ / 1996 jpy
+--> 4个最少
+
+
+2015-8-11
+https://laser-diode.taobao.com/search.htm?spm=a1z10.3-c.w4002-3212931479.103.zmcJpm&_ksTS=1439275929356_250&callback=jsonp251&mid=w-3212931479-0&wid=3212931479&path=%2Fsearch.htm&search=y&orderType=newOn_desc&pageNo=2#anchor
+整店产品 逐个加
+
+
+--------------------------------
+2015-8-11
+https://laser-diode.taobao.com/?spm=a1z10.5-c.0.0.Z7Issz
+激光diy ==> MTO 铭拓 激光
+http://mtolaser.1688.com/?spm=a2615.7691481.0.0.DIHEFZ
+看上去 相对专业些
+
+
+
+2015-8-11
+https://goodlaser.taobao.com/category-642076497.htm?spm=a1z10.5-c.w4002-966765382.3.shltdC&search=y&cps=y&queryType=cat&catId=642076497&parentCatId=642076496
+店铺： 激光二极管模组厂家
+可能质量不好  有差评
+
+
+2015-8-11
+老红军
+介绍不详细
+
+
+
+2015-8-11
+铂镭激光官网
+从 二极管开始加
+https://blaser.taobao.com/category-164312234.htm?spm=a1z10.5-c.w4002-1809645173.3.V4iaJn&search=y&cps=y&queryType=cat&catId=164312234&parentCatId=9999391
+
+产品价格低  但介绍不详细
+
 
 
 
@@ -11,10 +80,6 @@
 35 大功率 激光/户外/ https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-10824005279.35.JIXPxg&id=41026551742
 445nm /1.6w / 1200+ 1000 =2200 / 350 usd / 44900 jpy
 445nm / 3.5w / 2500 + 1200 = 3700 / 590 usd  ==> 240  / 73900 jpy ==> 29000 jpy
-
-
-
-
 
 
 
