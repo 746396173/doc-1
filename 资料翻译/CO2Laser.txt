@@ -1,0 +1,507 @@
+
+
+********价格表(南通比尔激光配件)*****************************************************
+400+1000=1400/$219/26000 JPY/
+500+1000=1500/239/28000/
+550+1000=1550/249/29000/
+850+1100=1950/309/36500/
+1500+1200=2700/429/50500/
+900+1000=1900/299/35500/
+1000+1000=2000/319/37400/
+1200+1100=2300/369/43000/
+1800+1200=3000/479/56000/
+2900+1500=4400/690/82300
+5500+2000=7500/1180/140930
+4500+2000=6500/1020/121700
+5700+2200=7900/1240/147920
+3200+1500=4700/739/88000
+7300+3000=10300/1620/192850
+3600+1500=5100/800/95490
+8500+3000=11500/1810/215300
+11800+4000=15800/2489/295840
+15800+6000=21800/3430/408180
+
+
+
+
+
+
+
+
+
+
+
+*************************************************************
+
+
+
+标题
+CO2 Laser tube 18W~175W CO2 cutting laser for CO2 laser engraver CO2 laser cutter accessories
+
+
+价格说明
+Prices start at $219, and not include shipping fee.
+Please tell us the output power of the CO2 laser and your shipping address, we will calculate the shipping fee.
+
+For example(Shipping fee):
+40W CO2 Laser;
+The box size: 125cm x 25cm x 25cm
+Weight: 5 Kg
+
+Shipping address#1(US)
+2999 629th pl ne , Sammamish, Washington, United States
+--> Shipping Fee: $100 (UPS Expedited)
+
+Shipping address#2(UK)
+15 Ash Drive. Northfield , Birmingham,  West Midlands, United Kingdom 
+--> Shipping Fee: $95 (FedEx or EMS)
+
+Shipping address#3(JP)
+1-1　豊川サイト 金屋西町, 豊川市, 愛知県, Japan 
+--> Shipping Fee: $40 (EMS)
+
+
+
+CO2 Laser Tube -- Price List
+xxxxxxxxxx价格表格xxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+适用范围
+皮革、布料、纸张、橡胶、塑料、有机玻璃、木板，亚克力、大理石等非金属
+Applicable scope:
+This CO2 laser tube is used in CO2 laser engraving machine/CO2 Laser cutter/CO2 Laser cutting machine. 
+Note: 
+1. For non-metal(Cloth, leather, paper, rubber, plastics, organic glass, acrylic, wood, marble and other non-metal). 
+2. Please confirm the length before buying.
+3. Working Life: General 60W CO2 laser tube service life is 1500 hours,Our 60W CO2 laser tube service life is over 2500 hours;
+
+
+激光管测试方法
+(收到产品后,请按以下流程测试激光管是否能正常工作)
+1. 将电流调至10mA~15mA, 直接在出光口10cm处,点射硬纸板, 一点即松, 出现圆形光斑;
+2. 将电流调至15mA~20mA, 在出光口10cm处, 用10mm~20mm亚克力点射10秒左右, 直至出现锥形体;
+How to test CO2 laser tube:
+(After receiving the product, please according to the following procedure to test the CO2 laser tube whether it can work or not)
+1, Make the current to 10mA~15mA, burst of cardboard at the place of outlet 10cm, immediately release, the round spot will shown;
+2, Make the current to 15mA~20mA, at the outlet 10cm, using 10mm~20mm acrylic burst in about 10 seconds, until the cone shown;
+
+
+
+CO2激光管的组成
+主要由硬质玻璃, 谐振腔, 电极三部分组成;
+1.硬质玻璃: 由GG17烧制成放电管, 冷水管, 储气套和回气管. 封离式CO2激光管通常为三层套管结构. 最里面的是放电管, 中间是水净套, 最外一层是储气套, 回气管是用于连通放电管和储气管;
+2.谐振腔: 由全反镜和输出镜组成. 全反镜一般以光学玻璃为基底, 表面镀金膜, 金膜反射镜在10.6um附件的反射率达98%以上; 谐振腔的输出反射镜一般采用透射10.6um辐射的红外线材料锗(Ge)为基底, 在上面镀上多层介质膜而制成;
+3.电极部分: CO2激光器一般用冷阴极, 形状为圆筒形,阴极材料选用对激光器的寿命有很大影响, 对阴极材料的基本要求是:溅射率低, 气体吸收率小, 常用的金属材料为镍. 
+
+The composition of CO2 laser tube:
+Consists of three main parts: Hard glass, resonant cavity and electrode.
+1. Hard glass:  fired into the discharge pipe, water pipe, gas and air return pipe by GG17.Sealed off CO2 laser tube is usually three layer casing structure. The inside is discharge tube, is in the middle of the water purifying set, the layer is a gas storage sets, the air return pipe is used for communicating the discharge tube and gas tube;
+2. cavity resonator: Consists of reflecting mirror and output mirror. The full-mirror general use optical glass as substrate, the surface of gold film, the gold film mirror reflection in 10.6um attachment rate of more than 98%; The resonator output mirror generally made by use transmission 10.6um infrared radiation material germanium (Ge) as the base, coated dielectric multilayer film in the above;
+3. Electrode Part: CO2 lasers for general use cold cathode, the shape is cylindrical, Cathode material selection has a great influence on the life of the laser, the basic requirements for cathode materials are: low sputtering, gas absorption rate is small, commonly used metallic material is nickel.
+
+
+
+特性
+1. 玻璃部分采用Gg17烧纸而成, 输出功率稳定;
+2. 谱线多达66种(市面上的产品只有10种谱线),谱线多, 热量足, 切割速度快;
+3. 采用TEMoo激光模式,属优质CO2激光管;
+4. 使用寿命长. 一般60w的 CO2激光管的使用寿命是1500小时, 我们的60W二极管使用寿命长达2500小时以上;
+
+CivilLaser CO2 Laser Tube Feature:
+1, The glass part is made of Gg17, the output power is stable.
+2, 66 kinds of spectral line(there are only 10 spectral lines on the market), multi spectral line, caloric foot, cutting speed;
+3, Laser mode TEM00, high-quality CO2 laser tube;
+4, Long service life. 60w CO2 laser tube service life is generally 1500 hours, but our 60W CO2 laser's service life is more than 2500 hours.
+
+
+
+
+
+
+
+包装说明:
+采用25mm x 25mm x (管长+150mm)的硬纸盒, 内有防震保护, 可安全运输;
+
+Package description:
+Use 25cm x 25cm x (CO2 laser tube length +15cm) of the carton box, in earthquake protection, safe transportation;
+
+
+
+
+
+使用方法：
+1．先将电极的线接好，(+、-)极切勿接错。
+2．冷却水管接好，接法为从正极进水，负极出水并满足下进上出的原则，且接口处不能漏水。使用前蓄水器内必须蓄足水，通水后水冷管内必须天气泡方可使用(每次使用前都必须察看)。
+3．建议用户在激光管净却水循环系统中加入自动检测装置，以防激光管在工作因断水而过热导致故障，详情请咨询激光整机供应商。
+
+Installation instructions:
+1 Connecting electrode line, (+, -) is not to take the wrong.
+2 Connection the cooling water pipe. 
+  Positive side connect water inlet pipe,Negative side connect the water outlet pipe.
+  Up-out and down-in.
+  Not leaking.
+  After switching on the water, Make sure no air bubbles within the water cooling pipe.
+ 
+
+
+
+维护、保养：
+1．每次使用前都必 须察看通水循环是否正常且无气泡。
+2．经常察看负极的输出反射镜是否有灰尘和油渍，如有则用无脂棉花沾上乙醚擦洗，否则会影响功率和光斑,并影响激光器的寿命。
+
+
+Maintenance:
+1. Before use, please check use must look at the water cycel is normal and no bubbles.
+2. Always check if there is any dirt or grease on the negative output mirror, If so, then stained with fat-free cotton scrub ether, otherwise it will affect the power and the spot, and affect the service life of the laser.
+
+
+常见故障
+一、刻不深：
+1．会发光但刻不深：先检查激光管的支承点是否合理、光强设置得是否太小、光路是否偏移、焦距是否正确、镱片表面是否有划痕和脏物、冷却水的流量流压是否正常，以上几项没问题就检查激光管的出光口内的镜片是否有划痕和脏物，如果也正常的话那么就是激光管本身的质量问题了。
+2．发光一会才刻不深：这个问题要先检查激光管的支承点是否合理， 水温是否超过30度，镜片在工作时是否发热，冷却水的流量流压是否正常，冷却水是否清洁，以上正常然后再检查激光管.
+
+二、高压打火及放电：
+1．检查高压头周围有没有脏物和湿润，离机器金属部分是否太近 ；另外就是激光电源高压连接装置是否从支座上掉下来了，高压连接装置内部是否断线和破坏。如果以上正常的话那么就是激光管本身的质量问题了。
+
+三、激光管破、裂、水冷头脱落：
+1．水温是否控制在25℃-30℃范围，寒冷地区冷却水不得结冰，尤其是激光器停机后 ，不得让冷却水储留在激光管内。
+2． 发光是否在水保护的控制下工作；（测试一下发光会不会随着水的通断而发光或不发光）
+3． 水路的水管有没有会打拆的现象。
+4．激光管内是否会存有汽泡。
+5．水压水流是否正常；水流方向是否低进高出。
+6．1-5项正常的话那么就是激光管本身质量问题。
+
+Common Faults:
+A, Engraved is not deep:
+1. The laser can light but not deep engraved: check the supporting point of the laser tube is reasonable or not, whether the light intensity is set too small, whether the optical path shift, whether the focal length is correct, whether ytterbium sheet surface scratches and dirt, whether the flow of cooling water's flow pressure normal, if no problem with the above checks, then check  whether there are scratches and dirt inside the laser's lens light outlet pipe, if normal, then it is the quality of the laser tube's problem.
+2. Emitting the light for a while before the engraved is not deep: 
+For this problem, first check the supporting point of the laser tube is reasonable, whether the water temperature exceeds 30 degrees, the lens is heat at work, whether the flow of cooling water flow pressure is normal, if the cooling water clean, above normal then check the laser tube.
+
+B, the high voltage ignition and discharge:
+1. Check if there is any dirt and moisture at the around of high voltage cap, if its too close from the metal parts of the machine; 
+the other is a laser high-voltage power supply connecting device is fell off,  whether internal high-voltage connection device disconnection or destruction. 
+If above normal, then it is the laser tube's quality issue.
+
+C, the laser tube broken, cracked, water cooling head off:
+1. Whether the water is controlled in the range of 25 ℃ -30 ℃, the cooling water can not freeze in cold regions, especially after laser shutdown, may not allow the cooling water retention in the laser tube.
+2. Whether luminous work under the protection of water control; (test whether light can emit with the water's on-off or not)
+3. Check the water pipes have folded or not.
+4. Whether there will be bubbles within the laser tube.
+5. Check whether the water pressure is normal; whether the flow directions is correct or not.
+6. If 1-5 terms are all clear, then it the laser tube's quality issue.
+
+
+
+
+
+
+
+***************图片**********************************************
+<div>
+<img src="/images/co2 laser tube laser cutter (2).jpg" alt="co2 laser cutter,laser cutting"><br><br>
+<img src="/images/co2 laser tube laser cutter (3).jpg" alt="co2 laser cutter,laser cutting"><br><br>
+<img src="/images/co2 laser tube laser cutter (4).jpg" alt="co2 laser cutter,laser cutting"><br><br>
+<img src="/images/co2 laser tube laser cutter (5).jpg" alt="co2 laser cutter,laser cutting"><br><br>
+<img src="/images/co2 laser tube laser cutter (6).jpg" alt="co2 laser cutter,laser cutting"><br><br>
+<img src="/images/co2 laser tube laser cutter (7).jpg" alt="co2 laser cutter,laser cutting"><br><br>
+<img src="/images/co2 laser tube laser cutter (8).jpg" alt="co2 laser cutter,laser cutting"><br><br>
+</div>
+
+
+**************价格表******************************************************
+<div class="grayTable">	
+<table>
+
+<thead>
+<tr>
+<th scope="col">Length</th>
+<th scope="col">Output Power</th>
+<th scope="col">Max Power</th>
+<th scope="col">Tube diameter</th>
+<th scope="col">Working current</th>
+<th scope="col">Price</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>450mm</td>
+<td>18W</td>
+<td>25W</td>
+<td>50mm</td>
+<td>12mA</td>
+<td>$219</td>
+</tr>
+
+<tr>
+<td>600mm</td>
+<td>25W</td>
+<td>35W</td>
+<td>50mm</td>
+<td>12mA</td>
+<td>$219</td>
+</tr>
+
+
+<tr>
+<td>700mm</td>
+<td>35W</td>
+<td>40W</td>
+<td>50mm</td>
+<td>15mA</td>
+<td>$219</td>
+</tr>
+
+<tr>
+<td>800mm</td>
+<td>35W</td>
+<td>40W</td>
+<td>50mm</td>
+<td>18mA</td>
+<td>$239</td>
+</tr>
+
+
+<tr>
+<td>850mm</td>
+<td>35W</td>
+<td>45W</td>
+<td>50mm</td>
+<td>18mA</td>
+<td>$239</td>
+</tr>
+
+<tr>
+<td>950mm</td>
+<td>40W</td>
+<td>50W</td>
+<td>50mm</td>
+<td>20mA</td>
+<td>$249</td>
+</tr>
+
+
+<tr>
+<td>1000mm</td>
+<td>40W</td>
+<td>50W</td>
+<td>50mm</td>
+<td>20mA</td>
+<td>$249</td>
+</tr>
+
+
+<tr>
+<td>1200mm</td>
+<td>60W</td>
+<td>80W</td>
+<td>55mm</td>
+<td>24mA</td>
+<td>$309</td>
+</tr>
+
+
+<tr>
+<td>1200mm</td>
+<td>80W</td>
+<td>90W</td>
+<td>80mm</td>
+<td>22mA</td>
+<td>$429</td>
+</tr>
+
+<tr>
+<td>1250mm</td>
+<td>60W</td>
+<td>80W</td>
+<td>55mm</td>
+<td>24mA</td>
+<td>$299</td>
+</tr>
+
+
+<tr>
+<td>1300mm</td>
+<td>80W</td>
+<td>95W</td>
+<td>80mm</td>
+<td>23mA</td>
+<td>$429</td>
+</tr>
+
+
+
+<tr>
+<td>1400mm</td>
+<td>80W</td>
+<td>90W</td>
+<td>60mm</td>
+<td>26mA</td>
+<td>$319</td>
+</tr>
+
+<tr>
+<td>1450mm</td>
+<td>80W</td>
+<td>100W</td>
+<td>80mm</td>
+<td>26mA</td>
+<td>$369</td>
+</tr>
+
+
+<tr>
+<td>1500mm</td>
+<td>105W</td>
+<td>120W</td>
+<td>80mm</td>
+<td>26mA</td>
+<td>$479</td>
+</tr>
+
+<tr>
+<td>1500mm</td>
+<td>105W</td>
+<td>135W</td>
+<td>80mm</td>
+<td>24mA</td>
+<td>$690</td>
+</tr>
+
+<tr>
+<td>1600mm</td>
+<td>80W</td>
+<td>100W</td>
+<td>60mm</td>
+<td>28mA</td>
+<td>$369</td>
+</tr>
+
+<tr>
+<td>1650mm</td>
+<td>100W</td>
+<td>120W</td>
+<td>80mm</td>
+<td>28mA</td>
+<td>$479</td>
+</tr>
+
+
+<tr>
+<td>1650mm</td>
+<td>130W</td>
+<td>160W</td>
+<td>80mm</td>
+<td>26mA</td>
+<td>$1180</td>
+</tr>
+
+<tr>
+<td>1750mm</td>
+<td>125W</td>
+<td>145W</td>
+<td>80mm</td>
+<td>29mA</td>
+<td>$1020</td>
+</tr>
+
+
+<tr>
+<td>1750mm</td>
+<td>135W</td>
+<td>165W</td>
+<td>80mm</td>
+<td>27mA</td>
+<td>$1240</td>
+</tr>
+
+
+<tr>
+<td>1850mm</td>
+<td>130W</td>
+<td>150W</td>
+<td>80mm</td>
+<td>31mA</td>
+<td>$739</td>
+</tr>
+
+
+<tr>
+<td>1850mm</td>
+<td>150W</td>
+<td>180W</td>
+<td>80mm</td>
+<td>28mA</td>
+<td>$1620</td>
+</tr>
+
+<tr>
+<td>2000mm</td>
+<td>150W</td>
+<td>180W</td>
+<td>80mm</td>
+<td>33mA</td>
+<td>$800</td>
+</tr>
+
+<tr>
+<td>2000mm</td>
+<td>165W</td>
+<td>195W</td>
+<td>80mm</td>
+<td>30mA</td>
+<td>$1810</td>
+</tr>
+
+<tr>
+<td>J-1850mm</td>
+<td>150W</td>
+<td>185W</td>
+<td>90mm</td>
+<td>28mA</td>
+<td>$2489</td>
+</tr>
+
+<tr>
+<td>J-2000mm</td>
+<td>175W</td>
+<td>215W</td>
+<td>100mm</td>
+<td>33mA</td>
+<td>$3430</td>
+</tr>
+
+
+</tbody>	
+</table>
+</div>
+
+
+
+*****************************日语***************************************************
+CO2 Laser Tube
+CO2レーザーチューブ   
+tube:  チューブ
+ＣＯ２レーザ切断
+炭酸ガスレーザー
+
+CO2レーザー加工機
+
+中国製レーザー管
+
+電源購入
+
+60Wレーザーチューブです。両端に全反射鏡と部分反射鏡が取り付けられていて、冷却水のIN/OUTがあります。ミラー経由でチューブ内に流れる仕組みになっています。
+
+
+-- 它是60W激光管。有全反射镜和部分反射镜安装到两端，有冷却水IN / OUT。它已成为一种机制，通过反射镜流入管。
+
+
+
+*************************************************************
+CO2 Laser tube 18W~175W CO2 cutting laser for CO2 laser engraver CO2 laser cutter accessories
+
+CO2レーザーチューブ 18W~175W 中国製レーザー管 CO2レーザー加工機
+
+
+レーザーチューブです。両端に全反射鏡と部分反射鏡が取り付けられていて、冷却水のIN/OUTがあります。ミラー経由でチューブ内に流れる仕組みになっています。

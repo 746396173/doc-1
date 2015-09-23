@@ -269,8 +269,8 @@ Xxxx在庫が大量にあり、ご注文をお待ちしております。
 バッテリー:  2 x 単4形乾电池(電池不含) / 2 xAAA /アルカリ性AAA x 2 PCS  [附属] / 1 x 18650 充電電池 [Not Include] [電池不含]
 充電器: 付属
 動作電圧: DC 3V ~ 3.7V
-18650:   <div>バッテリー:&nbsp;1 x <a href="http://www.lucklaser.jp/18650-liion-rechargeable-battery-p-87.html" target="_blank">18650 充電電池 </a>[電池不含]</div>
-16340:  <div>バッテリー：2 x <a href="http://www.lucklaser.jp/16340-liion-rechargeable-battery-p-86.html" target="_blank">16340 充電電池 </a>[電池不含]</div>
+18650:   <div>バッテリー|Power supply:&nbsp;1 x <a href="http://www.lucklaser.jp/18650-liion-rechargeable-battery-p-87.html" target="_blank">18650 充電電池 </a>[電池不含]</div>
+16340:  <div>バッテリー|Power supply：2 x <a href="http://www.lucklaser.jp/16340-liion-rechargeable-battery-p-86.html" target="_blank">16340 充電電池 </a>[電池不含]</div>
 定額電流: 100MA | ＜380MA
 外型寸法:  Φ22mm*70mm / Φ12*32mm + PCBA 9.0 X 20mm  (电板没包在里面的)
 製品重量: <300g(電池不含)
@@ -1057,7 +1057,33 @@ led (LEd 指针）
 
 
 
+2015-8-21 jp.civillaser.com 激光笔 / yads
+http://www.jp.civillaser.com/-c-1.html
 
+レーザ ポインター 通販
+レーザ ポインター  激安
+高出力レーザ 送料無料!
+
+
+2015-9-2  激光笔 / yads
+最新のレーザポインター 通販
+最安値挑戦、今すぐゲット 72%OFF
+
+小型 レーザポインター 安い
+レーザポインター 人気
+最安値挑戦、今すぐゲット
+最大72％オフで販売
+
+keywords:
+グリーンレーザ
+グリーンレーザー
+レーザポインター
+5mw  レーザー
+500mw 緑 レーザー
+小型 緑レーザー
+50mwレーザー
+超強力レーザー
+カラス 駆除 レーザー
 
 ****************include php 绝对路径************************************
 <?php include_once($_SERVER["DOCUMENT_ROOT"]."/include/analyticstracking.php") ?>

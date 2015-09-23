@@ -403,10 +403,10 @@ To become the best laser products supplier is our goal! ---- CivilLaser
 
 ****************YouTube 视频************************************
 <div class="clearBoth">&nbsp;</div><div class="YouTube-link">
-<h4>980nm 3000mw 3 watt Ir laser pointer invisible laser powerful lase</h4>
-<a href="http://youtu.be/LHg-Wssfu_I" 
-alt="980nm 3000mw 3 watt Ir laser pointer invisible laser powerful lase" 
-title="980nm 3000mw 3 watt Ir laser pointer invisible laser powerful lase" target="_blank">&nbsp;</a>
+<h4>High power green laser pointer -- Out door </h4>
+<a href="http://youtu.be/iddouLt5uNY" 
+alt="High power green laser pointer -- Out door " 
+title="High power green laser pointer -- Out door " target="_blank">&nbsp;</a>
 </div><div class="clearBoth">&nbsp;</div>
 
 
@@ -430,3 +430,4 @@ title="980nm 3000mw 3 watt Ir laser pointer invisible laser powerful lase" targe
 
 *****************图片copy************************************
 mv /home/www/default/lucklaser/tmp/*.jpg   /home/www/default/lucklaser/images/
+

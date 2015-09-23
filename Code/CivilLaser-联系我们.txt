@@ -1,0 +1,23 @@
+<p><b><span class="Apple-style-span" style="color: rgb(81, 81, 81); font-family: arial, sans-serif; font-weight: normal;"></span></b></p><div>Civillaser offers 24x7 hours customer services on weekdays as well as hours on Saturday (except for major holidays). We believe in the timeliness of customer service, and would like to do everything to satisfy our customers. If you have any inquiries or questions, please feel free to contact us. </div><div><br /></div>
+
+
+
+<div><b>Email</b>: <a href="mailto:master@lucklaser.jp?subject=Welcome to contact us!  -- LuckLaser.jp">master@lucklaser.jp</a></div>
+
+
+<div><br><b>Tel</b>: 86-159-6712-9903 (GMT +8:00  AM 8:30~ PM 5:30)</div>
+
+
+<div><br><b>Skype</b>:live:master_2927<br></div>
+<script type="text/javascript" src="http://www.skypeassets.com/i/scom/js/skype-uri.js"></script>
+<div id="SkypeButton_Call_live:master_2927_1">
+  <script type="text/javascript">
+    Skype.ui({
+      "name": "chat",
+      "element": "SkypeButton_Call_live:master_2927_1",
+      "participants": ["live:master_2927"],
+      "imageSize": 32
+    });
+  </script>
+</div>
+

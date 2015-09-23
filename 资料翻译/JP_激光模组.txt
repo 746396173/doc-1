@@ -1085,12 +1085,11 @@ www.jp.civillaser.com
 
 *****************加视频************************************
 <div class="clearBoth">&nbsp;</div>
-
 <div class="YouTube-link">
-<h4>405nm 500mw  Blue-violet CW laser with power supply--CivilLaser</h4><br>
-<a href="http://youtu.be/_Byrt0TShzg" 
-alt="405nm 500mw  Blue-violet CW laser with power supply--CivilLaser" 
-title="405nm 500mw  Blue-violet CW laser with power supply--CivilLaser" 
+<h4>650nm 30wm Fiber laser Single-Mode FC</h4><br>
+<a href="https://youtu.be/N_P-akgWX08" 
+alt="小型 ファイバ結合レーザー 650nm 30wm Fiber laser Single-Mode FC" 
+title="小型 ファイバ結合レーザー 650nm 30wm Fiber laser Single-Mode FC" 
 target="_blank">&nbsp;</a></div>
 <div class="clearBoth">&nbsp;</div>
 

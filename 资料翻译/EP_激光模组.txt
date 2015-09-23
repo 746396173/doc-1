@@ -1,4 +1,4 @@
-	
+
 
 
 /*********************激光切割器************************************/
@@ -29,6 +29,13 @@ CNI is the largest and professional DPSS Laser manufacturer in China.
    二氧化碳激光器
 
 
+
+laser heatsink 散热器
+infrared laser
+10 watt laser
+515nm laser
+12 volt laser
+laser driver
 --------------------------------------
 电源图片 dpss-laser-power-supply.jpg 
 
@@ -848,10 +855,10 @@ huahua0929 (10:49:05):
 ****************YouTube 视频************************************
 <div class="clearBoth">&nbsp;</div>
 <div class="YouTube-link">
-<h4> 980nm 6W DPSS laser semiconductor laser with 110v or 220v power supply -- CivilLaser</h4><br>
-<a href="http://youtu.be/miJjjcmJodk" 
-alt=" 980nm 6W DPSS laser semiconductor laser with 110v or 220v power supply -- CivilLaser" 
-title=" 980nm 6W DPSS laser semiconductor laser with 110v or 220v power supply -- CivilLaser" 
+<h4>DIY blue-violet laser module  </h4><br>
+<a href="https://youtu.be/KhoJ1zvZHUk" 
+alt="DIY blue-violet laser module " 
+title="DIY blue-violet laser module " 
 target="_blank">&nbsp;</a></div>
 <div class="clearBoth">&nbsp;</div>
 
@@ -865,3 +872,5 @@ Power Supply:&nbsp;<a href="http://www.civillaser.com/standard-type-power-supply
 
 *****************图片copy*****CivilLaser*******************************
 mv /home/www/default/civillaser/tmp/*.jpg   /home/www/default/civillaser/images/
+
+
